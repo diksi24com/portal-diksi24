@@ -1,7 +1,6 @@
 ---
 title: 'Menulis: Seni Merangkai Kata dan Trik Atasi Buntu'
 date: 2026-09-27
-featured: true
 draft: false
 categories: ["Edukasi"]
 description: "Menulis bukan sekadar merangkai huruf, melainkan sebuah proses kognitif yang penuh seni. Simak alasan mengapa hobi ini sepi peminat dan trik praktis mengatasi writer's block."
