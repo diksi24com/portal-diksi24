@@ -216,19 +216,19 @@
     </div>
   </div>
 
-  {{/* ===== OTHER ARTICLES (A-Z) — PALING BAWAH ===== */}}
+  {{/* ===== OTHER ARTICLES (A-Z) dengan Pagination JS ===== */}}
   {{- $otherPosts := where site.RegularPages "Type" "in" site.Params.mainSections }}
   {{- $otherPosts = where $otherPosts "Params.hiddenInHomeList" "!=" "true" }}
   {{- $otherPosts = sort $otherPosts "Title" "asc" }}
   {{- if $otherPosts }}
-  <div style="margin:32px 0 0 0;padding:0;">
+  <div id="other-articles-section" style="margin:32px 0 0 0;padding:0;">
     <div style="display:block;margin:0 0 16px 0;padding:0;">
       <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#1f2937;padding-bottom:8px;border-bottom:3px solid #e60000;">Other Articles</span>
     </div>
 
-    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px;">
+    <div id="other-articles-grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px;">
       {{- range $otherPosts }}
-      <article style="background:#ffffff;border:1px solid #e5e7eb;border-radius:8px;overflow:hidden;display:flex;flex-direction:column;">
+      <article class="other-article-card" style="background:#ffffff;border:1px solid #e5e7eb;border-radius:8px;overflow:hidden;display:flex;flex-direction:column;">
         {{- if .Params.cover.image }}
         <a href="{{ .Permalink }}" style="display:block;width:100%;height:160px;overflow:hidden;text-decoration:none;">
           <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;">
@@ -248,7 +248,51 @@
       </article>
       {{- end }}
     </div>
+
+    <div id="other-articles-pagination" style="display:flex;justify-content:center;align-items:center;gap:16px;margin-top:24px;">
+      <button id="other-prev" type="button" style="background:#1f2937;color:#ffffff;border:none;border-radius:6px;padding:10px 20px;font-size:14px;font-weight:600;cursor:pointer;">« Prev</button>
+      <span id="other-page-info" style="font-size:14px;font-weight:700;color:#1f2937;">1 / 1</span>
+      <button id="other-next" type="button" style="background:#e60000;color:#ffffff;border:none;border-radius:6px;padding:10px 20px;font-size:14px;font-weight:600;cursor:pointer;">Next »</button>
+    </div>
   </div>
+
+  <script>
+  (function() {
+    var grid = document.getElementById('other-articles-grid');
+    if (!grid) return;
+    var cards = grid.querySelectorAll('.other-article-card');
+    var perPage = 5;
+    var currentPage = 1;
+    var totalPages = Math.ceil(cards.length / perPage);
+    var prevBtn = document.getElementById('other-prev');
+    var nextBtn = document.getElementById('other-next');
+    var pageInfo = document.getElementById('other-page-info');
+
+    function render() {
+      var start = (currentPage - 1) * perPage;
+      var end = start + perPage;
+      for (var i = 0; i < cards.length; i++) {
+        cards[i].style.display = (i >= start && i < end) ? 'flex' : 'none';
+      }
+      pageInfo.textContent = currentPage + ' / ' + totalPages;
+      prevBtn.disabled = (currentPage === 1);
+      nextBtn.disabled = (currentPage === totalPages);
+      prevBtn.style.opacity = (currentPage === 1) ? '0.4' : '1';
+      nextBtn.style.opacity = (currentPage === totalPages) ? '0.4' : '1';
+      prevBtn.style.cursor = (currentPage === 1) ? 'not-allowed' : 'pointer';
+      nextBtn.style.cursor = (currentPage === totalPages) ? 'not-allowed' : 'pointer';
+    }
+
+    prevBtn.addEventListener('click', function() {
+      if (currentPage > 1) { currentPage--; render(); }
+    });
+    nextBtn.addEventListener('click', function() {
+      if (currentPage < totalPages) { currentPage++; render(); }
+    });
+
+    render();
+  })();
+  </script>
   {{- end }}
 
 {{- else }}
