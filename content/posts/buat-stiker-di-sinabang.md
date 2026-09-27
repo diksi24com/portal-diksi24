@@ -1,6 +1,7 @@
 ---
 title: 'Sejarah Pelopor Stiker Pertama yang Bertahan di Simeulue'
 date: 2026-08-26
+featured: true
 draft: false
 categories: ["Cerita Menarik"]
 description: "Kisah usaha stiker kendaraan pertama di Simeulue, bertahan dari sederet musibah hingga kini menetap di Desa Suka Jaya."
