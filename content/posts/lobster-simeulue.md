@@ -1,6 +1,7 @@
 ---
 title: 'Lobster Simeulue: Nostalgia Masa Kecil di Teluk Sinabang'
 date: 2026-09-05
+featured: true
 draft: false
 categories: ["Cerita Menarik"]
 description: "Mengenal lobster Simeulue dari kenangan masa kecil di Teluk Sinabang, jenis-jenisnya, harga pasar, hingga prospeknya di pasar dunia."
