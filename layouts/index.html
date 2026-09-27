@@ -219,6 +219,7 @@
   {{/* ===== OTHER ARTICLES (A-Z) dengan Pagination JS ===== */}}
   {{- $otherPosts := where site.RegularPages "Type" "in" site.Params.mainSections }}
   {{- $otherPosts = where $otherPosts "Params.hiddenInHomeList" "!=" "true" }}
+  {{- $otherPosts = where $otherPosts "Title" "!=" "Cari" }}  <!-- FILTER ARTIKEL "CARI" -->
   {{- $otherPosts = sort $otherPosts "Title" "asc" }}
   {{- if $otherPosts }}
   <div id="other-articles-section" style="margin:32px 0 0 0;padding:0;">
@@ -261,7 +262,7 @@
     var grid = document.getElementById('other-articles-grid');
     if (!grid) return;
     var cards = grid.querySelectorAll('.other-article-card');
-    var perPage = 5;
+    var perPage = 6; /* DIUBAH DARI 5 MENJADI 6 */
     var currentPage = 1;
     var totalPages = Math.ceil(cards.length / perPage);
     var prevBtn = document.getElementById('other-prev');
