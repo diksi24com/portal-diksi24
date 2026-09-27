@@ -216,6 +216,41 @@
     </div>
   </div>
 
+  {{/* ===== OTHER ARTICLES (A-Z) — PALING BAWAH ===== */}}
+  {{- $otherPosts := where site.RegularPages "Type" "in" site.Params.mainSections }}
+  {{- $otherPosts = where $otherPosts "Params.hiddenInHomeList" "!=" "true" }}
+  {{- $otherPosts = sort $otherPosts "Title" "asc" }}
+  {{- if $otherPosts }}
+  <div style="margin:32px 0 0 0;padding:0;">
+    <div style="display:block;margin:0 0 16px 0;padding:0;">
+      <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#1f2937;padding-bottom:8px;border-bottom:3px solid #e60000;">Other Articles</span>
+    </div>
+
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px;">
+      {{- range $otherPosts }}
+      <article style="background:#ffffff;border:1px solid #e5e7eb;border-radius:8px;overflow:hidden;display:flex;flex-direction:column;">
+        {{- if .Params.cover.image }}
+        <a href="{{ .Permalink }}" style="display:block;width:100%;height:160px;overflow:hidden;text-decoration:none;">
+          <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;">
+        </a>
+        {{- end }}
+        <div style="padding:12px;display:flex;flex-direction:column;gap:6px;flex:1;">
+          <h2 style="font-size:16px;line-height:1.4;font-weight:600;margin:0;padding:0;color:#1f2937;">
+            <a href="{{ .Permalink }}" style="color:#1f2937;text-decoration:none;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">{{ .Title }}</a>
+          </h2>
+          <div style="display:flex;gap:8px;align-items:center;font-size:12px;color:#6b7280;margin-top:auto;">
+            {{- if .Params.categories }}
+            <a href="{{ "/categories/" | relLangURL }}{{ (index .Params.categories 0) | urlize }}/" style="color:#e60000;font-weight:600;text-decoration:none;">{{ index .Params.categories 0 }}</a>
+            {{- end }}
+            <span style="color:#9ca3af;">{{ .Date.Format "02 Jan 2006" }}</span>
+          </div>
+        </div>
+      </article>
+      {{- end }}
+    </div>
+  </div>
+  {{- end }}
+
 {{- else }}
 
   {{- range $index, $page := $paginator.Pages }}
