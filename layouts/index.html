@@ -90,6 +90,69 @@
     </div>
   </article>
 
+  {{/* ===== PILIHAN EDITOR ===== */}}
+  {{- $featured := where site.RegularPages "Params.featured" "=" true }}
+  {{- $featured = where $featured "Params.hiddenInHomeList" "!=" "true" }}
+  {{- $featured = where $featured "Title" "!=" "Cari" }}
+  {{- if $featured }}
+    {{- $editorHero := index $featured 0 }}
+    {{- $editorRest := after 1 $featured }}
+    {{- $editorGrid := first 6 $editorRest }}
+
+    <div style="margin:32px 0 0 0;padding:0;">
+      <div style="display:block;margin:0 0 16px 0;padding:0;">
+        <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#1f2937;padding-bottom:8px;border-bottom:3px solid #e60000;">🎯 Pilihan Editor</span>
+      </div>
+
+      {{/* Hero Pilihan Editor */}}
+      <article style="margin-bottom:24px;">
+        <a href="{{ $editorHero.Permalink }}" style="display:block;position:relative;text-decoration:none;border-radius:12px;overflow:hidden;margin-bottom:12px;">
+          {{- if $editorHero.Params.cover.image }}
+          <img src="{{ $editorHero.Params.cover.image | absURL }}" alt="{{ $editorHero.Title }}" style="width:100%;height:280px;object-fit:cover;display:block;">
+          {{- end }}
+          <div style="position:absolute;bottom:0;left:0;right:0;padding:40px 24px 24px 24px;background:linear-gradient(to top,rgba(0,0,0,0.9) 0%,rgba(0,0,0,0.6) 60%,transparent 100%);">
+            <h1 style="color:#ffffff;font-size:26px;line-height:1.3;font-weight:800;margin:0;padding:0;text-shadow:0 2px 4px rgba(0,0,0,0.5);">{{ $editorHero.Title }}</h1>
+          </div>
+        </a>
+        <div style="display:flex;gap:8px;align-items:center;font-size:12px;color:#6b7280;">
+          {{- if $editorHero.Params.categories }}
+          <a href="{{ "/categories/" | relLangURL }}{{ (index $editorHero.Params.categories 0) | urlize }}/" style="color:#e60000;font-weight:600;text-decoration:none;">{{ index $editorHero.Params.categories 0 }}</a>
+          <span>•</span>
+          {{- end }}
+          <span style="color:#9ca3af;">{{ $editorHero.Date.Format "02 Jan 2006" }}</span>
+          <span>•</span>
+          <span style="color:#9ca3af;">{{ $editorHero.ReadingTime }} menit baca</span>
+        </div>
+      </article>
+
+      {{/* Grid 6 Pilihan Editor */}}
+      {{- if $editorGrid }}
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px;">
+        {{- range $editorGrid }}
+        <article style="background:#ffffff;border:1px solid #e5e7eb;border-radius:8px;overflow:hidden;display:flex;flex-direction:column;">
+          {{- if .Params.cover.image }}
+          <a href="{{ .Permalink }}" style="display:block;width:100%;height:160px;overflow:hidden;text-decoration:none;">
+            <img src="{{ .Params.cover.image | absURL }}" alt="{{ .Title }}" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;">
+          </a>
+          {{- end }}
+          <div style="padding:12px;display:flex;flex-direction:column;gap:6px;flex:1;">
+            <h2 style="font-size:16px;line-height:1.4;font-weight:600;margin:0;padding:0;color:#1f2937;">
+              <a href="{{ .Permalink }}" style="color:#1f2937;text-decoration:none;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">{{ .Title }}</a>
+            </h2>
+            <div style="display:flex;gap:8px;align-items:center;font-size:12px;color:#6b7280;margin-top:auto;">
+              {{- if .Params.categories }}
+              <a href="{{ "/categories/" | relLangURL }}{{ (index .Params.categories 0) | urlize }}/" style="color:#e60000;font-weight:600;text-decoration:none;">{{ index .Params.categories 0 }}</a>
+              {{- end }}
+              <span style="color:#9ca3af;">{{ .Date.Format "02 Jan 2006" }}</span>
+            </div>
+          </div>
+        </article>
+        {{- end }}
+      </div>
+      {{- end }}
+    </div>
+  {{- end }}
+
   <div style="display:block;margin:24px 0 16px 0;padding:0;">
     <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#1f2937;padding-bottom:8px;border-bottom:3px solid #e60000;">Latest Posts</span>
   </div>
@@ -219,7 +282,7 @@
   {{/* ===== OTHER ARTICLES (A-Z) dengan Pagination JS ===== */}}
   {{- $otherPosts := where site.RegularPages "Type" "in" site.Params.mainSections }}
   {{- $otherPosts = where $otherPosts "Params.hiddenInHomeList" "!=" "true" }}
-  {{- $otherPosts = where $otherPosts "Title" "!=" "Cari" }}  <!-- FILTER ARTIKEL "CARI" -->
+  {{- $otherPosts = where $otherPosts "Title" "!=" "Cari" }}
   {{- $otherPosts = sort $otherPosts "Title" "asc" }}
   {{- if $otherPosts }}
   <div id="other-articles-section" style="margin:32px 0 0 0;padding:0;">
@@ -262,7 +325,7 @@
     var grid = document.getElementById('other-articles-grid');
     if (!grid) return;
     var cards = grid.querySelectorAll('.other-article-card');
-    var perPage = 6; /* DIUBAH DARI 5 MENJADI 6 */
+    var perPage = 6;
     var currentPage = 1;
     var totalPages = Math.ceil(cards.length / perPage);
     var prevBtn = document.getElementById('other-prev');
@@ -300,53 +363,4 @@
 
   {{- range $index, $page := $paginator.Pages }}
   <article class="post-entry">
-    {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
-    {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
-    <header class="entry-header">
-      <h2 class="entry-hint-parent">{{ .Title }}</h2>
-    </header>
-    {{- if (ne (.Param "hideSummary") true) }}
-    <div class="entry-content">
-      <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
-    </div>
-    {{- end }}
-    <footer class="entry-footer">
-      <div class="post-meta-info">
-        <span class="post-author">{{ .Params.author | default site.Params.author }}</span>
-        <span class="post-sep">•</span>
-        <span class="post-date">{{ .Date.Format "02 Jan 2006" }}</span>
-        <span class="post-sep">•</span>
-        <span class="post-reading">{{ .ReadingTime }} menit baca</span>
-        {{- if .Params.categories }}
-        <span class="post-sep">•</span>
-        <span class="post-categories">
-          {{ range $i, $cat := .Params.categories }}{{ if $i }}, {{ end }}<a href="{{ "/categories/" | relLangURL }}{{ $cat | urlize }}/">{{ $cat }}</a>{{ end }}
-        </span>
-        {{- end }}
-      </div>
-    </footer>
-    <div class="read-more-wrapper">
-      <a href="{{ .Permalink }}" class="read-more-btn">Baca Selengkapnya →</a>
-    </div>
-    <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
-  </article>
-  {{- end }}
-
-  {{- if gt $paginator.TotalPages 1 }}
-  <footer class="page-footer">
-    <nav class="pagination">
-      {{- if $paginator.HasPrev }}
-      <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">«&nbsp;{{ i18n "prev_page" }}&nbsp;{{- if (.Param "ShowPageNums") }}{{- sub $paginator.PageNumber 1 }}/{{ $paginator.TotalPages }}{{- end }}</a>
-      {{- end }}
-      {{- if $paginator.HasNext }}
-      <a class="next" href="{{ $paginator.Next.URL | absURL }}">{{- i18n "next_page" }}&nbsp;{{- if (.Param "ShowPageNums") }}{{- add 1 $paginator.PageNumber }}/{{ $paginator.TotalPages }}{{- end }}&nbsp;»</a>
-      {{- end }}
-    </nav>
-  </footer>
-  {{- end }}
-
-{{- end }}
-
-{{- end }}{{/* end profileMode */}}
-
-{{- end }}{{- /* end main */ -}}
+    {{- $isHidden := (.
