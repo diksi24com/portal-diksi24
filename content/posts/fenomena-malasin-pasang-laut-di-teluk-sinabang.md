@@ -2,6 +2,7 @@
 title: 'Pasang Air Laut: di Teluk Sinabang Sebelum Tsunami Aceh 2004'
 permalink: '/2026/08/fenomena-malasin-pasang-air-laut-di.html'
 date: 2026-08-06
+featured: true
 draft: false
 categories: ["Cerita Menarik"]
 description: "Kenangan saat-saat fenomena Malasin (pasang air laut) di era 90an Pinggir Teluk Sinabang hingga perubahan dampak Malasin pasca Smong 2004 (Tsunami)."
