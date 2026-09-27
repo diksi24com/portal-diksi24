@@ -1,6 +1,7 @@
 ---
 title: 'Narasi Band Simeulue: The[A]Team, NuMetal Etnik Pulau'
 date: 2026-07-08
+featured: true
 draft: false
 categories: ["Musik"]
 description: "Perjalanan musik di Simeulue: Narasi The[A]Team Band-NuMetal Etnik Pulau. Kisah perjalanan band kabupaten simeulue."
