@@ -219,6 +219,7 @@
   </div>
 
 {{ partial "tag_populer.html" . }}
+{{ partial "tentang_penulis.html" . }}
   {{- $otherPosts := where site.RegularPages "Type" "in" site.Params.mainSections }}
   {{- $otherPosts = where $otherPosts "Params.hiddenInHomeList" "!=" "true" }}
   {{- $otherPosts = where $otherPosts "Title" "!=" "Cari" }}
