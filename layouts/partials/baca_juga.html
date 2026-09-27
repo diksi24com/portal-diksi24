@@ -1,0 +1,33 @@
+{{- $popular := where site.RegularPages "Params.views" "!=" nil }}
+{{- $popular = where $popular "Title" "!=" "Cari" }}
+{{- $popular = where $popular "Params.hiddenInHomeList" "!=" "true" }}
+{{- $popular = where $popular "Date" ">" (now.AddDate 0 -1 0) }}
+{{- $popular = sort $popular "Params.views" "desc" }}
+{{- $top := index $popular 0 }}
+{{- if $top }}
+<div style="margin:32px 0 0 0;padding:0;">
+  <div style="background:#ffffff;border-left:4px solid #e60000;border-radius:8px;padding:14px 16px;box-shadow:0 1px 3px rgba(0,0,0,0.05);">
+    <div style="font-size:12px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#e60000;margin-bottom:10px;">📖 Baca Juga</div>
+
+    <a href="{{ $top.Permalink }}" style="display:flex;flex-direction:row-reverse;gap:14px;align-items:center;text-decoration:none;">
+      {{- if $top.Params.cover.image }}
+      <div style="flex:0 0 110px;width:110px;height:80px;overflow:hidden;border-radius:6px;">
+        <img src="{{ $top.Params.cover.image | absURL }}" alt="{{ $top.Title }}" loading="lazy" style="width:100%;height:100%;object-fit:cover;display:block;">
+      </div>
+      {{- end }}
+      <div style="flex:1;min-width:0;">
+        <h3 style="font-size:16px;line-height:1.4;font-weight:700;color:#1f2937;margin:0 0 6px 0;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">{{ $top.Title }}</h3>
+        <div style="display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:12px;color:#6b7280;">
+          {{- if $top.Params.categories }}
+          <span style="color:#e60000;font-weight:600;">{{ index $top.Params.categories 0 }}</span>
+          {{- end }}
+          <span style="color:#9ca3af;">{{ $top.Date.Format "02 Jan 2006" }}</span>
+          {{- if $top.Params.views }}
+          <span style="color:#9ca3af;">• 👁️ {{ $top.Params.views }}</span>
+          {{- end }}
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
+{{- end }}
