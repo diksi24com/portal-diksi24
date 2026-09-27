@@ -1,6 +1,7 @@
 ---
 title: 'Panduan Pelayaran Feri Rute Simeulue–Aceh (PP)'
 date: 2026-08-06
+featured: true
 draft: false
 categories: ["Travelling"]
 description: "Panduan lengkap dan praktis penyeberangan kapal feri rute Pulau Simeulue menuju daratan Aceh (Labuhan Haji, Meulaboh, Calang)."
