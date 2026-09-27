@@ -1,6 +1,7 @@
 ---
 title: 'Jejak Band di Simeulue: Panggung Hajatan 80-90 an'
 date: 2026-09-17
+featured: true
 draft: false
 categories: ["Musik"]
 description: "Perjalanan Musik Band Pengiring yang pernah Merajai Panggung Hajatan di Simeulue"
