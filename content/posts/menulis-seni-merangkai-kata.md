@@ -1,5 +1,5 @@
 ---
-title: 'Menulis: Seni Merangkai Kata, Atasi Buntu'
+title: 'Menulis: Seni Merangkai Kata dan Trik Atasi Buntu'
 date: 2026-09-27
 draft: false
 categories: ["Edukasi"]
@@ -10,7 +10,7 @@ cover:
 comments: true
 ---
 
-## Menulis, Hobi yang Sunyi Peminat
+## Menulis, Hobi yang jarang Peminat
 Menulis itu sebenarnya hobi yang menarik, tapi anehnya tidak banyak orang yang benar-benar menekuninya. Kenapa bisa begitu?
 
 Menurut saya, karena menulis bukan sekadar merangkai huruf menjadi kalimat, melainkan proses kognitif yang kompleks dan cukup menguras energi mental.
