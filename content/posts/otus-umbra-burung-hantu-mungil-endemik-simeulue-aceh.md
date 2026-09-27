@@ -1,6 +1,7 @@
 ---
 title: 'Mengenal Otus Umbra, Burung Hantu Endemik Simeulue'
 date: 2026-07-19
+featured: true
 draft: false
 views: 6
 categories: ["Cerita Menarik"]
