@@ -1,0 +1,40 @@
+{{- $posts := where site.RegularPages "Section" "posts" }}
+{{- $posts = where $posts "Title" "!=" "Cari" }}
+{{- $posts = sort $posts "Date" "desc" }}
+{{- if $posts }}
+  {{- $byMonth := $posts.GroupByDate "January 2006" }}
+
+  <style>
+    #arsip-bulanan details > summary::-webkit-details-marker { display: none; }
+    #arsip-bulanan details > summary::marker { display: none; }
+    #arsip-bulanan details > summary { list-style: none; }
+    #arsip-bulanan details[open] > summary .arsip-arrow { transform: rotate(90deg); }
+  </style>
+
+  <div id="arsip-bulanan" style="margin:32px 0 0 0;padding:0;">
+    <div style="display:block;margin:0 0 16px 0;padding:0;">
+      <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#1f2937;padding-bottom:8px;border-bottom:3px solid #e60000;">📅 Arsip Bulanan</span>
+    </div>
+
+    <div style="display:flex;flex-direction:column;gap:8px;">
+      {{- range $byMonth }}
+      <details style="background:#ffffff;border:1px solid #e5e7eb;border-radius:8px;overflow:hidden;">
+        <summary style="padding:14px 16px;cursor:pointer;display:flex;justify-content:space-between;align-items:center;gap:12px;">
+          <span style="display:flex;align-items:center;gap:10px;">
+            <span class="arsip-arrow" style="display:inline-block;color:#e60000;font-weight:900;transition:transform 0.2s;font-size:14px;">▶</span>
+            <span style="font-size:15px;font-weight:700;color:#1f2937;">📅 {{ .Key }}</span>
+          </span>
+          <span style="font-size:12px;font-weight:700;color:#ffffff;background:#e60000;border-radius:999px;padding:3px 10px;">{{ len .Pages }}</span>
+        </summary>
+        <div style="padding:8px 16px 12px 16px;border-top:1px solid #f3f4f6;">
+          {{- range .Pages }}
+          <a href="{{ .Permalink }}" style="display:block;padding:10px 0;border-bottom:1px solid #f3f4f6;text-decoration:none;font-size:14px;font-weight:500;color:#1f2937;">
+            <span style="color:#9ca3af;font-size:12px;margin-right:8px;">{{ .Date.Format "02 Jan" }}</span>{{ .Title }}
+          </a>
+          {{- end }}
+        </div>
+      </details>
+      {{- end }}
+    </div>
+  </div>
+{{- end }}
