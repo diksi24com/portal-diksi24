@@ -90,6 +90,8 @@
     </div>
   </article>
 
+  {{ partial "pilihan_editor.html" . }}
+
   <div style="display:block;margin:24px 0 16px 0;padding:0;">
     <span style="display:inline-block;font-size:14px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;color:#1f2937;padding-bottom:8px;border-bottom:3px solid #e60000;">Latest Posts</span>
   </div>
@@ -216,7 +218,6 @@
     </div>
   </div>
 
-  {{/* OTHER ARTICLES (A-Z) dengan Pagination JS */}}
   {{- $otherPosts := where site.RegularPages "Type" "in" site.Params.mainSections }}
   {{- $otherPosts = where $otherPosts "Params.hiddenInHomeList" "!=" "true" }}
   {{- $otherPosts = where $otherPosts "Title" "!=" "Cari" }}
