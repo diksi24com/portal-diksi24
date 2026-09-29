@@ -14,9 +14,10 @@ comments: true
 
 Kita pikir CFD itu acara kota besar untuk mengurangi polusi. Padahal kalau dibongkar literatur aslinya, CFD tidak sekadar lahir dari isu polusi semata, melainkan berakar dari krisis energi global.
 
-Dan gagasan itu ternyata bisa dilihat sampai ke Sinabang. Pada Minggu, 9 Agustus 2026, Kabupaten Simeulue menggelar CFD perdana di Jalan Dua Jalur, dari Simpang BSI sampai Simpang Kolok. Menurut pemberitaan media, ribuan warga hadir. 
+Dan gagasan itu sudah bisa dilihat sampai ke Sinabang juga. Kabupaten Simeulue menggelar CFD perdana di Jalan Dua Jalur, bagus bukan?
+Awal perdananya dari Simpang BSI sampai Simpang Kolok dan menurut pemberitaan media, ribuan warga hadir. 
 
-Padahal Sinabang bukan kota yang dikenal macet. Lalu apa yang dicari warga di jalan itu pagi tersebut? Jawabannya ada di tujuh sektor di bawah ini.
+Memang sih Sinabang bukan kota yang dikenal macet. Lalu apa yang dicari warga di jalan pagi tersebut? Nah, jawaban baiknya ada di tujuh sektor di bawah ini.
 
 ### Sejarahnya Jauh Lebih Tua Dari Yang Kita Kira
 
