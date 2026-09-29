@@ -40,7 +40,9 @@ Khusus di Simeulue, keberadaan lembaga ini juga diatur lewat Peraturan Bupati Si
 > **Baca Juga:** [Peran Keujruen Blang dalam Pertanian di Simeulue](https://teukuanca.com/posts/peran-keujruen-blang-dalam-pertanian-di-simeulue/)
 
 ## Struktur dan Cara Kerjanya
-Struktur kelembagaan Panglima Laot bersifat berjenjang: ada Panglima Laot Kabupaten yang mengoordinasikan wilayah hukum adat laut secara keseluruhan, dan Panglima Laot Lhok di tingkat kecamatan atau kawasan pesisir tertentu, biasanya berkedudukan di pangkalan pendaratan ikan tempat aktivitas nelayan berlangsung sehari-hari.
+Struktur kelembagaan Panglima Laot bersifat berjenjang: 
+- Ada Panglima Laot Kabupaten yang mengoordinasikan wilayah hukum adat laut secara keseluruhan, dan
+- Panglima Laot Lhok di tingkat kecamatan atau kawasan pesisir tertentu, biasanya berkedudukan di pangkalan pendaratan ikan tempat aktivitas nelayan berlangsung sehari-hari.
 
 Pemilihannya dilakukan secara demokratis lewat musyawarah nelayan, pawang boat, dan pemilik alat tangkap setempat. Untuk bisa dicalonkan, seseorang umumnya harus punya pengalaman bahari, memahami hukum adat laut, dan dikenal jujur serta peduli pada kesejahteraan nelayan, bukan sekadar tokoh masyarakat biasa.
 
