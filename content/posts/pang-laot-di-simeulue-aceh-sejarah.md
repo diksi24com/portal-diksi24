@@ -37,8 +37,6 @@ Landasan teknisnya diturunkan lewat Qanun Aceh Nomor 9 dan 10 Tahun 2008 tentang
 
 Khusus di Simeulue, keberadaan lembaga ini juga diatur lewat Peraturan Bupati Simeulue Nomor 36 Tahun 2018 tentang Lembaga Hukum Adat Laot, yang menjadi dasar teknis operasionalnya di tingkat kabupaten.
 
-(Catatan: Sebagian sumber menyebutkan adanya peraturan turunan lain yang secara spesifik mengatur mekanisme kerja dan kode etik Panglima Lot Lhok di Simeulue. Namun, karena nomor dan tahunnya belum dapat saya verifikasi secara pasti, bagian tersebut sengaja tidak saya cantumkan di sini demi menjaga akurasi informasi bagi pembaca).
-
 > **Baca Juga:** [Peran Keujruen Blang dalam Pertanian di Simeulue](https://teukuanca.com/posts/peran-keujruen-blang-dalam-pertanian-di-simeulue/)
 
 ## Struktur dan Cara Kerjanya
