@@ -56,9 +56,9 @@ Ini yang paling sering tidak terlihat. Di Jakarta, jumlah pengunjung CFD pernah 
 Di London, Transport for London mencatat pengunjung CFD menghabiskan ratusan ribu poundsterling tambahan di bisnis lokal. Kesimpulannya, manfaat ekonomi dari keramaian itu jauh lebih besar dari biaya penutupan jalannya.
 
 **Dari Sinabang:** wujud kecil dari gagasan ini sudah terlihat sejak CFD perdana. Bazar kuliner UMKM dan pasar murah ikut digelar di sepanjang kegiatan. 
-Bagi pelaku usaha kecil di pulau, ini panggung yang terbuka setiap dua minggu. di sepanjang kegiatan.
+Bagi pelaku usaha kecil, ini panggung yang terbuka di sepanjang kegiatan.
 ![umkm sinabang](/images/umkm-sinabang.webp)
-Di antaranya terdapat aneka kuliner tradisional Aceh dan jajanan pasar lokal, minuman segar, hingga produk kerajinan tangan khas pulau yang ramai dibeli oleh warga yang berolahraga
+Di antaranya terdapat aneka kuliner tradisional Aceh, jajanan pasar lokal serta minuman segar.
 
 ### 4. Sektor Sosial
 Definisi resmi World Car Free Day adalah kesempatan untuk merebut kembali ruang publik untuk manusia. Dengan lebih sedikit mobil, jalan menjadi ruang yang dinamis untuk acara, pasar, pertunjukan, dan interaksi sosial. 
@@ -67,7 +67,7 @@ Jalan yang biasanya kaku untuk kendaraan, berubah menjadi ruang komunal yang ama
 
 **Dari Sinabang:** di Jalan Dua Jalur, pagi itu diisi jalan santai, bersepeda, dan senam bersama. Warga datang untuk berolahraga, berkumpul bersama keluarga, dan bersilaturahmi di jalan yang untuk sementara bebas dari lalu lintas kendaraan bermotor.
 ![car free day sinabang](/images/senam-car-frer-day.webp)
-Jalan raya yang biasanya hanya dilewati, pagi itu berubah menjadi tempat bertemu.
+Sehingga jalan raya yang biasanya hanya dilewati, pagi itu berubah menjadi tempat bertemu.
 
 ### 5. Sektor Perencanaan Kota
 CFD adalah laboratorium termurah bagi sebuah kota. Karena tidak butuh regulasi yang rumit dan bisa diterapkan dalam waktu singkat dengan biaya relatif rendah, pemerintah bisa menguji apakah warganya mau berjalan kaki dan bersepeda kalau diberi ruang yang aman dan nyaman?
@@ -84,9 +84,9 @@ Paris rutin menutup jalan utamanya, Bogota punya Ciclovía 127 km tiap minggu, K
 Kalau dijaga konsisten, jalan yang sama tiap dua minggu bisa menjadi etalase kecil identitas Simeulue, bagi warga sendiri maupun bagi tamu yang kebetulan sedang berkunjung ke pulau.
 
 ### 7. Sektor Pelayanan Publik
-Model di beberapa kota dunia menunjukkan CFD juga bisa menjadi panggung layanan. Skrining kesehatan, pelayanan kependudukan, perpustakaan keliling dibuka di tengah keramaian warga yang sedang santai berolahraga. Pelayanan yang biasanya kaku di kantor, jadi lebih dekat dan lebih kasual.
+Model di beberapa kota dunia menunjukkan CFD juga bisa menjadi panggung layanan. Skrining kesehatan, pelayanan kependudukan, perpustakaan keliling dibuka di tengah keramaian warga yang sedang santai berolahraga. Pelayanan yang biasanya di kantor, jadi lebih dekat dan lebih kasual.
 
-**Dari Sinabang:** ini sudah terjadi di CFD perdana. TNI menggelar pengobatan massal dan pemeriksaan gigi gratis, ditambah kegiatan pemeriksaan kesehatan. 
+**Dari Sinabang:** ini sudah terjadi di CFD perdana. ada pengobatan massal dan pemeriksaan gigi gratis, ditambah kegiatan pemeriksaan kesehatan. 
 ![pengobatan gratis di cfd Sinabang](/images/pengobatan-gratis-cfd-sinabang.webp)
 Layanan yang biasanya harus dicari ke fasilitas kesehatan, pagi itu hadir langsung di jalan.
 
