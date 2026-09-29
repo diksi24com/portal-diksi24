@@ -50,7 +50,7 @@ Di beberapa kota seperti Brussels, penurunannya bahkan sangat signifikan dibandi
 
 ### 3. Sektor Ekonomi Rakyat
 Ini yang paling sering tidak terlihat. Di Jakarta, jumlah pengunjung CFD pernah mencapai puluhan ribu orang dalam satu pagi. Dari yang awalnya hanya tempat olahraga, CFD berkembang jadi ruang ekonomi rakyat: minuman segar, makanan sehat, pakaian olahraga, jasa foto.
-> **Baca Juga:** [Cerita Pelopor Stiker Pertama yang Bertahan di Simeulueh](ttps://teukuanca.com/posts/buat-stiker-di-sinabang/)
+> **Baca Juga:** [Cerita Pelopor Stiker Pertama yang Bertahan di Simeulue](ttps://teukuanca.com/posts/buat-stiker-di-sinabang/)
 
 Di London, Transport for London mencatat pengunjung CFD menghabiskan ratusan ribu poundsterling tambahan di bisnis lokal. Kesimpulannya, manfaat ekonomi dari keramaian itu jauh lebih besar dari biaya penutupan jalannya.
 
@@ -80,7 +80,7 @@ Paris rutin menutup jalan utamanya, Bogota punya Ciclovía 127 km tiap minggu, K
 
 **Dari Sinabang:** pada CFD perdana, pertunjukan hiburan dan budaya daerah ikut tampil di antara kegiatan olahraga. 
 ![senam di cfd Sinabang](/images/senam-cfd.webp)
-Kalau dijaga konsisten, jalan yang sama tiap dua minggu bisa menjadi etalase kecil identitas Simeulue, bagi warganya sendiri maupun bagi tamu yang kebetulan sedang berkunjung ke pulau.
+Kalau dijaga konsisten, jalan yang sama tiap dua minggu bisa menjadi etalase kecil identitas Simeulue, bagi warga sendiri maupun bagi tamu yang kebetulan sedang berkunjung ke pulau.
 
 ### 7. Sektor Pelayanan Publik
 Model di beberapa kota dunia menunjukkan CFD juga bisa menjadi panggung layanan. Skrining kesehatan, pelayanan kependudukan, perpustakaan keliling dibuka di tengah keramaian warga yang sedang santai berolahraga. Pelayanan yang biasanya kaku di kantor, jadi lebih dekat dan lebih kasual.
