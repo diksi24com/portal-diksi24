@@ -14,7 +14,7 @@ Kalau kamu tinggal di pulau Simeulue, ada satu hal yang mungkin pernah kamu sada
 
 Saya sendiri baru menyadari belakangan bahwa di balik kebiasaan ini ada satu sosok adat yang mengaturnya: Panglima Laot, atau yang akrab disapa Pang Laot.
 
-Saya pernah bertemu dengan mantan panglima lot, namun tidak pernah berbincang tentang ini secara spesifik. Tetapi tulisan ini murni upaya saya sendiri dalam memahami dan mencoba berbagi pemahaman tentang salah satu sistem adat yang ternyata masih hidup di sekitar kita.
+Saya pernah bertemu dengan salah seorang mantan panglima laot, namun tidak pernah berbincang tentang ini secara spesifik. Tetapi tulisan ini murni upaya saya sendiri dalam memahami dan mencoba berbagi pemahaman tentang salah satu sistem adat yang ternyata masih hidup di sekitar kita.
 
 ## Siapa Sebenarnya Panglima Laot?
 Panglima Laot adalah pemangku hukum adat yang memegang mandat atas tata kelola wilayah pesisir dan perikanan tangkap. Ia bukan jabatan pemerintahan formal seperti kepala desa, melainkan representasi dari bagaimana masyarakat pesisir Aceh, termasuk Simeulue, mengatur kehidupan lautnya sendiri, jauh sebelum negara modern hadir dengan segala regulasinya.
