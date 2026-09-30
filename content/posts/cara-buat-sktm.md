@@ -10,7 +10,6 @@ cover:
 comments: true
 ---
 
-## Cara Membuat SKTM (Surat Keterangan Tidak Mampu): Panduan Lengkap dari Desa hingga ke Manfaatnya
 Sangat disayangkan jika pernah mendengar  seseorang harus menempuh perjalanan hampir satu jam dari desanya hanya untuk menanyakan satu lembar surat ke kantor kecamatan. 
 Sesampai di sana, ternyata surat yang ia butuhkan justru harus dibuat di desanya sendiri.
 
