@@ -3,7 +3,7 @@ title: 'Apa Itu Phubbing? Saat Ponsel Kalahkan Adat Tamu'
 date: 2026-10-01
 draft: false
 categories: ["Edukasi"]
-description: "Apa itu phubbing? Saat ponsel mengalahkan cara kita memuliakan tamu. Sebuah catatan dari warung kopi Aceh sampai ke Simeulue."
+description: "• Ketahui arti fenomena sibuk dengan ponsel saat mengobrol dan bagaimana kebiasaan ini perlahan merusak cara kita menghargai kawan atau tamu."
 tags: ["apa itu phubbing", "adat memuliakan tamu", "phubbing adalah", "Simeulue"]
 cover:
   image: "/images/ilustrasi-phubing.webp"
