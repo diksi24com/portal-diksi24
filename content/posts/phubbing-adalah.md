@@ -6,7 +6,7 @@ categories: ["Edukasi"]
 description: "Apa itu phubbing? Saat ponsel mengalahkan cara kita memuliakan tamu. Sebuah catatan dari warung kopi Aceh sampai ke Simeulue."
 tags: ["apa itu phubbing", "adat memuliakan tamu", "phubbing adalah", "Simeulue"]
 cover:
-  image: "/images/phubbing.webp"
+  image: "/images/ilustrasi-phubing.webp"
 comments: true
 ---
 
