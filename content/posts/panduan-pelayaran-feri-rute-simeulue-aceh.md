@@ -19,9 +19,11 @@ Bagaimana tidak, sejak kanak-kanak saya sudah dihadapkan dengan perjalanan laut 
 
 Kapal feri kala itu ukurannya jauh lebih kecil dibandingkan feri sekarang. Namanya KM. Cucut. Keberangkatannya dari dermaga Simpang Lima pukul 16.00 WIB dan tiba di Meulaboh, Aceh Barat, sekitar pukul 09.00 atau 10.00 WIB, tergantung kondisi cuaca.
 
-Seingat saya, dulu KM. Cucut hanya melayani satu rute, yaitu menuju pelabuhan Ujung Karang, Meulaboh, dengan jadwal satu kali seminggu. Setelahnya, KMP. Kuala Batee juga ikut melayani rute Sinabang–Meulaboh hingga tahun 2000-an, sebelum akhirnya KMP. Teluk Sinabang dan KMP. Simeulue hadir melayani rute-rute lainnya ke daratan Aceh.
+Seingat saya, dulu KM. Cucut hanya melayani satu rute, yaitu menuju pelabuhan Ujung Karang Meulaboh, dengan jadwal satu kali seminggu. Setelahnya, KMP. Kuala Batee juga ikut melayani rute Sinabang–Meulaboh hingga tahun 2000-an, sebelum akhirnya KMP. Teluk Sinabang dan KMP. Simeulue hadir melayani rute-rute Lainnya menuju daratan Aceh.
 
-Di samping kapal feri, ada juga kapal-kapal kayu yang menuju daratan Sumatera dengan rute ke Sibolga, Sumatera Utara. Pelayaran ini menggunakan kapal seperti KM. Sumber Jaya, KM. Lily, KM. Yossika, dan beberapa lainnya. Hanya tiga nama itu yang melekat di ingatan saya, karena dulu saya sering mandi dan terjun ke laut dari atas kapal-kapal tersebut.
+Saat ini, transportasi laut menuju Pulau Simeulue telah dilayani oleh kapal feri dengan ukuran yang jauh lebih besar, seperti KMP Aceh Hebat 1 dan KMP Aceh Hebat 3
+
+Dahulu, selain kapal feri, ada juga kapal-kapal kayu yang menuju daratan Sumatera dengan rute ke Sibolga, Sumatera Utara. Pelayaran ini menggunakan kapal seperti KM. Sumber Jaya, KM. Lily, KM. Yossika, dan beberapa lainnya. Hanya tiga nama itu yang melekat di ingatan saya, karena dulu saya sering mandi dan terjun ke laut dari atas kapal-kapal tersebut.
 
 Sekarang, pilihan sudah semakin banyak dengan adanya kapal Perintis yang melayani rute ke Calang dan Tapaktuan. Memang, rute dan armada kapal bisa berubah sewaktu-waktu tergantung kebijakan operasional.
 
