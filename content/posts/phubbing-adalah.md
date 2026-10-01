@@ -20,29 +20,29 @@ Itulah yang orang sekarang sebut phubbing.
 
 Sederhananya, phubbing itu dari gabungan kata phone dan snubbing, artinya mengabaikan lawan bicara karena sibuk dengan ponsel. Orangnya ada di sini, badannya di depan kita, tapi perhatiannya entah ada di mana.
 
-![ilustrasi Phubbing](/images/
-
 Pengertiannya memang sudah banyak ditulis di mana-mana. Yang jarang dibahas, bagaimana kebiasaan kecil ini pelan-pelan berbenturan dengan cara hidup kita sendiri.
 
-Di Tanah yang Menjunjung Kehadiran
+### Di Tanah yang Menjunjung Kehadiran
 
-Masyarakat kita di Aceh besar dengan budaya duduk bersama. Warung kopi itu bukan cuma tempat minum sanger. Di sana tempat bertukar kabar, berdebat pelan-pelan, sampai menyelesaikan urusan. Begitu juga kenduri, meuseuraya gotong royong, musyawarah di desa, semua berjalan karena orangnya hadir utuh. Bukan cuma jasadnya yang datang, tapi hati dan telinganya juga.
+Masyarakat kita di Aceh besar dengan budaya duduk bersama. Warung kopi itu bukan cuma tempat minum kopi. Di sana tempat bertukar kabar, berdebat pelan-pelan, sampai menyelesaikan urusan. 
 
-Di kepulauan seperti Simeulue, rasanya ini lebih terasa lagi. Pulau kecil, semua orang saling kenal. Kalau di kota besar mungkin tidak terlalu kelihatan, di sini kalau ada yang menunduk terus ke HP saat diajak bicara, langsung terbaca oleh sekelilingnya.
+Begitu juga kenduri, meuseuraya gotong royong, musyawarah di desa, semua berjalan karena orangnya hadir utuh. Bukan cuma jasadnya yang datang, tapi hati dan telinganya juga.
+
+Di kepulauan seperti Simeulue, rasanya ini lebih terasa lagi. Pulau kecil, semua orang saling kenal. Kalau di kota besar mungkin tidak terlalu kelihatan, di sini kalau ada yang menunduk terus ke HP saat diajak bicara, langsung terbaca oleh kita.
 
 Saya lihat sendiri, phubbing ini sudah sampai ke pulau-pulau jauh. Tidak selalu, dan tidak di semua tempat kok. Masih banyak momen hangat di mana HP diletakkan dan obrolan mengalir sampai lupa waktu. Tapi benihnya sudah ada. Dan ia tumbuh justru di tempat yang paling kuat tradisi kehadirannya.
 
-Kenapa Terasa Lebih Mengganggu di Sini?
+### Kenapa Terasa Lebih Mengganggu di Sini?
 
 Mungkin karena tiga hal ini.
 
-Pertama, ia melukai rasa dihargai. Dalam budaya kita yang menjunjung penghormatan, diabaikan itu kadang terasa lebih sakit daripada ditegur langsung.
+- **Pertama**, ia melukai rasa dihargai. Dalam budaya kita yang menjunjung penghormatan, diabaikan itu kadang terasa lebih sakit daripada ditegur langsung.
 
-Kedua, ia menggerus cerita yang dalam. Sejarah kampung, nasihat orang tua, kearifan seperti smong tentang gempa dan air laut — semua itu bertahan lintas generasi karena diceritakan langsung dari mulut ke telinga. Kalau perhatian kita terpecah terus oleh layar, apa yang nanti tersisa untuk diwariskan?
+- **Kedua**, ia menggerus cerita yang dalam. Sejarah kampung, nasihat orang tua, kearifan seperti smong tentang gempa dan air laut, semua itu bertahan lintas generasi karena diceritakan langsung dari mulut ke telinga. Kalau perhatian kita terpecah terus oleh layar, apa yang nanti tersisa untuk diwariskan?
 
-Ketiga, ia mengubah ruang yang dulu paling hangat. Meja makan keluarga dan sudut warung kopi yang dulu riuh, pelan-pelan bisa jadi tempat orang duduk berdekatan tapi hatinya berjauhan.
+- **Ketiga**, ia mengubah ruang yang dulu paling hangat. Meja makan keluarga dan sudut warung kopi yang dulu riuh, pelan-pelan bisa jadi tempat orang duduk berdekatan tapi hatinya berjauhan.
 
-Bukan Salah Ponselnya
+### Bukan Salah Ponselnya
 
 Saya pribadi tidak pernah menyalahkan ponsel. Untuk masyarakat kepulauan seperti kita, ponsel itu sangat membantu. Kabar keluarga di perantauan jadi cepat sampai, info cuaca dan harga ikan bisa dicek, anak-anak juga bisa belajar dari sana.
 
@@ -50,16 +50,18 @@ Jadi masalahnya bukan di alatnya, tapi kapan dan bagaimana kita memakainya.
 
 Alangkah baiknya jika kita jaga dengan cara-cara sederhana saja:
 
-Alangkah baiknya jika saat di meja makan, HP kita balik dulu atau kita simpan sebentar, apalagi kalau ada tamu atau orang tua di situ.
+- Baiknya jika saat di meja makan, HP kita balik dulu atau kita simpan sebentar, apalagi kalau ada tamu atau orang tua di situ.
 
-Alangkah baiknya jika saat orang sedang berbicara, kita selesaikan dulu urusan layar. Kalau memang ada yang mendesak, kita minta izin sebentar, "sebentar ya, ada yang penting," jadi orang di depan kita tidak merasa ditinggalkan.
+- Baiknya jika saat orang sedang berbicara, kita selesaikan dulu urusan layar. Kalau memang ada yang mendesak, kita minta izin sebentar, "sebentar ya, ada yang penting," jadi orang di depan kita tidak merasa ditinggalkan.
 
-Alangkah baiknya jika sesekali di warung kopi kita coba duduk tanpa membuka HP sama sekali. Satu sesi saja. Rasakan bedanya. Obrolannya biasanya jadi lebih panjang.
+- Baiknya jika sesekali di warung kopi kita coba duduk tanpa membuka HP sama sekali. Satu sesi saja. Rasakan bedanya. Obrolannya biasanya jadi lebih panjang.
 
-Dan alangkah baiknya jika dimulai dari rumah. Karena anak-anak itu meniru apa yang dilihat, bukan apa yang dikatakan.
+-Baiknya jika dimulai dari rumah. Karena anak-anak itu meniru apa yang dilihat, bukan apa yang dikatakan.
 
-Akhirnya
+## Akhirnya
 
 Phubbing itu masalah di mana-mana, tapi dampaknya terasa beda di setiap tempat. Bagi kita yang menjadikan kehadiran sebagai bentuk penghormatan, mengabaikan orang di depan kita itu sama saja seperti menjauh dari nilai yang sudah lama dijaga.
 
 Mungkin cara terbaik untuk menjawabnya bukan dengan aturan baru yang kaku. Cukup kembali pada adat lama kita sendiri: hadir sepenuhnya untuk orang yang ada di depan kita.
+
+> **Baca Juga:** [Fungsi Media Sosial: Peluang, dan Batasan Hukum](https://teukuanca.com/posts/fungsi-media-sosial-peluang-dan-batasan-hukum/)
