@@ -19,18 +19,19 @@ Itulah yang orang sekarang sebut phubbing.
 ## Apa itu phubbing sebenarnya?
 
 Sederhananya, phubbing itu dari gabungan kata phone dan snubbing, artinya mengabaikan lawan bicara karena sibuk dengan ponsel. Orangnya ada di sini, badannya di depan kita, tapi perhatiannya entah ada di mana.
-
+![main handphone](/images/main-handphone.webp)
 Pengertiannya memang sudah banyak ditulis di mana-mana. Yang jarang dibahas, bagaimana kebiasaan kecil ini pelan-pelan berbenturan dengan cara hidup kita sendiri.
 
 ### Di Tanah yang Menjunjung Kehadiran
-
+![duduk bersama](/images/duduk-bersama.webp
 Masyarakat kita di Aceh besar dengan budaya duduk bersama. Warung kopi itu bukan cuma tempat minum kopi. Di sana tempat bertukar kabar, berdebat pelan-pelan, sampai menyelesaikan urusan. 
 
 Begitu juga kenduri, meuseuraya gotong royong, musyawarah di desa, semua berjalan karena orangnya hadir utuh. Bukan cuma jasadnya yang datang, tapi hati dan telinganya juga.
+![memulihkan tamu](/images/memuliakan-tamu.jpg)
 
 Di kepulauan seperti Simeulue, rasanya ini lebih terasa lagi. Pulau kecil, semua orang saling kenal. Kalau di kota besar mungkin tidak terlalu kelihatan, di sini kalau ada yang menunduk terus ke HP saat diajak bicara, langsung terbaca oleh kita.
 
-Saya lihat sendiri, phubbing ini sudah sampai ke pulau-pulau jauh. Tidak selalu, dan tidak di semua tempat kok. Masih banyak momen hangat di mana HP diletakkan dan obrolan mengalir sampai lupa waktu. Tapi benihnya sudah ada. Dan ia tumbuh justru di tempat yang paling kuat tradisi kehadirannya.
+Saya lihat sendiri, phubbing ini sudah sampai ke pulau-pulau jauh. Tidak selalu, dan tidak di semua tempat kok. Masih banyak momen hangat di mana HP diletakkan) dan obrolan mengalir sampai lupa waktu. Tapi benihnya sudah ada. Dan ia tumbuh justru di tempat yang paling kuat tradisi kehadirannya.
 
 ### Kenapa Terasa Lebih Mengganggu di Sini?
 
@@ -43,7 +44,7 @@ Mungkin karena tiga hal ini.
 - **Ketiga**, ia mengubah ruang yang dulu paling hangat. Meja makan keluarga dan sudut warung kopi yang dulu riuh, pelan-pelan bisa jadi tempat orang duduk berdekatan tapi hatinya berjauhan.
 
 ### Bukan Salah Ponselnya
-
+![bukan ponsel yang salah](/images/bukan-ponsel-yang-salah.webp)
 Saya pribadi tidak pernah menyalahkan ponsel. Untuk masyarakat kepulauan seperti kita, ponsel itu sangat membantu. Kabar keluarga di perantauan jadi cepat sampai, info cuaca dan harga ikan bisa dicek, anak-anak juga bisa belajar dari sana.
 
 Jadi masalahnya bukan di alatnya, tapi kapan dan bagaimana kita memakainya.
