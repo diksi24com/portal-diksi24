@@ -11,11 +11,11 @@ comments: true
 ---
 
 ## Musim Hujan, Waspada Penyakit 
-Hujan hampir setiap hari sekarang ini terkadang membuat kita berdiam sejenak di rumah menunggu reda. Tetapi beberapa hari terakhir, terasa nyamuk mulai banyak muncul. Biasanya, sekitar jam 5 ke atas, sudah mulai terdengar suara dengung nyamuk di telinga. Apalagi setelah Maghrib, biasanya makin ramai sekarang.
+Hujan hampir tiap hari belakangan ini bikin kita sering mendekam di rumah, nunggu sampai reda. Eh, beberapa hari terakhir nyamuk mulai ramai. Biasanya habis jam lima sore, dengungnya sudah mulai terdengar di telinga, apalagi lewat Magrib, makin menjadi-jadi.
 
-Saya sempat coba cara lama, yaitu bakar kulit telur biar ada asap. Lumayan bisa mengusir sebentar. Tapi kalau diteruskan tiap hari, asapnya bikin sesak, malah takut jadi masalah pernapasan.
+Saya sempat mencoba cara lama: membakar kulit telur supaya berasap. Lumayan, nyamuk pergi sebentar. Tapi kalau diteruskan tiap hari, asapnya bikin sesak, dan saya khawatir malah jadi masalah pernapasan. Rasanya tidak sebanding, mengusir nyamuk tapi mengorbankan napas sendiri. 
 
-Akhirnya saya fokus ke akarnya, yakni mengecek kaleng bekas dan sampah yang menampung air hujan di belakang rumah.
+Akhirnya saya mulai berpikir, ada cara lain yang lebih aman untuk menjaga rumah tetap nyaman di musim hujan begini.
 
 Dan memang waktunya untuk waspada. Kita lagi di masa transisi ke musim hujan, dan Aceh diprediksi akan memiliki curah hujan yang sangat tinggi. Kalau hujan terus begini, yang naik bukan cuma air got.
 
