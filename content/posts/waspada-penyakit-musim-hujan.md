@@ -52,7 +52,7 @@ Praktiknya di rumah saya sekarang: kuras bak mandi seminggu sekali, tutup drum p
 ![kubur kaleng](/images/kubur-kaleng.webp)
 
 Untuk Leptospirosis, Diare, dan Kulit:
-![cuci tangan(/images/cuci-tangan.webp)
+![cuci tangan](/images/cuci-tangan.webp)
 Kemenkes mengimbau PHBS, termasuk cuci tangan pakai sabun secara rutin, gunakan alas kaki untuk menghindari luka dan risiko leptospirosis, konsumsi makanan matang dengan air bersih, pastikan lingkungan tetap kering dan bebas genangan, dan tutup rapat luka untuk mencegah infeksi.
 
 Tambahannya, kalau harus beraktivitas di area becek atau banjir: mengenakan sepatu dari karet yang berukuran tinggi dan memakai sarung tangan karet. 
