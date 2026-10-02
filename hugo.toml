@@ -3,7 +3,7 @@ baseURL = 'https://teukuanca.com/'
 languageCode = 'id-id'
 title = 'teukuanca.com'
 theme = 'PaperMod'
-googleAnalytics = "G-B4RNLBDNYC"
+
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
