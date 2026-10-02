@@ -45,21 +45,38 @@ Selain diare, ada penyakit saluran cerna lain dan tipes yang juga naik saat musi
 
 Saya ganti cara bakar kulit telur dengan yang disarankan Kemenkes. Ternyata lebih masuk akal dan nggak bikin sesak:
 
-Untuk DBD: Tetap pakai langkah 3M Plus, yaitu menguras, menutup, dan mengubur tempat penampungan air, ditambah penggunaan obat nyamuk dan larvasida.
+Untuk DBD: Tetap pakai langkah 3M Plus, yaitu:
 ![tiga m](/images/tiga-m.webp)
+- Menguras,
+- Menutup, dan
+- Mengubur tempat penampungan air, ditambah penggunaan obat nyamuk dan larvasida.
 
-Praktiknya di rumah saya sekarang: kuras bak mandi seminggu sekali, tutup drum pakai kain kasa, dan semua kaleng bekas saya lubangi atau kubur. Malam pakai kelambu dan lotion anti nyamuk, bukan asap.
+Praktiknya di rumah saya sekarang: 
+- Kuras bak mandi seminggu sekali,
+- Tutup drum pakai kain kasa, dan
+- Semua kaleng bekas saya lubangi atau kubur. Malam pakai kelambu dan lotion anti nyamuk, bukan asap.
 ![kubur kaleng](/images/kubur-kaleng.webp)
 
 Untuk Leptospirosis, Diare, dan Kulit:
 ![cuci tangan](/images/cuci-tangan.webp)
-Kemenkes mengimbau PHBS, termasuk cuci tangan pakai sabun secara rutin, gunakan alas kaki untuk menghindari luka dan risiko leptospirosis, konsumsi makanan matang dengan air bersih, pastikan lingkungan tetap kering dan bebas genangan, dan tutup rapat luka untuk mencegah infeksi.
+Kemenkes mengimbau PHBS,
+- Cuci tangan pakai sabun secara rutin,
+- Gunakan alas kaki untuk menghindari luka dan risiko leptospirosis,
+- Konsumsi makanan matang dengan air bersih,
+- Pastikan lingkungan tetap kering dan bebas genangan, dan
+- Tutup rapat luka untuk mencegah infeksi.
 
-Tambahannya, kalau harus beraktivitas di area becek atau banjir: mengenakan sepatu dari karet yang berukuran tinggi dan memakai sarung tangan karet. 
+Tambahannya, kalau harus beraktivitas di area becek atau banjir: 
 ![pakai sepatu bot](/images/pakai-sepatu-bot.webp)
+- Mengenakan sepatu dari karet yang berukuran tinggi dan
+- Memakai sarung tangan karet.
 
-Di rumah, simpan makanan dan minuman agar aman dari tikus, cuci tangan dan kaki dengan sabun setelah terpapar air banjir, dan pasang perangkap tikus.
+
+Di rumah, simpan makanan dan minuman agar aman dari tikus.
 ![simpan makanan dari tikus](/images/simpan-makanan.webp)
+- Cuci tangan dan kaki dengan sabun setelah terpapar air banjir, dan 
+- Pasang perangkap tikus.
+
 
 ## Kapan harus ke Puskesmas?
 Jangan ditunda. Segera periksakan diri ke pos kesehatan atau fasilitas kesehatan terdekat bila mengalami gejala seperti diare, ISPA, atau gatal-gatal yang tidak membaik lebih dari 2 hari, atau mengalami demam tinggi mendadak.
