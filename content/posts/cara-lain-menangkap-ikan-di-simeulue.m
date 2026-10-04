@@ -12,11 +12,13 @@ comments: true
 
 MANCOLOK: Cara Lain Menangkap Ikan di Malam Hari
 
-Kita sudah biasa mendengar orang menangkap ikan dengan pancing, jala, atau ditembak dengan senapan ikan. Tapi di pesisir Simeulue, ada cara yang jauh berbeda. Cara yang bergerak justru saat malam mulai pekat.
+Kalau menangkap ikan dengan pancing, jala, atau ditembak dengan senapan ikan. sudah biasa terlihat dan terdengar, Tapi di pesisir Simeulue, ada cara yang jauh berbeda. Cara yang bergerak justru saat malam mulai pekat.
 
-Di sini, orang menyebutnya Mancolok.
+Di sini, orang menyebutnya **Mancolok**.
 
-Tidak perlu mesin perahu yang bising. Cukup perahu dayung kayu yang melaju pelan, sebuah senter di tangan atau yang diikat di kepala, dan sebuah tangguk dengan gagang panjang. Dengan peralatan sesederhana itu, warga menyisir laut mencari ikan, udang, kepiting, bahkan kadang beruntung menemukan lahok, lobster laut yang harganya lumayan tinggi.
+Tidak perlu perahu mesin. Cukup perahu dayung kayu yang melaju pelan, sebuah senter di tangan atau yang diikat di kepala, dan sebuah tangguk dengan gagang panjang. 
+
+Dengan peralatan sesederhana itu, warga menyisir laut mencari ikan, udang, kepiting, bahkan kadang beruntung menemukan lahok, lobster laut yang harganya lumayan tinggi.
 
 Membaca Alam Sebelum Turun
 
