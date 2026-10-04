@@ -1,6 +1,6 @@
 ---
 title: 'Cara Lain Menangkap Ikan Malam Hari di Simeulue'
-date: 2026-10-05
+date: 2026-10-04
 draft: false
 categories: ["Cerita Menarik"]
 description: "Menangkap ikan di malam hari dengan peralatan sederhana dan memberikan hasil yang memuaskan di Simeulue."
