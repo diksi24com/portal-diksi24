@@ -48,9 +48,13 @@ Saya sendiri pernah ikut turun. Kami tidak pakai perahu, hanya berjalan kaki men
 Meski terlihat sederhana, Mancolok butuh persiapan. Tidak bisa asal berangkat. Sebab,ada juga beberapa hal yang menurut saya harus dipersiapkan, seperti:
 
 **1. Lotion anti nyamuk:** karena kita akan masuk ke area bakau, nyamuk dan agas lumayan mengusik
+
 **2. Senter yang terang dan baterai penuh:** Ini adalah senjata utama. Ada yang pakai senter tangan, ada yang pakai senter kepala biar kedua tangan bebas.
+
 **3. Parang atau pisau kecil:** Sekadar pegangan untuk memotong rumput atau ranting yang menghalangi jalan.
+
 **4. Sepatu karet tahan air:** Untuk melindungi kaki dari batu tajam, cangkang kerang, atau hewan berbisa.
+
 **5. Tangguk bergagang panjang:** Supaya bisa menjangkau ikan yang agak jauh tanpa harus membuat banyak gerakan air.
 
 Menurut pengalaman, musim hujan bukan waktu yang cocok, sebab air jadi keruh dan beriak, cahaya senter tidak tembus. Mancolok butuh air yang tenang dan suasana alam yang cerah.
