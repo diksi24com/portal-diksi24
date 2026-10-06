@@ -1,6 +1,8 @@
 backend:
   name: git-gateway
   branch: main
+  identity_url: "https://thriving-strudel-6701c5.netlify.app/.netlify/identity"
+  gateway_url: "https://thriving-strudel-6701c5.netlify.app/.netlify/git"
 
 media_folder: "static/images"
 public_folder: "/situsku/images"
