@@ -8,14 +8,15 @@ media_folder: "static/images"
 public_folder: "/situsku/images"
 
 collections:
-  - name: "posts"
+  - name: "articles" # Diubah dari posts agar sesuai nama folder
     label: "Artikel"
-    folder: "content/posts"
+    folder: "content/articles" # DIUBAH: Harus 'articles' sesuai README tema Anda
     create: true
     slug: "{{slug}}"
     fields:
       - { label: "Judul", name: "title", widget: "string" }
       - { label: "Tanggal", name: "date", widget: "datetime" }
+      - { label: "Penulis", name: "author", widget: "string" } # DITAMBAHKAN: Wajib untuk tema ini
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "Gambar Unggulan", name: "featured_image", widget: "image", required: false }
       - { label: "Kategori", name: "categories", widget: "list" }
