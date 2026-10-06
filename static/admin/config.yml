@@ -1,22 +1,20 @@
 backend:
-  name: github
-  repo: teukuanca-creat/situsku
+  name: git-gateway
   branch: main
-  base_url: https://decap-cms-backend.vercel.app
 
 media_folder: "static/images"
 public_folder: "/situsku/images"
 
 collections:
-  - name: "articles" # Diubah dari posts agar sesuai nama folder
+  - name: "articles"
     label: "Artikel"
-    folder: "content/articles" # DIUBAH: Harus 'articles' sesuai README tema Anda
+    folder: "content/articles"
     create: true
     slug: "{{slug}}"
     fields:
       - { label: "Judul", name: "title", widget: "string" }
       - { label: "Tanggal", name: "date", widget: "datetime" }
-      - { label: "Penulis", name: "author", widget: "string" } # DITAMBAHKAN: Wajib untuk tema ini
+      - { label: "Penulis", name: "author", widget: "string" }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "Gambar Unggulan", name: "featured_image", widget: "image", required: false }
       - { label: "Kategori", name: "categories", widget: "list" }
