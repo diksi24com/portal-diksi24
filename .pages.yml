@@ -1,49 +1,66 @@
 media:
   input: static/images
-  output: /situsku/images
+  output: /images
 
 content:
-  - name: articles
+  - name: posts
     label: Artikel
     type: collection
-    path: content/articles
-    filename: "{fields.title}.md"
+    path: content/posts
+    filename: "{year}-{month}-{day}-{slug}.md"
+    view:
+      fields: [title, date, draft, categories, views]
+      sort: [date, desc]
     fields:
       - name: title
         label: Judul
         type: string
         required: true
+
       - name: date
         label: Tanggal
         type: date
         required: true
-      - name: author
-        label: Penulis
-        type: string
-        required: true
+
       - name: draft
         label: Draft
         type: boolean
         default: false
-      - name: featured_image
-        label: Gambar Unggulan
-        type: image
-        required: false
+
+      - name: description
+        label: Deskripsi
+        type: text
+        required: true
+
       - name: categories
         label: Kategori
         type: string
         list: true
-        required: true
-      - name: description
-        label: Deskripsi
-        type: text
-        required: false
+
       - name: tags
         label: Tags
         type: string
         list: true
-        required: false
+
+      - name: views
+        label: Jumlah Views
+        type: number
+        default: 0
+
+      - name: comments
+        label: Aktifkan Komentar
+        type: boolean
+        default: true
+
+      - name: cover
+        label: Gambar Cover
+        type: object
+        fields:
+          - name: image
+            label: Path Gambar
+            type: image
+
       - name: body
-        label: Konten
+        label: Isi Artikel
         type: rich-text
         required: true
