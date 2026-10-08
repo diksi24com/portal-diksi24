@@ -65,13 +65,15 @@ Puncaknya baru datang tiga tahun setelah status kabupaten administratif disandan
 
 Pembentukan ini kemudian diresmikan secara hukum oleh Menteri Dalam Negeri pada 12 Oktober 1999. Tanggal bersejarah inilah yang hingga kini diperingati sebagai Hari Jadi Kabupaten Simeulue setiap tahunnya.
 
+
+
 Menariknya, proses otonomi ini tidak berhenti di sana. Pada 7 Juni 2000, terbit UU Nomor 8 Tahun 2000 untuk merevisi UU 48/1999 tersebut, khususnya guna memuluskan aturan pengisian kursi DPRD yang sempat terkendala di masa transisi. 
 
 
 
 Ini menjadi bukti bahwa kemandirian sebuah daerah lahir dari proses yang bertahap dan penuh perjuangan, "tidak sekadar sekali ketok palu langsung jadi".
 
-### Orang-Orang di Balik Pasal
+## Orang-Orang di Balik Pasal
 
 Jika dirunut kembali garis waktunya:
 
@@ -96,9 +98,7 @@ Padahal dulu, ada generasi yang harus menghabiskan waktu untuk berdebat, berlaya
 
 Jasa dan dedikasi mereka akan selalu kita simpan dalam ingatan, dan setiap bulan Oktober, hari jadi itu kita rayakan sebagai bentuk penghormatan serta rasa terima kasih yang mendalam.
 
-
-
-### Dari Mendekatkan Layanan, Sekarang Menyambungkan Pulau
+## Dari Mendekatkan Layanan, Sekarang Menyambungkan Pulau
 
 Di awal-awal terbentuknya, tugas pemerintah kabupaten itu jelas sekali seperti yang tertuang dalam PP 53/1996:
 
@@ -123,8 +123,6 @@ Jika kita melihat potret perkembangannya hari ini, arah kemandirian Simeulue kia
 
 Kalau dilihat secara garis besar, Simeulue kini bukan lagi sekadar pulau terisolasi yang bingung cara mengurus administrasi warganya, melainkan sebuah daerah otonom yang sedang berlari menyusul ketertinggalan dan siap menyambungkan potensinya ke kancah nasional hingga global.
 
-
-
 ## Kalau Dilihat dari Angka
 
 Dulu saat pertama memisahkan diri, Simeulue hanya berisi lima kecamatan. Sekarang, daerah ini telah tumbuh menjadi 10 kecamatan dengan 138 gampong, serta menjadi rumah bagi sekitar 94 ribu jiwa penduduk.
@@ -142,8 +140,6 @@ Namun, kedewasaan sebuah daerah juga menuntut kita untuk berani melihat potret r
 - Ketahanan Konsumsi Pangan: Prevalensi ketidakcukupan konsumsi pangan masyarakat masih berada di angka 10,11 persen, angka yang masih harus ditekan karena berada di atas rata-rata nasional yang sebesar 7,89 persen.  [(sumber)](https://www.bps.go.id/id/statistics-table/2/MjI2OSMy/prevalensi-ketidakcukupan-konsumsi-pangan-persen-per-kabupaten-kota.html)
 
 Pada akhirnya, menjadi daerah yang dewasa bukan berarti menganggap perjuangan telah selesai. Menjadi dewasa berarti berani melihat data apa adanya; capaian yang bagus kita syukuri dan pertahankan, sementara pekerjaan rumah yang kurang harus kita hadapi dan perbaiki bersama.
-
-
 
 ## Oktober yang Selalu Ramai
 
