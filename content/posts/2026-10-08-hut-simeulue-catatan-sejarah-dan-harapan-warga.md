@@ -104,7 +104,7 @@ Di awal-awal terbentuknya, tugas pemerintah kabupaten itu jelas sekali seperti y
 
 - Menggali potensi daerah, 
 - Mencari pendapatan asli daerah, dan
-- Mengajak masyarakat ikut membangun. 
+- Mengajak masyarakat ikut membangun.
 
 Fokus utamanya adalah meletakkan fondasi dasar, mulai dari mendirikan kantor dinas hingga memastikan layanan kesehatan dan pendidikan dasar bisa berjalan.
 
@@ -139,7 +139,7 @@ Jika merujuk pada data resmi Badan Pusat Statistik (BPS), grafik perkembangan da
 Namun, kedewasaan sebuah daerah juga menuntut kita untuk berani melihat potret realita yang belum sempurna secara jujur:
 
 - Daya Beli Masyarakat: Rata-rata pengeluaran per kapita sebulan di Simeulue masih berada di angka Rp.1,13 juta pada tahun 2025. Angka ini menempatkan Simeulue di peringkat ke-22 dari 23 kabupaten/kota di Aceh.
-- Ketahanan Konsumsi Pangan: Prevalensi ketidakcukupan konsumsi pangan masyarakat masih berada di angka 10,11 persen, angka yang masih harus ditekan karena berada di atas rata-rata nasional yang sebesar 7,89 persen.  [(sumber)](https://www.bps.go.id/id/statistics-table/2/MjI2OSMy/prevalensi-ketidakcukupan-konsumsi-pangan-persen-per-kabupaten-kota.html) 
+- Ketahanan Konsumsi Pangan: Prevalensi ketidakcukupan konsumsi pangan masyarakat masih berada di angka 10,11 persen, angka yang masih harus ditekan karena berada di atas rata-rata nasional yang sebesar 7,89 persen.  [(sumber)](https://www.bps.go.id/id/statistics-table/2/MjI2OSMy/prevalensi-ketidakcukupan-konsumsi-pangan-persen-per-kabupaten-kota.html)
 
 Pada akhirnya, menjadi daerah yang dewasa bukan berarti menganggap perjuangan telah selesai. Menjadi dewasa berarti berani melihat data apa adanya; capaian yang bagus kita syukuri dan pertahankan, sementara pekerjaan rumah yang kurang harus kita hadapi dan perbaiki bersama.
 
@@ -183,7 +183,8 @@ Perayaan hari jadi yang bermakna menurut saya tidak boleh berhenti di sekadar so
 
 Catatan ini murni merupakan angan-angan kecil saya sebagai warga yang mencintai pulau ini, tanpa ada maksud untuk menggurui siapa pun. Ada empat harapan besar yang ingin saya titipkan:
 
-1. **Menjaga Nafas Smong di Panggung Utama**  
+1. **Menjaga Nafas Smong di Panggung Utama**
+
 Saat tsunami menghantam Aceh tahun 2004 silam, korban jiwa di Simeulue tercatat hanya sekitar enam orang, di saat daerah lain harus kehilangan ratusan ribu nyawa. Keajaiban itu tercipta berkat kearifan lokal **Smong** yang dirawat turun-temurun lewat buaian tidur dan senandung **Nandong**. Alangkah indahnya jika di setiap momen perayaan HUT, pesan mitigasi Smong dan kesenian Nandong selalu mendapat ruang utama. Itu adalah identitas agung yang tidak dimiliki belahan dunia mana pun, sekaligus pengingat abadi bagi anak-cucu kedepannya.
 2. **Menghidupkan Pasar untuk UMKM Lokal**  
 Kemeriahan bulan Oktober adalah momentum emas bagi ekonomi akar rumput. Menjadi waktu paling pas bagi produk UMKM, hasil laut olahan, kerajinan tangan, hingga kuliner khas Simeulue untuk bertemu langsung dengan pembeli. Apalagi, banyak perantau yang sengaja pulang kampung di bulan ini. Sangat disayangkan jika kepulangan mereka tidak dimanfaatkan untuk perputaran modal lokal dan membawa oleh-oleh khas daerah.
@@ -194,7 +195,7 @@ Rangkaian perlombaan tahunan ini seyogianya bisa difungsikan sebagai wadah peman
 
 
 
-## Ikhtisar Perjalanan 
+## Ikhtisar Perjalanan
 
 Jika ditarik garis lurus, perjalanan panjang Kabupaten Simeulue dapat dilihat dari beberapa tonggak sejarah penting:
 
@@ -208,4 +209,5 @@ Setiap bulan Oktober tiba, perayaan hari jadi bukan sekadar seremonial panggung 
 
 
 
-**Baca Juga: [Sejarah Pelopor Stiker Pertama yang Bertahan di Simeulue](https://teukuanca.com/posts/buat-stiker-di-sinabang/)**
+> **Baca Juga:** [Sejarah Pelopor Stiker Pertama yang Bertahan di Simeulue](https://teukuanca.com/posts/buat-stiker-di-sinabang/)
+
