@@ -15,23 +15,19 @@ comments: true
 cover:
   image: /images/selamat-ultah-simeulue.webp
 ---
-## Sinabang di Oktober
+## Ibu Kota Simeulue di Oktober
 
-Setiap awal Oktober, Sinabang terasa sedikit berbeda. Spanduk terpampang di beberapa tempat dan media sosial, lapangan diisi acara pertandingan voli dengan sorak-sorai suara penonton terdengar sampai ke warung kopi. 
-
-Juga digelar karnaval, sepeda hias dan beberapa kegiatan lain yang begitu semarak.
+Setiap awal Oktober, atmosfer di Sinabang seketika berubah. Spanduk perayaan mulai menghiasi sudut-sudut kota hingga linimasa media sosial. Di lapangan terbuka, riuh rendah sorak-sorai penonton turnamen voli terdengar sayup-sayup sampai ke selasar warung kopi. 
 
 
 
-Itulah kemeriahan dalam menyambut Ulang Tahun Kabupaten Simeulue.
+Kemeriahan itu kian lengkap dengan hadirnya iring-iringan karnaval serta sepeda hias yang semarak. Seluruh keriuhan ini hadir untuk satu alasan: menyambut Hari Jadi Kabupaten Simeulue.
+
+Jika dianalogikan pada manusia, usia 27 tahun adalah gerbang kedewasaan tempat seseorang mulai berpikir jauh ke depan. 
 
 
 
-Kalau manusia umur 27 tahun itu sudah dewasa, sudah bisa mikir jauh. Lalu kalau sebuah kabupaten umur 27 tahun, sudah sejauh apa jalannya? 
-
-
-
-Untuk jawaban itu, kita harus mundur dulu, ke masa sebelum Simeulue dipanggil "Kabupaten".
+Namun, jika usia tersebut disematkan pada sebuah kabupaten, sudah sejauh apa kaki ini melangkah? Untuk menemukan jawabannya, kita harus memutar waktu kembali ke masa lalu, ke sebuah masa sebelum semua kemudahan ini ada
 
 ## Sebelum Dipanggil Kabupaten
 
@@ -181,11 +177,11 @@ Catatan ini murni merupakan angan-angan kecil saya sebagai warga yang mencintai 
 
 1. **Menjaga Nafas Smong di Panggung Utama**
 
-Saat tsunami menghantam Aceh tahun 2004 silam, korban jiwa di Simeulue tercatat hanya sekitar enam orang, di saat daerah lain harus kehilangan ratusan ribu nyawa. Keajaiban itu tercipta berkat kearifan lokal **Smong** yang dirawat turun-temurun lewat buaian tidur dan senandung **Nandong**. Alangkah indahnya jika di setiap momen perayaan HUT, pesan mitigasi Smong dan kesenian Nandong selalu mendapat ruang utama. Itu adalah identitas agung yang tidak dimiliki belahan dunia mana pun, sekaligus pengingat abadi bagi anak-cucu kedepannya.
+Saat tsunami menghantam Aceh tahun 2004 silam, korban jiwa di Simeulue tercatat hanya sekitar enam orang, di saat daerah lain harus kehilangan ratusan ribu nyawa. Keajaiban itu tercipta berkat kearifan lokal **Smong** yang dirawat turun-temurun lewat buaian tidur dan senandung **Nandong**. Alangkah indahnya jika di setiap momen perayaan HUT, pesan mitigasi Smong dan kesenian Nandong selalu mendapat ruang utama. Itu adalah identitas agung yang tidak dimiliki belahan dunia mana pun, sekaligus pengingat abadi bagi anak-cucu kedepannya.  
 2. **Menghidupkan Pasar untuk UMKM Lokal**  
-Kemeriahan bulan Oktober adalah momentum emas bagi ekonomi akar rumput. Menjadi waktu paling pas bagi produk UMKM, hasil laut olahan, kerajinan tangan, hingga kuliner khas Simeulue untuk bertemu langsung dengan pembeli. Apalagi, banyak perantau yang sengaja pulang kampung di bulan ini. Sangat disayangkan jika kepulangan mereka tidak dimanfaatkan untuk perputaran modal lokal dan membawa oleh-oleh khas daerah.
+Kemeriahan bulan Oktober adalah momentum emas bagi ekonomi akar rumput. Menjadi waktu paling pas bagi produk UMKM, hasil laut olahan, kerajinan tangan, hingga kuliner khas Simeulue untuk bertemu langsung dengan pembeli. Apalagi, banyak perantau yang sengaja pulang kampung di bulan ini. Sangat disayangkan jika kepulangan mereka tidak dimanfaatkan untuk perputaran modal lokal dan membawa oleh-oleh khas daerah.  
 3. **Membangun Arsip Digital Terbuka**  
-Dokumentasi foto karnaval sekolah, rekaman penampilan sanggar seni, hingga keseruan turnamen sepak bola antar-SKPK jangan sampai menguap begitu saja. Jika semua itu direkam dan dikelola dalam sebuah platform arsip digital yang terbuka untuk publik, kita akan memiliki warisan sejarah visual yang luar biasa kaya seiring bertambahnya usia kabupaten. Generasi masa depan kelak bisa melihat kembali bagaimana wajah pulau ini dirintis.
+Dokumentasi foto karnaval sekolah, rekaman penampilan sanggar seni, hingga keseruan turnamen sepak bola antar-SKPK jangan sampai menguap begitu saja. Jika semua itu direkam dan dikelola dalam sebuah platform arsip digital yang terbuka untuk publik, kita akan memiliki warisan sejarah visual yang luar biasa kaya seiring bertambahnya usia kabupaten. Generasi masa depan kelak bisa melihat kembali bagaimana wajah pulau ini dirintis.  
 4. **Menjadikan Lomba sebagai Saringan Bibit Berbakat**  
 Rangkaian perlombaan tahunan ini seyogianya bisa difungsikan sebagai wadah pemantauan bakat (*scouting*) awal. Mereka yang keluar sebagai pencipta musik, pemilik suara emas terbaik, penari, atau pemain bola paling potensial harus dipetakan dan dibina lebih lanjut oleh kedinasan terkait. Sungguh disayangkan jika potensi-potensi besar itu menguap begitu saja setelah piala diserahkan di atas panggung.
 
