@@ -167,7 +167,7 @@ Hampir semua daerah di Indonesia memiliki ritual perayaan hari jadi seperti ini.
 
 Di sebuah pulau dengan populasi sekitar 94 ribu jiwa, hampir semua orang pasti mengenal seseorang yang sedang tampil di panggung atau yang sedang jatuh bangun mengejar bola sore itu. Perayaan ini bukan sekadar seremonial, melainkan ruang temu bagi sebuah keluarga besar bernama Simeulue.
 
-### Biar Tidak Berhenti di Sorak-Sorai
+## Biar Tidak Berhenti di Sorak-Sorai
 
 Perayaan hari jadi yang bermakna menurut saya tidak boleh berhenti di sekadar sorak-sorai pesta pora tahunan.
 
@@ -175,15 +175,37 @@ Perayaan hari jadi yang bermakna menurut saya tidak boleh berhenti di sekadar so
 
 Catatan ini murni merupakan angan-angan kecil saya sebagai warga yang mencintai pulau ini, tanpa ada maksud untuk menggurui siapa pun. Ada empat harapan besar yang ingin saya titipkan:
 
-1. **Menjaga Nafas Smong di Panggung Utama**
+### Menjaga Nafas Smong di Panggung Utama
 
-Saat tsunami menghantam Aceh tahun 2004 silam, korban jiwa di Simeulue tercatat hanya sekitar enam orang, di saat daerah lain harus kehilangan ratusan ribu nyawa. Keajaiban itu tercipta berkat kearifan lokal **Smong** yang dirawat turun-temurun lewat buaian tidur dan senandung **Nandong**. Alangkah indahnya jika di setiap momen perayaan HUT, pesan mitigasi Smong dan kesenian Nandong selalu mendapat ruang utama. Itu adalah identitas agung yang tidak dimiliki belahan dunia mana pun, sekaligus pengingat abadi bagi anak-cucu kedepannya.  
-2. **Menghidupkan Pasar untuk UMKM Lokal**  
+Saat tsunami menghantam Aceh tahun 2004 silam, korban jiwa di Simeulue tercatat hanya sekitar enam orang, di saat daerah lain harus kehilangan ratusan ribu nyawa. Keajaiban itu tercipta berkat kearifan lokal **Smong** yang dirawat turun-temurun lewat buaian tidur dan senandung **Nandong**. 
+
+Alangkah indahnya jika di setiap momen perayaan HUT, pesan mitigasi Smong dan kesenian Nandong selalu mendapat ruang utama. Itu adalah identitas agung yang tidak dimiliki belahan dunia mana pun, sekaligus pengingat abadi bagi anak-cucu kedepannya.  
+
+
+### Menghidupkan Pasar untuk UMKM Lokal  
+
+
 Kemeriahan bulan Oktober adalah momentum emas bagi ekonomi akar rumput. Menjadi waktu paling pas bagi produk UMKM, hasil laut olahan, kerajinan tangan, hingga kuliner khas Simeulue untuk bertemu langsung dengan pembeli. Apalagi, banyak perantau yang sengaja pulang kampung di bulan ini. Sangat disayangkan jika kepulangan mereka tidak dimanfaatkan untuk perputaran modal lokal dan membawa oleh-oleh khas daerah.  
-3. **Membangun Arsip Digital Terbuka**  
-Dokumentasi foto karnaval sekolah, rekaman penampilan sanggar seni, hingga keseruan turnamen sepak bola antar-SKPK jangan sampai menguap begitu saja. Jika semua itu direkam dan dikelola dalam sebuah platform arsip digital yang terbuka untuk publik, kita akan memiliki warisan sejarah visual yang luar biasa kaya seiring bertambahnya usia kabupaten. Generasi masa depan kelak bisa melihat kembali bagaimana wajah pulau ini dirintis.  
-4. **Menjadikan Lomba sebagai Saringan Bibit Berbakat**  
-Rangkaian perlombaan tahunan ini seyogianya bisa difungsikan sebagai wadah pemantauan bakat (*scouting*) awal. Mereka yang keluar sebagai pencipta musik, pemilik suara emas terbaik, penari, atau pemain bola paling potensial harus dipetakan dan dibina lebih lanjut oleh kedinasan terkait. Sungguh disayangkan jika potensi-potensi besar itu menguap begitu saja setelah piala diserahkan di atas panggung.
+
+
+### Membangun Arsip Digital Terbuka  
+
+
+Dokumentasi foto karnaval sekolah, rekaman penampilan sanggar seni, hingga keseruan turnamen sepak bola antar-SKPK jangan sampai menguap begitu saja. 
+
+
+
+Jika semua itu direkam dan dikelola dalam sebuah platform arsip digital yang terbuka untuk publik, kita akan memiliki warisan sejarah visual yang luar biasa kaya seiring bertambahnya usia kabupaten. Generasi masa depan kelak bisa melihat kembali bagaimana wajah pulau ini dirintis.  
+
+
+### Menjadikan Lomba sebagai Saringan Bibit Berbakat  
+
+
+Rangkaian perlombaan tahunan ini seyogianya bisa difungsikan sebagai wadah pemantauan bakat (*scouting*) awal. Mereka yang keluar sebagai pencipta musik, pemilik suara emas terbaik, penari, atau pemain bola paling potensial harus dipetakan dan dibina lebih lanjut oleh kedinasan terkait. 
+
+
+
+Sungguh disayangkan jika potensi-potensi besar itu menguap begitu saja setelah piala diserahkan di atas panggung.
 
 
 
