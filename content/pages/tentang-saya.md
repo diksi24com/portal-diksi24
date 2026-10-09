@@ -1,34 +1,52 @@
 ---
-title: "Tentang Saya"
-date: 2026-07-17
+title: "Tentang Kami"
+date: 2026-10-09
 draft: false
 ---
 
-## Selamat Datang di teukuanca.com
+**Diksi24.com — Fakta dalam Setiap Kata**
 
-Situs ini lahir dari semangat dan hobi saya untuk menulis, mendokumentasikan, membagi, dan mengenalkan lebih dekat potensi Tanah Kelahiran saya di Simeulue ini, serta pengalaman ataupun perjalanan hari-hari didepan mata yang sangat bermanfaat bagi khalayak luas.
+Diksi24.com adalah portal berita digital yang hadir untuk menyajikan informasi secara jernih, berimbang, dan bertanggung jawab. Kami percaya bahwa berita yang baik bukan sekadar kabar yang cepat sampai, tetapi juga kabar yang dapat dipercaya dan dipahami dengan utuh.
 
-Selain itu, melalui ruang digital ini, saya juga menyajikan beragam narasi, panduan, hingga ulasan mendalam seputar:
-* **Wisata & Jalur Petualangan:** Mengulas keindahan bahari, destinasi tersembunyi, hingga panduan rute transportasi bagi para pelancong.
-* **Kearifan Lokal & Budaya:** Mengangkat tradisi, sejarah, seni, serta nilai-nilai kearifan lokal yang menjadi identitas masyarakat Simeulue dan Aceh.
-* **Ragam Kuliner:** Membagikan resep otentik, kisah di balik kuliner khas, hingga rekomendasi tempat nongkrong dan warung kopi lokal.
-* **Gaya Hidup & Edukasi:** Menyajikan gagasan, cerita komunitas, serta artikel edukasi seputar dinamika sosial dan media digital.
+**Siapa Kami**
 
-## Misi
-Saya percaya bahwa setiap daerah memiliki cerita yang layak untuk diceritakan. Lewat tulisan yang informatif, jujur, dan mudah dipahami.
+Kami adalah ruang redaksi yang terdiri dari penulis, editor, dan kontributor yang peduli pada kualitas informasi. Kami bekerja dengan semangat jurnalistik yang mengutamakan ketepatan, kejelasan, dan keberimbangan, tanpa melupakan sentuhan manusiawi dalam setiap pemberitaan.
 
-Saya berkomitmen untuk menjadi referensi digital yang tepercaya, baik bagi warga lokal, wisatawan, maupun siapa saja yang ingin mengenal Aceh dan Simeulue lebih dekat.
+**Visi**
 
-## Di Balik teukuanca.com
-Situs ini saya kelola secara independen, dengan latar belakang sebagai penggiat narasi lokal yang berdomisili di Simeulue-Aceh. Lewat kecintaan pada dunia kepulauan, sejarah, dan dinamika budaya lokal, situs ini saya kembangkan sebagai bentuk kontribusi nyata dalam literasi digital daerah.
+Menjadi portal berita yang dipercaya publik, khususnya di wilayah Aceh dan Indonesia pada umumnya, sebagai sumber informasi yang akurat, mendalam, dan bermanfaat bagi masyarakat luas.
 
-## Mari Terhubung!
-Saya sangat terbuka untuk diskusi, kritik, saran, maupun peluang kolaborasi. Anda dapat menghubungi melalui:
-* Email: teuku.juni.irwansyah@gmail.com
-* Halaman Kontak: [Hubungi Saya](https://teukuanca.com/pages/hubungi-saya/))
-* Media Sosial: [Facebook](https://www.facebook.com/share/197z6vHCQ2/)
+**Misi**
 
-Terima kasih telah berkunjung dan menjadi bagian dari perjalanan teukuanca.com!
+- Menyajikan berita yang faktual, berimbang, dan bebas dari kepentingan pihak tertentu.
+- Mengangkat isu-isu lokal, nasional, dan daerah dengan sudut pandang yang membangun.
+- Memberi ruang bagi suara masyarakat, pelaku usaha kecil, dan komunitas lokal.
+- Menjaga etika jurnalistik dan menghormati hak-hak narasumber.
+- Menyampaikan informasi dengan bahasa yang mudah dipahami tanpa mengurangi kedalaman.
 
-![Teuku anca](/images/teuku-anca.webp)
-*Teuku Anca-Simeulue Island*
+**Nilai yang Kami Pegang**
+
+**Akurat** — Setiap informasi kami upayakan terverifikasi sebelum dipublikasikan.
+
+**Berimbang** — Kami memberi ruang bagi berbagai sudut pandang secara adil.
+
+**Bertanggung Jawab** — Kami terbuka terhadap koreksi dan hak jawab.
+
+**Independen** — Kami tidak berpihak pada kepentingan politik atau golongan tertentu.
+
+**Rubrik Kami**
+
+- **Berita** — Kabar terkini dari berbagai peristiwa penting.
+- **Nasional** — Liputan peristiwa skala nasional.
+- **Daerah** — Kabar dari berbagai daerah, dengan perhatian khusus pada isu lokal.
+- **Opini** — Ruang bagi gagasan dan pandangan yang disampaikan secara bertanggung jawab.
+
+**Hubungi Kami**
+
+Kami senang mendengar dari Anda — baik itu saran, kritik, koreksi, maupun kiriman berita. Silakan sampaikan melalui halaman **Kontak** yang tersedia di situs ini.
+
+Terima kasih telah menjadikan Diksi24.com sebagai bagian dari sumber informasi Anda.
+
+---
+
+*Redaksi Diksi24.com — Fakta dalam Setiap Kata*
