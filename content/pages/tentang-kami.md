@@ -4,7 +4,7 @@ date: 2026-10-09
 draft: false
 ---
 
-**Diksi24.com — Fakta dalam Setiap Kata**
+**Diksi.com — Fakta dalam Setiap Kata**
 
 Diksi24.com adalah portal berita digital yang hadir untuk menyajikan informasi secara jernih, berimbang, dan bertanggung jawab. Kami percaya bahwa berita yang baik bukan sekadar kabar yang cepat sampai, tetapi juga kabar yang dapat dipercaya dan dipahami dengan utuh.
 
@@ -45,7 +45,7 @@ Menjadi portal berita yang dipercaya publik, khususnya di wilayah Aceh dan Indon
 
 Kami senang mendengar dari Anda — baik itu saran, kritik, koreksi, maupun kiriman berita. Silakan sampaikan melalui halaman **Kontak** yang tersedia di situs ini.
 
-Terima kasih telah menjadikan Diksi24.com sebagai bagian dari sumber informasi Anda.
+Terima kasih telah menjadikan Diksi.com sebagai bagian dari sumber informasi Anda.
 
 ---
 
