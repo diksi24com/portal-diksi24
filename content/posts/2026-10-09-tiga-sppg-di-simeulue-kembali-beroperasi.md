@@ -7,7 +7,7 @@ description: Saat ini, semua SPPG di Kabupaten Simeulue beroperasi dengan baik
 views: 0
 comments: true
 cover:
-  image: /images/IMG-20261008-WA0034.jpg
+  image: /images/ssp-beroperasi.jpg
 ---
 Simeulue (Redaksi) - Badan Gizi Nasional menyatakan sebanyak tiga Satuan Pemenuhan Gizi Nasional (SPPG) di Kabupaten Simeulue yang sempat berhenti beroperasi sementara kembali aktif melayani program Makan Bergizi Gratis (MBG) di kabupaten kepulauan itu.
 
