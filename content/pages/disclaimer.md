@@ -1,34 +1,57 @@
 ---
 title: "Disclaimer"
-date: 2026-07-01
+date: 2026-10-09
 draft: false
 ---
 
-Terakhir diperbarui: 17 Juli 2026
+**Berlaku sejak: 9 Oktober 2026**
 
-Jika Anda memerlukan informasi lebih lanjut atau memiliki pertanyaan tentang disclaimer situs ini, jangan ragu untuk menghubungi melalui formulir kontak atau email di teuku.juni.irwansyah@gmail.com.
+Selamat datang di Diksi24.com. Halaman ini menjelaskan batasan tanggung jawab dan ketentuan penggunaan informasi yang kami sajikan. Kami mengajak Anda membaca dengan tenang sebelum menjelajahi lebih jauh.
 
-Seluruh informasi di situs web teukuanca.com dipublikasikan dengan niat baik dan hanya untuk tujuan informasi umum, edukasi, serta berbagi pengalaman.
+**1. Sifat Informasi**
 
-### 1. Akurasi dan Kelengkapan Informasi
-teukuanca.com tidak memberikan jaminan atas kelengkapan, keandalan, dan keakuratan informasi yang tersaji. Setiap tindakan yang Anda ambil atas informasi yang Anda temukan di situs web ini sepenuhnya merupakan risiko dan tanggung jawab Anda sendiri. 
-teukuanca.com tidak bertanggung jawab atas kerugian dan/atau kerusakan sehubungan dengan penggunaan situs ini.
+Seluruh berita, artikel, opini, gambar, dan materi lain yang tampil di Diksi24.com disajikan semata-mata untuk tujuan informasi publik. Kami berkomitmen menghadirkan kabar yang akurat dan berimbang, namun kami menyadari bahwa setiap informasi memiliki batas dan konteks.
 
-### 2. Informasi Administrasi Publik & Informasi Hukum
-Artikel yang membahas topik administrasi publik, tata kelola pemerintahan, layanan birokrasi, atau regulasi di teukuanca.com disajikan sebagai bentuk ulasan opini dan analisis personal dari sudut pandang pengelola situs.
+**2. Ketepatan dan Pembaruan**
 
-* Informasi tersebut tidak dapat menggantikan konsultasi hukum resmi, petunjuk teknis langsung dari instansi terkait, atau dokumen regulasi pemerintah yang sah.
-* Pembaca disarankan untuk selalu melakukan verifikasi ulang (cross-check) ke instansi atau sumber resmi pemerintah daerah/pusat terkait.
+Kami berupaya menyajikan informasi yang benar pada saat publikasi. Meski demikian, situasi dapat berubah, data dapat diperbarui, dan peristiwa dapat berkembang. Diksi24.com tidak menjamin bahwa setiap informasi tetap relevan atau bebas dari kekeliruan pada waktu Anda membacanya.
 
-### 3. Tautan Eksternal (Situs Pihak Ketiga)
-Dari situs web ini, Anda dapat mengunjungi situs web lain dengan mengikuti tautan (hyperlink) ke situs eksternal tersebut. Meskipun teukuanca.com berupaya hanya menyediakan tautan berkualitas ke situs web yang bermanfaat dan etis, teukuanca.com tidak memiliki kendali atas isi dan sifat situs tersebut.
+**3. Tanggung Jawab Pembaca**
 
-Tautan ke situs web lain tidak mengimplikasikan rekomendasi untuk semua konten yang ditemukan di situs tersebut. Pemilik situs dan konten dapat berubah tanpa pemberitahuan dan dapat terjadi sebelum teukuanca.com memiliki kesempatan untuk menghapus tautan yang mungkin telah 'rusak' atau tidak relevan.
+Setiap tindakan yang Anda ambil berdasarkan informasi dari Diksi24.com adalah tanggung jawab Anda sendiri. Kami tidak bertanggung jawab atas kerugian, baik langsung maupun tidak langsung, yang mungkin timbul dari penggunaan informasi di situs ini.
 
-Perlu dicatat juga bahwa saat Anda meninggalkan situs web ini, situs lain mungkin memiliki kebijakan privasi dan ketentuan berbeda yang berada di luar kendali teukuanca.com. Pastikan untuk memeriksa Kebijakan Privasi serta Syarat dan Ketentuan dari situs-situs tersebut sebelum melakukan bisnis apa pun atau mengunggah informasi apa pun.
+**4. Opini dan Pandangan**
 
-### 4. Konsensus dan Persetujuan
-Dengan menggunakan situs web ini, Anda dengan ini menyetujui Disclaimer kami dan menyetujui ketentuan-ketentuannya.
+Tulisan dalam rubrik opini merupakan pandangan pribadi penulis dan tidak selalu mencerminkan sikap resmi redaksi Diksi24.com. Kami menghargai ruang bagi perbedaan pendapat selama disampaikan secara santun dan bertanggung jawab.
 
-### 5. Pembaruan
-Jika teukuanca.com memperbarui, merubah, atau membuat perubahan apa pun pada dokumen ini, perubahan tersebut akan diposting secara jelas di halaman ini.
+**5. Tautan Keluar**
+
+Diksi24.com dapat memuat tautan ke situs lain. Tautan tersebut kami sertakan sebagai kemudahan, bukan sebagai bentuk dukungan. Kami tidak bertanggung jawab atas isi, kebijakan, atau praktik pada situs pihak ketiga.
+
+**6. Hak Cipta**
+
+Seluruh konten orisinal Diksi24.com dilindungi oleh ketentuan hak cipta yang berlaku. Pengutipan diperbolehkan dengan mencantumkan sumber secara jelas beserta tautan menuju Diksi24.com. Penggunaan komersial tanpa izin tertulis dari redaksi tidak diperkenankan.
+
+**7. Karya Pembaca**
+
+Komentar, tanggapan, atau kiriman dari pembaca sepenuhnya menjadi tanggung jawab pembaca yang bersangkutan. Redaksi berhak menyunting, menolak, atau menghapus konten yang memuat ujaran kebencian, fitnah, spam, atau hal-hal yang melanggar hukum.
+
+**8. Koreksi dan Hak Jawab**
+
+Kami terbuka terhadap koreksi. Apabila Anda menemukan kekeliruan pada pemberitaan kami, sampaikan melalui kanal resmi redaksi. Kami akan menindaklanjuti secara wajar, termasuk menyediakan ruang hak jawab bila diperlukan.
+
+**9. Perubahan Ketentuan**
+
+Diksi24.com dapat memperbarui halaman ini sewaktu-waktu. Versi terbaru akan selalu ditampilkan di halaman ini, dengan tanggal berlaku yang turut diperbarui.
+
+**10. Hukum yang Berlaku**
+
+Halaman Disclaimer ini tunduk pada hukum yang berlaku di Negara Kesatuan Republik Indonesia. Setiap perselisihan akan diupayakan diselesaikan secara musyawarah.
+
+**11. Menghubungi Kami**
+
+Apabila Anda memiliki pertanyaan, koreksi, atau kebutuhan lain terkait konten di Diksi24.com, silakan menghubungi redaksi melalui halaman **Kontak** yang tersedia di situs ini.
+
+---
+
+*Redaksi Diksi24.com — Fakta dalam Setiap Kata*
