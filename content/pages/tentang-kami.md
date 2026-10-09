@@ -6,7 +6,7 @@ draft: false
 
 **Diksi.com — Fakta dalam Setiap Kata**
 
-Diksi24.com adalah portal berita digital yang hadir untuk menyajikan informasi secara jernih, berimbang, dan bertanggung jawab. Kami percaya bahwa berita yang baik bukan sekadar kabar yang cepat sampai, tetapi juga kabar yang dapat dipercaya dan dipahami dengan utuh.
+Diksi.com adalah portal berita digital yang hadir untuk menyajikan informasi secara jernih, berimbang, dan bertanggung jawab. Kami percaya bahwa berita yang baik bukan sekadar kabar yang cepat sampai, tetapi juga kabar yang dapat dipercaya dan dipahami dengan utuh.
 
 **Siapa Kami**
 
@@ -49,4 +49,4 @@ Terima kasih telah menjadikan Diksi.com sebagai bagian dari sumber informasi And
 
 ---
 
-*Redaksi Diksi24.com — Fakta dalam Setiap Kata*
+*Redaksi Diksi.com — Fakta dalam Setiap Kata*
