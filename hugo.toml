@@ -1,6 +1,6 @@
 baseURL = 'https://diksi24.com/'
 languageCode = 'id-id'
-title = 'diksi.com'
+title = 'Diksi24'
 theme = 'PaperMod'
 [taxonomies]
   category = "categories"
