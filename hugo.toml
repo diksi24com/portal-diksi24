@@ -2,7 +2,7 @@ baseURL = 'https://diksi24.com/'
 languageCode = 'id-id'
 title = 'diksi.com'
 theme = 'PaperMod'
-
+ignoreFiles = ["^content/posts/"]
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
