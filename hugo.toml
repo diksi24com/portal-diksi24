@@ -1,4 +1,4 @@
-baseURL = 'https://portal-diksi24.pages.dev/'
+baseURL = 'https://diksi24.com/'
 languageCode = 'id-id'
 title = 'Diksi24'
 theme = 'PaperMod'
