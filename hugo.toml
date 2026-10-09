@@ -1,9 +1,7 @@
-# Force rebuild 2026-09-25
-baseURL = 'https://teukuanca.com/'
+baseURL = 'https://diksi24.com/'
 languageCode = 'id-id'
-title = 'teukuanca.com'
+title = 'diksi.com'
 theme = 'PaperMod'
-
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -14,8 +12,8 @@ theme = 'PaperMod'
 
 [params]
   env = "production"
-  description = "Situs Web Resmi teukuanca.com"
-  author = "Teuku Anca"
+  description = "Portal berita Diksi24 - Fakta dalam Setiap Kata"
+  author = "Redaksi"
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = true
@@ -31,7 +29,7 @@ theme = 'PaperMod'
   hideSummary = false
   showtoc = true
   tocopen = false
-  comments = true
+  comments = false
   ShowSearchIcon = true
 
   [params.header]
@@ -43,30 +41,21 @@ theme = 'PaperMod'
     favicon16x16 = "/images/logo.webp"
     favicon32x32 = "/images/logo.webp"
 
-  [params.utterances]
-    repo = "teukuanca-creat/situsku"
-    issueTerm = "pathname"
-    theme = "github-light"
-    label = ""
-
   [params.analytics]
     google.SiteVerificationTag = ""
 
-  [params.verification]
-    bing = "90402F60B1603D31F7A14C9E4C1A0E47"
-
   [[params.socialIcons]]
     name = "facebook"
-    url = "https://www.facebook.com/share/14qwMpLdrqS/"
-  [[params.socialIcons]]
-    name = "x"
-    url = "https://x.com/teukuanca_TJI"
+    url = "#"
   [[params.socialIcons]]
     name = "instagram"
-    url = "https://www.instagram.com/ancateuku"
+    url = "#"
   [[params.socialIcons]]
-    name = "youtube"
-    url = "https://youtube.com/@teukuancat.j.i8389"
+    name = "tiktok"
+    url = "#"
+  [[params.socialIcons]]
+    name = "whatsapp"
+    url = "https://wa.me/6285359044824"
 
 [menu]
   [[menu.main]]
@@ -81,65 +70,30 @@ theme = 'PaperMod'
     weight = 5
     pre = '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.35-4.35"></path></svg>'
   [[menu.main]]
-    identifier = "cerita-menarik"
-    name = "Cerita Menarik"
-    url = "/categories/cerita-menarik/"
+    identifier = "berita"
+    name = "Berita"
+    url = "/categories/berita/"
     weight = 10
   [[menu.main]]
-    identifier = "edukasi"
-    name = "Edukasi"
-    url = "/categories/edukasi/"
+    identifier = "nasional"
+    name = "Nasional"
+    url = "/categories/nasional/"
     weight = 20
   [[menu.main]]
-    identifier = "regulasi"
-    name = "Regulasi"
-    url = "/categories/regulasi/"
+    identifier = "daerah"
+    name = "Daerah"
+    url = "/categories/daerah/"
     weight = 30
   [[menu.main]]
-    identifier = "travelling"
-    name = "Travelling"
-    url = "/categories/travelling/"
+    identifier = "opini"
+    name = "Opini"
+    url = "/categories/opini/"
     weight = 40
   [[menu.main]]
-    identifier = "kuliner"
-    name = "Kuliner"
-    url = "/categories/kuliner/"
+    identifier = "kontak"
+    name = "Kontak"
+    url = "/pages/hubungi-kami/"
     weight = 50
-  [[menu.main]]
-    identifier = "musik"
-    name = "Musik"
-    url = "/categories/musik/"
-    weight = 60
-  [[menu.main]]
-    identifier = "seni"
-    name = "Seni"
-    url = "/categories/seni/"
-    weight = 70
-  [[menu.main]]
-    identifier = "kreativitas"
-    name = "Kreativitas"
-    url = "/categories/kreativitas/"
-    weight = 80
-  [[menu.main]]
-    identifier = "categories-all"
-    name = "Semua Kategori"
-    url = "/categories/"
-    weight = 90
-  [[menu.main]]
-    identifier = "tags-all"
-    name = "Semua Tag"
-    url = "/tags/"
-    weight = 100
-  [[menu.main]]
-    identifier = "about"
-    name = "Tentang Saya"
-    url = "/pages/tentang-saya/"
-    weight = 110
-  [[menu.main]]
-    identifier = "contact"
-    name = "Hubungi Saya"
-    url = "/pages/hubungi-saya/"
-    weight = 120
   [[menu.footer]]
     identifier = "disclaimer"
     name = "Disclaimer"
@@ -157,13 +111,13 @@ theme = 'PaperMod'
     weight = 30
   [[menu.footer]]
     identifier = "tentang"
-    name = "Tentang Saya"
-    url = "/pages/tentang-saya/"
+    name = "Tentang Kami"
+    url = "/pages/tentang-kami/"
     weight = 40
   [[menu.footer]]
     identifier = "kontak"
-    name = "Hubungi Saya"
-    url = "/pages/hubungi-saya/"
+    name = "Hubungi Kami"
+    url = "/pages/hubungi-kami/"
     weight = 50
 
 [markup]
