@@ -1,31 +1,35 @@
 ---
-title: "Hubungi Saya"
-date: 2026-07-17
+title: "Hubungi Kami"
+date: 2026-10-09
 draft: false
 ---
 
-**Selamat datang di halaman kontak teukuanca.com.**
+Redaksi Diksi24.com membuka pintu bagi pembaca yang ingin menyampaikan pertanyaan, saran, koreksi, informasi, atau kerja sama. Kami menghargai setiap masukan yang disampaikan dengan santun dan bertanggung jawab.
 
-Saya sangat terbuka untuk menerima masukan, saran, pertanyaan, maupun peluang kerja sama dan kolaborasi seputar topik-topik yang ada di teukuanca.com, seperti kearifan lokal, potensi daerah, hingga penulisan artikel.
+Silakan hubungi kami melalui salah satu kanal berikut:
 
-Jika Anda memiliki hal yang ingin didiskusikan atau sekadar ingin menyapa, Anda dapat menghubungi melalui beberapa saluran di bawah ini:
+**WhatsApp**
 
-### 1. Kirim Pesan Langsung (Email)
-Untuk pertanyaan umum, tanggapan artikel, atau penawaran kerja sama, silakan kirimkan email ke:
+Kanal tercepat untuk menyampaikan informasi terkini, konfirmasi, atau pertanyaan singkat.
 
-* Email: **teuku.juni.irwansyah@gmail.com**
+📱 [**+62 853-5904-4824**](https://wa.me/6285359044824)
 
-Saya berupaya merespons setiap pesan yang masuk dalam waktu 1x24 jam.
+**Email**
 
-### 2. Media Sosial
-Mari terhubung dan berdiskusi lebih dekat melalui jejaring sosial:
+Untuk kiriman rilis, undangan liputan, kerja sama, atau korespondensi resmi.
 
-* Instagram: [@ancateuku](https://www.instagram.com/ancateuku?igsi=MXQ2Mm40dXhtcnlkYw==)
-* Facebook: [Teuku Anca](https://www.facebook.com/share/1DxkzBHPbF/)
+✉️ [**diksi.com2026@gmail.com**](mailto:diksi.com2026@gmail.com)
 
-### 3. Alamat & Domisili
-teukuanca.com dikelola secara mandiri dari:
+**Waktu Layanan**
 
-* Lokasi: **Simeulue, Provinsi Aceh, Indonesia**.
+Kami berupaya menanggapi setiap pesan secepat mungkin. Untuk urusan redaksi, tanggapan biasanya diberikan pada hari kerja.
 
-Terima kasih atas kunjungan dan dukungan Anda.
+**Kiriman dari Pembaca**
+
+Jika Anda mengirimkan berita, foto, atau informasi untuk kami publikasikan, mohon sertakan sumber yang jelas, waktu kejadian, dan lokasi yang akurat. Redaksi berhak menyunting atau menolak kiriman yang tidak memenuhi kaidah jurnalistik atau memuat unsur yang melanggar hukum.
+
+Terima kasih atas kepercayaan Anda kepada Diksi24.com.
+
+---
+
+*Redaksi Diksi24.com — Fakta dalam Setiap Kata*
