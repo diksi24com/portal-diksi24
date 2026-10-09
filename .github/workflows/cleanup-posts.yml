@@ -1,0 +1,35 @@
+name: Cleanup Old Posts
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Delete all posts
+        run: |
+          if [ -d "content/posts" ]; then
+            rm -rf content/posts/*
+            echo "Deleted all files in content/posts/"
+          else
+            echo "Folder content/posts not found"
+          fi
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/posts
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Cleanup: hapus semua artikel teukuanca.com"
+            git push
+          fi
