@@ -4,6 +4,8 @@ date: 2026-10-09
 draft: false
 description: Saat ini, semua SPPG di Kabupaten Simeulue beroperasi dengan baik
   setelah dana operasionalnya masuk
+categories:
+  - "Daerah "
 views: 0
 comments: true
 cover:
