@@ -2,7 +2,15 @@ baseURL = 'https://diksi24.com/'
 languageCode = 'id-id'
 title = 'diksi.com'
 theme = 'PaperMod'
-ignoreFiles = ["^content/posts/"]
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[permalinks]
+  posts = "/berita/:slug/"
+
+[frontmatter]
+  lastmod = [":git", "lastmod", "date", "publishDate"]
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
