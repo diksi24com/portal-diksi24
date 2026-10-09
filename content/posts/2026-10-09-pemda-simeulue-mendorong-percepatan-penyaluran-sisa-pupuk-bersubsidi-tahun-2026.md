@@ -4,6 +4,8 @@ date: 2026-10-09
 draft: false
 description: Pemerintah Kabupaten Simeulue mendorong percepatan penyaluran sisa
   pupuk bersubsidi tahun 2026
+categories:
+  - "Daerah "
 views: 0
 comments: true
 cover:
