@@ -11,6 +11,7 @@ theme = 'PaperMod'
   home = ["HTML", "RSS", "JSON"]
 
 [params]
+  mainSections = ["posts"]
   env = "production"
   description = "Portal berita Diksi24 - Fakta dalam Setiap Kata"
   author = "Redaksi"
