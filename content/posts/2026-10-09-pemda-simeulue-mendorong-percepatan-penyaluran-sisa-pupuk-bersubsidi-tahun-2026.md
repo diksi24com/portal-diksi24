@@ -7,7 +7,7 @@ description: Pemerintah Kabupaten Simeulue mendorong percepatan penyaluran sisa
 views: 0
 comments: true
 cover:
-  image: /images/IMG-20261008-WA0035.jpg
+  image: /images/pupuk-subsidi.jpg
 ---
 Simeulue (Redaksi) - Pemerintah Kabupaten Simeulue mendorong percepatan penyaluran sisa pupuk bersubsidi tahun 2026 kepada petani untuk mendukung musim tanam ketiga di kabupaten kepulauan di Provinsi Aceh tersebut.
 
