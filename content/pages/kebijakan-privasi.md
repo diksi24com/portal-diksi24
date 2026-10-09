@@ -1,49 +1,81 @@
 ---
 title: "Kebijakan Privasi"
-date: 2026-07-17
+date: 2026-10-09
 draft: false
 ---
 
-**Terakhir diperbarui: 17 Juli 2026**
-Selamat datang di **teukuanca.com**. 
+**Berlaku sejak: 9 Oktober 2026**
 
-Saya sangat menghargai privasi Anda dan berkomitmen untuk melindungi informasi pribadi yang Anda bagikan saat mengakses situs ini. Kebijakan Privasi ini menjelaskan bagaimana saya mengumpulkan, menggunakan, dan melindungi data Anda.
+Diksi.com menghargai privasi setiap pembaca. Halaman ini menjelaskan data apa yang kami kumpulkan, bagaimana data tersebut digunakan, serta hak-hak Anda sebagai pengguna. Kami berupaya menyampaikan penjelasan ini dengan bahasa yang sederhana dan terbuka.
 
-## ​1. Informasi yang di Kumpulkan
-​teukuanca.com dapat mengumpulkan informasi pribadi maupun non-pribadi dengan cara berikut:
+**1. Informasi yang Kami Kumpulkan**
 
-* **​Informasi Pribadi yang Anda Berikan:** Ketika Anda mengisi formulir kontak, berlangganan newsletter, atau meninggalkan komentar di artikel (seperti nama, alamat email, dan situs web).
+Kami dapat mengumpulkan beberapa jenis informasi ketika Anda mengunjungi Diksi.com:
 
-* **​Data Log & Analistik:** Informasi otomatis yang dikirimkan oleh peramban (browser) Anda saat mengunjungi situs ini, termasuk alamat IP, jenis perangkat, peramban, halaman yang dikunjungi, serta waktu akses.
+- **Informasi yang Anda berikan secara sadar**, seperti nama, alamat email, atau nomor telepon ketika menghubungi redaksi atau mengirimkan berita.
+- **Informasi teknis otomatis**, seperti alamat IP, jenis perangkat, jenis browser, sistem operasi, halaman yang Anda kunjungi, dan waktu kunjungan.
+- **Data analitik**, untuk memahami bagaimana pembaca menggunakan situs kami, sehingga kami bisa terus memperbaiki layanan.
 
-## ​2. Penggunaan Informasi
-​Informasi yang di kumpulkan digunakan untuk:
+**2. Bagaimana Kami Menggunakan Informasi**
 
-* ​Mengelola, mengoperasikan, dan meningkatkan kualitas konten di teukuanca.com.
+Informasi yang kami kumpulkan digunakan untuk:
 
-* ​Merespons pertanyaan, masukan, atau permintaan saran dari pembaca.
+- Menyajikan konten dan pengalaman membaca yang lebih baik.
+- Menanggapi pertanyaan, koreksi, atau permintaan Anda.
+- Menganalisis kinerja situs dan memperbaiki tampilan maupun fitur.
+- Menjaga keamanan situs dari aktivitas yang merugikan.
 
-* ​Mencegah aktivitas penyalahgunaan atau tindakan spam di kolom komentar.
+Kami tidak memperjualbelikan data pembaca kepada pihak ketiga.
 
-## ​3. Cookies dan Teknologi Pelacak
-​Situs ini menggunakan cookies untuk menyimpan preferensi pengunjung dan mengoptimalkan pengalaman Anda saat berjelajah. Anda dapat memilih untuk mematikan cookies melalui pengaturan peramban masing-masing, meskipun beberapa fitur situs mungkin tidak berfungsi secara maksimal.
+**3. Cookie dan Teknologi Serupa**
 
-## 4. Layanan Pihak Ketiga
-teukuanca.com menggunakan layanan pihak ketiga untuk mendukung operasional situs:
+Diksi.com dapat menggunakan cookie dan teknologi serupa untuk:
 
-- Google Analytics, untuk menganalisis lalu lintas dan perilaku pengunjung
-- Shopee Affiliate, untuk menampilkan tautan produk rekomendasi
+- Mengingat preferensi Anda, seperti tema terang atau gelap.
+- Memahami pola kunjungan melalui layanan analitik.
+- Menampilkan konten yang relevan dengan minat pembaca.
 
-Pihak ketiga ini memiliki kebijakan privasi tersendiri dalam mengelola data yang mereka kumpulkan secara independen..
+Anda dapat mengatur browser Anda untuk menolak cookie atau memberi tahu setiap kali cookie hendak disimpan. Namun, sebagian fitur situs mungkin tidak berjalan optimal bila cookie dinonaktifkan.
 
-## 5. Tautan Afiliasi
-Beberapa tautan di situs ini merupakan tautan afiliasi. Jika Anda melakukan pembelian melalui tautan tersebut, saya dapat menerima komisi kecil tanpa menambah biaya yang Anda bayarkan. Saya hanya merekomendasikan produk yang saya anggap bermanfaat bagi pembaca.
+**4. Berbagi Informasi dengan Pihak Ketiga**
 
-## ​6. Persetujuan dan Perubahan Kebijakan
-​Dengan menggunakan situs teukuanca.com, Anda menyatakan menyetujui Kebijakan Privasi ini. teukuanca.com berhak untuk memperbarui atau mengubah kebijakan ini sewaktu-waktu. Perubahan akan langsung berlaku setelah diunggah di halaman ini.
+Kami dapat membagikan informasi terbatas kepada pihak ketiga dalam kondisi berikut:
 
-## ​Hubungi Saya 
-​Jika Anda memiliki pertanyaan seputar Kebijakan Privasi ini, Anda dapat menghubungi melalui halaman formulir kontak atau email di:
+- **Penyedia layanan teknis**, seperti layanan hosting dan analitik, yang membantu operasional situs.
+- **Kewajiban hukum**, apabila diminta oleh otoritas yang berwenang sesuai peraturan perundang-undangan yang berlaku.
+- **Perlindungan hak**, untuk menegakkan ketentuan layanan kami atau melindungi hak, keselamatan, dan keamanan pembaca maupun redaksi.
 
+**5. Keamanan Data**
 
-* **teuku.juni.irwansyah@gmail.com.**
+Kami berupaya menjaga keamanan data dengan menerapkan langkah-langkah teknis yang wajar. Meski demikian, tidak ada sistem di internet yang sepenuhnya bebas risiko. Kami menyarankan Anda untuk berhati-hati dalam menyampaikan informasi pribadi melalui kanal digital apa pun.
+
+**6. Hak Anda**
+
+Sebagai pembaca, Anda berhak untuk:
+
+- Mengetahui data pribadi apa yang kami simpan terkait Anda.
+- Meminta koreksi atas data yang tidak akurat.
+- Meminta penghapusan data pribadi Anda dari sistem kami.
+- Menarik persetujuan atas penggunaan data Anda kapan saja.
+
+Untuk menggunakan hak-hak tersebut, silakan menghubungi redaksi melalui halaman **Kontak** yang tersedia di situs ini.
+
+**7. Tautan ke Situs Lain**
+
+Diksi.com dapat memuat tautan menuju situs pihak ketiga. Kami tidak bertanggung jawab atas praktik privasi atau isi dari situs-situs tersebut. Kami menyarankan Anda membaca kebijakan privasi setiap situs yang Anda kunjungi.
+
+**8. Privasi Anak**
+
+Diksi.com tidak dengan sengaja mengumpulkan data pribadi dari anak-anak di bawah usia 13 tahun. Apabila Anda mengetahui adanya data anak yang tersimpan di sistem kami, silakan menghubungi redaksi agar dapat segera kami tindak lanjuti.
+
+**9. Perubahan Kebijakan Privasi**
+
+Kebijakan ini dapat diperbarui sewaktu-waktu untuk menyesuaikan dengan perkembangan layanan atau peraturan yang berlaku. Versi terbaru akan selalu ditampilkan di halaman ini, disertai tanggal berlaku yang turut diperbarui.
+
+**10. Hubungi Kami**
+
+Apabila Anda memiliki pertanyaan, kekhawatiran, atau permintaan terkait privasi Anda, silakan menghubungi redaksi melalui halaman **Kontak** yang tersedia di situs ini.
+
+---
+
+*Redaksi Diksi.com — Fakta dalam Setiap Kata*
