@@ -2,21 +2,13 @@ baseURL = 'https://diksi24.com/'
 languageCode = 'id-id'
 title = 'Diksi24'
 theme = 'PaperMod'
+
 [taxonomies]
   category = "categories"
   tag = "tags"
 
-[permalinks]
-  posts = "/berita/:slug/"
-
-[frontmatter]
-  lastmod = [":git", "lastmod", "date", "publishDate"]
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
-[taxonomies]
-  category = "categories"
-  tag = "tags"
 
 [params]
   env = "production"
@@ -52,6 +44,9 @@ theme = 'PaperMod'
   [params.analytics]
     google.SiteVerificationTag = ""
 
+  [[params.socialIcons]]
+    name = "diksi24"
+    url = "#"
   [[params.socialIcons]]
     name = "facebook"
     url = "#"
