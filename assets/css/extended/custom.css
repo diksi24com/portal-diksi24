@@ -62,7 +62,7 @@ figure.entry-cover img,
 }
 
 /* ============================================================
-   KATEGORI & TAG - TAMPILAN LEBIH RAPI
+   KATEGORI & TAG
    ============================================================ */
 
 .terms-tags {
@@ -140,12 +140,6 @@ figure.entry-cover img,
 * {
     -webkit-font-smoothing: antialiased !important;
     -moz-osx-font-smoothing: grayscale !important;
-}
-
-.entry-cover,
-.grid-card,
-.terms-tags a {
-    will-change: transform !important;
 }
 
 img {
@@ -254,7 +248,7 @@ img {
 }
 
 /* ============================================================
-   HOMEPAGE - RAPIKAN GRID POST
+   HOMEPAGE - GRID POST
    ============================================================ */
 
 body.list .post-entry h2 {
@@ -435,19 +429,8 @@ article.post-single h1,
     align-items: center !important;
 }
 
-.post-meta-info-single .post-author {
-    display: inline-flex !important;
-    align-items: center !important;
-    gap: 4px !important;
-    font-weight: 500 !important;
-}
-
-.post-meta-info-single .post-date {
-    display: inline-flex !important;
-    align-items: center !important;
-    gap: 4px !important;
-}
-
+.post-meta-info-single .post-author,
+.post-meta-info-single .post-date,
 .post-meta-info-single .post-categories {
     display: inline-flex !important;
     align-items: center !important;
@@ -534,10 +517,6 @@ article.post-single h1,
     border-radius: 8px !important;
 }
 
-.post-single .post-content > p:has(> strong:first-child) {
-    margin-bottom: 1.5em !important;
-}
-
 [data-theme="dark"] .post-single .post-content {
     color: #d1d5db !important;
 }
@@ -576,7 +555,7 @@ h1 > a > svg {
 }
 
 /* ============================================================
-   MENU HORIZONTAL SCROLL — ALA ANTARANEWS
+   MENU HORIZONTAL SCROLL + HAMBURGER BERFUNGSI
    ============================================================ */
 
 .header-nav {
@@ -584,6 +563,7 @@ h1 > a > svg {
     align-items: center !important;
     justify-content: space-between !important;
     width: 100% !important;
+    position: relative !important;
 }
 
 .header-nav .logo {
@@ -599,11 +579,6 @@ h1 > a > svg {
     gap: 10px !important;
 }
 
-/* Sembunyikan hamburger di semua ukuran layar */
-.nav-toggle {
-    display: none !important;
-}
-
 /* DESKTOP: menu di bawah logo, full width, scrollable */
 @media screen and (min-width: 769px) {
     .header-nav {
@@ -612,6 +587,10 @@ h1 > a > svg {
     
     .header-nav .logo {
         flex: 1 1 100% !important;
+    }
+    
+    .nav-toggle {
+        display: none !important;
     }
     
     .header-nav .menu {
@@ -645,9 +624,9 @@ h1 > a > svg {
     
     .header-nav .menu a {
         display: block !important;
-        padding: 9px 16px !important;
+        padding: 8px 14px !important;
         color: #ffffff !important;
-        font-size: 14px !important;
+        font-size: 13px !important;
         font-weight: 600 !important;
         text-decoration: none !important;
         white-space: nowrap !important;
@@ -672,21 +651,30 @@ h1 > a > svg {
     }
 }
 
-/* HP: menu horizontal scroll gelap, ringkas seperti Antaranews */
+/* HP: menu strip hitam horizontal rapat + hamburger berfungsi */
 @media (max-width: 768px) {
     .header-nav {
         flex-wrap: wrap !important;
+        position: relative !important;
     }
     
     .header-nav .logo {
-        flex: 1 1 100% !important;
+        flex: 1 1 auto !important;
+        width: auto !important;
     }
     
-    /* Hamburger tetap disembunyikan — menu selalu tampil */
+    /* Hamburger tampil dan berfungsi */
     .nav-toggle {
-        display: none !important;
+        display: flex !important;
+        background: none;
+        border: none;
+        cursor: pointer;
+        padding: 5px;
+        color: var(--primary);
+        order: 2 !important;
     }
     
+    /* Menu strip hitam horizontal (default) */
     .header-nav .menu {
         display: flex !important;
         flex-direction: row !important;
@@ -704,6 +692,7 @@ h1 > a > svg {
         max-height: none !important;
         box-shadow: none !important;
         flex: 1 1 100% !important;
+        order: 3 !important;
         list-style: none !important;
     }
     
@@ -720,11 +709,12 @@ h1 > a > svg {
         line-height: 1 !important;
     }
     
+    /* Menu link lebih rapat */
     .header-nav .menu a {
         display: block !important;
-        padding: 8px 14px !important;
+        padding: 7px 11px !important;
         color: #ffffff !important;
-        font-size: 13px !important;
+        font-size: 12px !important;
         font-weight: 600 !important;
         text-decoration: none !important;
         white-space: nowrap !important;
@@ -747,5 +737,40 @@ h1 > a > svg {
     
     .header-nav .menu a .active-line {
         display: none !important;
+    }
+    
+    /* Ketika hamburger diklik — menu berubah jadi vertikal (dropdown) */
+    .header-nav .menu.active {
+        flex-direction: column !important;
+        overflow-x: hidden !important;
+        overflow-y: auto !important;
+        position: absolute !important;
+        top: 100% !important;
+        left: 0 !important;
+        right: 0 !important;
+        max-height: 70vh !important;
+        padding: 6px 0 !important;
+        z-index: 99 !important;
+        margin: 0 !important;
+        border-radius: 0 !important;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.3) !important;
+    }
+    
+    .header-nav .menu.active li {
+        width: 100% !important;
+        flex-shrink: 1 !important;
+    }
+    
+    .header-nav .menu.active a {
+        padding: 12px 20px !important;
+        font-size: 14px !important;
+        border-bottom: 1px solid #333 !important;
+        border-left: 3px solid transparent !important;
+    }
+    
+    .header-nav .menu.active a.active,
+    .header-nav .menu.active a:hover {
+        border-left-color: #e60000 !important;
+        border-bottom-color: #333 !important;
     }
    }
