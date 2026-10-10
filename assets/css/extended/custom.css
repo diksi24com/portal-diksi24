@@ -856,3 +856,64 @@ article.post-single .entry-cover img {
         width: 100% !important;
     }
 }
+/* ============================================================
+   FIX GAMBAR DI GRID HOMEPAGE — TAMPIL FULL TANPA TERPOTONG
+   ============================================================ */
+
+/* Gambar di kartu homepage — tampil full */
+body.list article.post-entry .entry-cover img,
+body.list .post-entry .entry-cover img,
+body.list article.first-entry .entry-cover img,
+body.list .first-entry .entry-cover img,
+article.first-entry .entry-cover img {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+    min-height: 0 !important;
+    object-fit: contain !important;
+    object-position: center !important;
+    display: block !important;
+    border-radius: 8px !important;
+    margin: 0 auto !important;
+}
+
+/* Gambar di section PILIHAN EDITOR (grid homepage) */
+.editor-card .card-img,
+.editor-card .card-img img,
+.pilihan-editor .post-entry .entry-cover img {
+    height: auto !important;
+    max-height: none !important;
+    min-height: 0 !important;
+    object-fit: contain !important;
+    width: 100% !important;
+    border-radius: 8px !important;
+}
+
+/* Container cover di grid — biar tidak crop */
+body.list article.post-entry .entry-cover,
+body.list .post-entry .entry-cover,
+article.first-entry .entry-cover {
+    height: auto !important;
+    max-height: none !important;
+    overflow: visible !important;
+}
+
+/* HP: tetap full */
+@media (max-width: 768px) {
+    body.list article.post-entry .entry-cover img,
+    body.list .post-entry .entry-cover img,
+    body.list article.first-entry .entry-cover img,
+    body.list .first-entry .entry-cover img,
+    article.first-entry .entry-cover img {
+        height: auto !important;
+        max-height: none !important;
+        min-height: 0 !important;
+    }
+    
+    .editor-card .card-img,
+    .editor-card .card-img img {
+        height: auto !important;
+        max-height: none !important;
+    }
+}
