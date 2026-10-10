@@ -47,6 +47,44 @@ Kami senang mendengar dari Anda — baik itu saran, kritik, koreksi, maupun kiri
 
 Terima kasih telah menjadikan Diksi.com sebagai bagian dari sumber informasi Anda.
 
+Selamat Datang Diportal Diski24.com
+
+CO:
+
+Muliana
+
+Pemimpin Redaksi/Penanggung Jawab:
+
+Ai
+
+Redaktur Pelaksana: -
+
+Wartawan : -
+
+Penasehat Hukum:
+
+-
+
+Staf Keuangan:
+
+Cadar
+
+Staf Marketing dan Iklan:
+
+Email : diksi.com2026@gmail.com
+
+IT/Web:
+
+Rek BSI:
+
+7275772067
+
+ 
+
+Alamat Redaksi: Jln. Tgk Diujung, Desa Suak Buluh, Kecamtan Simeulue TImur
+Kabupaten Simeulue – Aceh, Telp. 0851-2981-5558
+
+Wartawan Diksi24.com Dibekali Kartu Identitas dan Surat Tugas Serta Namanya Tercantum Dalam Box atau Halaman Redaksi Ini.
 ---
 
 *Redaksi Diksi.com — Fakta dalam Setiap Kata*
