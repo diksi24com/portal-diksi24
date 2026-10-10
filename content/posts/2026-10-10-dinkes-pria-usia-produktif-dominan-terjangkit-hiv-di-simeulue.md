@@ -13,7 +13,7 @@ comments: true
 cover:
   image: /images/Screenshot_2026_1010_082625-1.jpg
 ---
-Simeulue (Diksi24) - Dinas Kesehatan (Dinkes) Kabupaten Simeulue menyatakan pria usia produktif paling dominan terjangkit Human Immunodeficiency Virus (HIV) di kabupaten kepulauan di Provinsi Aceh tersebut.
+Simeulue (Diksi) - Dinas Kesehatan (Dinkes) Kabupaten Simeulue menyatakan pria usia produktif paling dominan terjangkit Human Immunodeficiency Virus (HIV) di kabupaten kepulauan di Provinsi Aceh tersebut.
 
 Kepala Bidang Pencegahan dan Pengendalian Penyakit (P2P) Dinas Kesehatan Kabupaten Simeulue Mushallin di Simeulue, Selasa, mengatakan ada sebanyak 48 kasus HIV di wilayah kepulauan tersebut sejak 2007 hingga sekarang.
 
@@ -31,9 +31,8 @@ Mushallin mengatakan Dinas Kesehatan Kabupaten Simeulue berkomitmen memperkuat l
 
 Selain itu, kata dia, pihaknya terus mengimbau masyarakat untuk senantiasa menerapkan pola hidup sehat, menghindari perilaku berisiko, serta menghapus stigma negatif terhadap orang dengan HIV agar proses deteksi dini dan pendampingan medis dapat berjalan secara optimal.
 
-"Kami terus mengedukasi masyarakat di Kabupaten Simeulue dalam pencegahan penularan HIV di Kabupaten Simeulue dengan menghindari perilaku berisiko," kata Mushallin.
+"Kami terus mengedukasi masyarakat di Kabupaten Simeulue dalam pencegahan penularan HIV di Kabupaten Simeulue dengan menghindari perilaku berisiko," kata Mushallin.***
 
 Penulis: Redaksi
 
-  
 Editor: -
