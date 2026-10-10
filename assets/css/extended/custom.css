@@ -817,3 +817,42 @@ body {
         border-radius: 0 !important;
     }
 }
+/* ============================================================
+   FIX GAMBAR UNGGULAN DI ARTIKEL — TAMPIL FULL TANPA TERPOTONG
+   ============================================================ */
+
+/* Gambar cover di halaman artikel tunggal — tampil utuh */
+.post-single .entry-cover,
+.post-single figure.entry-cover {
+    max-width: 100% !important;
+    margin: 0 0 20px 0 !important;
+    overflow: visible !important;
+    border-radius: 10px !important;
+}
+
+.post-single .entry-cover img,
+.post-single figure.entry-cover img,
+article.post-single .entry-cover img {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+    min-height: 0 !important;
+    object-fit: contain !important;
+    object-position: center !important;
+    border-radius: 10px !important;
+    display: block !important;
+    margin: 0 auto !important;
+}
+
+/* HP: gambar unggulan tetap full */
+@media (max-width: 768px) {
+    .post-single .entry-cover img,
+    .post-single figure.entry-cover img,
+    article.post-single .entry-cover img {
+        height: auto !important;
+        max-height: none !important;
+        min-height: 0 !important;
+        width: 100% !important;
+    }
+}
