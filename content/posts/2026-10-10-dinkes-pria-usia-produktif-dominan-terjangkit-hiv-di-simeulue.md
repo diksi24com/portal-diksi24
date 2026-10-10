@@ -27,7 +27,7 @@ Mushallin mengatakan Dinas Kesehatan Kabupaten Simeulue berkomitmen memperkuat l
 
 
 
-> **Pemda Simeulue Mendorong Percepatan Penyaluran Sisa Pupuk Bersubsidi Tahun 2026**
+> **[Pemda Simeulue Mendorong Percepatan Penyaluran Sisa Pupuk Bersubsidi Tahun 2026](https://diksi24.com/posts/2026-10-09-pemda-simeulue-mendorong-percepatan-penyaluran-sisa-pupuk-bersubsidi-tahun-2026/)**
 
 Selain itu, kata dia, pihaknya terus mengimbau masyarakat untuk senantiasa menerapkan pola hidup sehat, menghindari perilaku berisiko, serta menghapus stigma negatif terhadap orang dengan HIV agar proses deteksi dini dan pendampingan medis dapat berjalan secara optimal.
 
