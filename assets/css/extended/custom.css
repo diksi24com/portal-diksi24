@@ -976,3 +976,70 @@ a.entry-cover img {
         min-height: 0 !important;
     }
 }
+/* ============================================================
+   OVERRIDE TOTAL — GAMBAR FULL DI SEMUA GRID
+   ============================================================ */
+
+/* Semua entry-cover: paksa auto */
+body .entry-cover,
+body figure.entry-cover,
+body a.entry-cover,
+main .entry-cover,
+main figure.entry-cover,
+article .entry-cover {
+    display: block !important;
+    height: auto !important;
+    max-height: none !important;
+    min-height: unset !important;
+    overflow: visible !important;
+    padding: 0 !important;
+    aspect-ratio: unset !important;
+    contain: none !important;
+}
+
+/* Semua gambar di entry-cover: paksa auto */
+body .entry-cover img,
+body figure.entry-cover img,
+body a.entry-cover img,
+main .entry-cover img,
+main figure.entry-cover img,
+article .entry-cover img {
+    display: block !important;
+    width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+    min-height: unset !important;
+    object-fit: unset !important;
+    object-position: unset !important;
+    aspect-ratio: unset !important;
+    contain: none !important;
+    border-radius: 8px !important;
+}
+
+/* Override semua media query yang mungkin ada */
+@media screen and (max-width: 900px),
+       screen and (max-width: 800px),
+       screen and (max-width: 768px),
+       screen and (max-width: 600px),
+       screen and (max-width: 480px) {
+    body .entry-cover,
+    body figure.entry-cover,
+    main .entry-cover,
+    main figure.entry-cover,
+    article .entry-cover {
+        height: auto !important;
+        max-height: none !important;
+        min-height: unset !important;
+    }
+    
+    body .entry-cover img,
+    body figure.entry-cover img,
+    main .entry-cover img,
+    main figure.entry-cover img,
+    article .entry-cover img {
+        height: auto !important;
+        max-height: none !important;
+        min-height: unset !important;
+        width: 100% !important;
+    }
+       }
