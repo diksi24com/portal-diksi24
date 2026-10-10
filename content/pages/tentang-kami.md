@@ -81,7 +81,7 @@ Rek BSI:
 
  
 
-Alamat Redaksi: Jln. Tgk Diujung, Desa Suak Buluh, Kecamtan Simeulue TImur
+Alamat Redaksi: Jln. Tgk Diujung, Desa Suak Buluh, Kecamtan Simeulue TImur,
 Kabupaten Simeulue – Aceh, Telp. 0851-2981-5558
 
 Wartawan Diksi24.com Dibekali Kartu Identitas dan Surat Tugas Serta Namanya Tercantum Dalam Box atau Halaman Redaksi Ini.
