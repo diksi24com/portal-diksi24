@@ -64,3 +64,36 @@ content:
         label: Isi Artikel
         type: rich-text
         required: true
+
+  - name: pages
+    label: Halaman
+    type: collection
+    path: content/pages
+    filename: "{slug}.md"
+    view:
+      fields: [title, date, draft]
+      sort: [title, asc]
+    fields:
+      - name: title
+        label: Judul Halaman
+        type: string
+        required: true
+
+      - name: date
+        label: Tanggal
+        type: date
+        required: true
+
+      - name: draft
+        label: Draft
+        type: boolean
+        default: false
+
+      - name: description
+        label: Deskripsi
+        type: text
+
+      - name: body
+        label: Isi Halaman
+        type: rich-text
+        required: true
