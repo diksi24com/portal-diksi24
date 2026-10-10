@@ -599,6 +599,7 @@ h1 > a > svg {
     gap: 10px !important;
 }
 
+/* Sembunyikan hamburger di semua ukuran layar */
 .nav-toggle {
     display: none !important;
 }
@@ -623,10 +624,11 @@ h1 > a > svg {
         scrollbar-width: none !important;
         width: 100% !important;
         background: #1a1a1a !important;
-        margin: 8px -24px 0 -24px !important;
+        margin: 4px -24px 0 -24px !important;
         padding: 0 16px !important;
         justify-content: flex-start !important;
         flex: 1 1 100% !important;
+        list-style: none !important;
     }
     
     .header-nav .menu::-webkit-scrollbar {
@@ -638,11 +640,12 @@ h1 > a > svg {
         list-style: none !important;
         margin: 0 !important;
         padding: 0 !important;
+        line-height: 1 !important;
     }
     
     .header-nav .menu a {
         display: block !important;
-        padding: 12px 18px !important;
+        padding: 9px 16px !important;
         color: #ffffff !important;
         font-size: 14px !important;
         font-weight: 600 !important;
@@ -650,6 +653,7 @@ h1 > a > svg {
         white-space: nowrap !important;
         transition: background 0.3s ease !important;
         border-bottom: 3px solid transparent !important;
+        line-height: 1.2 !important;
     }
     
     .header-nav .menu a:hover,
@@ -662,9 +666,13 @@ h1 > a > svg {
         color: #ffffff !important;
         -webkit-text-fill-color: #ffffff !important;
     }
+    
+    .header-nav .menu a .active-line {
+        display: none !important;
+    }
 }
 
-/* HP: menu di bawah, scrollable, gelap */
+/* HP: menu horizontal scroll gelap, ringkas seperti Antaranews */
 @media (max-width: 768px) {
     .header-nav {
         flex-wrap: wrap !important;
@@ -674,13 +682,9 @@ h1 > a > svg {
         flex: 1 1 100% !important;
     }
     
+    /* Hamburger tetap disembunyikan — menu selalu tampil */
     .nav-toggle {
-        display: flex !important;
-        background: none;
-        border: none;
-        cursor: pointer;
-        padding: 5px;
-        color: var(--primary);
+        display: none !important;
     }
     
     .header-nav .menu {
@@ -694,12 +698,13 @@ h1 > a > svg {
         scrollbar-width: none !important;
         width: 100% !important;
         background: #1a1a1a !important;
-        margin: 0 !important;
-        padding: 0 8px !important;
+        margin: 4px 0 0 0 !important;
+        padding: 0 !important;
         position: static !important;
         max-height: none !important;
         box-shadow: none !important;
         flex: 1 1 100% !important;
+        list-style: none !important;
     }
     
     .header-nav .menu::-webkit-scrollbar {
@@ -710,12 +715,14 @@ h1 > a > svg {
         flex-shrink: 0 !important;
         width: auto !important;
         padding: 0 !important;
+        margin: 0 !important;
         list-style: none !important;
+        line-height: 1 !important;
     }
     
     .header-nav .menu a {
         display: block !important;
-        padding: 10px 14px !important;
+        padding: 8px 14px !important;
         color: #ffffff !important;
         font-size: 13px !important;
         font-weight: 600 !important;
@@ -724,6 +731,7 @@ h1 > a > svg {
         border-bottom: 3px solid transparent !important;
         border-top: none !important;
         width: auto !important;
+        line-height: 1.2 !important;
     }
     
     .header-nav .menu a:hover,
@@ -735,5 +743,9 @@ h1 > a > svg {
     .header-nav .menu a span.active {
         color: #ffffff !important;
         -webkit-text-fill-color: #ffffff !important;
+    }
+    
+    .header-nav .menu a .active-line {
+        display: none !important;
     }
    }
