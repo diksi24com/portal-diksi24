@@ -2,7 +2,7 @@
 title: "Tiga SPPG di Simeulue kembali beroperasi "
 date: 2026-10-09
 draft: false
-description: "Oleh: Redaksi"
+description: Redaksi
 categories:
   - Daerah
 views: 0
