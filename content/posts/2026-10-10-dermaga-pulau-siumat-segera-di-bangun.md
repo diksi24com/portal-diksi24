@@ -18,6 +18,8 @@ Bupati Simeulue Muhammad Nasrun Mikaris di Simeulue, mengatakan perbaikan dermag
 
 "Perbaikan dermaga pulau terluar NKRI itu merupakan bagian dari komitmen Pemerintah Kabupaten Simeulue dalam meningkatkan konektivitas dan akses transportasi masyarakat di wilayah kepulauan," katanya, Sabtu, 10/10/2026.
 
+> [Baca:](https://diksi24.com/posts/2026-10-10-dinkes-pria-usia-produktif-dominan-terjangkit-hiv-di-simeulue/) **Dinkes: Pria Usia Produktif Dominan Terjangkit HIV di Simeulue**
+
 Pulau Siumat masuk wilayah administrasi Desa Pulau Siumat, yang merupakan pulau terluar di Kabupaten Simeulue. Pulau tersebut berjarak kurang lebih 2,5 jam perjalanan laut menggunakan perahu bermotor dari Sinabang, ibu kota Kabupaten Simeulue.
 
 Saat ini, kondisi dermaga di pulau tersebut dalam keadaan rusak parah sehingga menyulitkan masyarakat di wilayah itu menaiki kapal atau alat transportasi lainnya menuju ibu kota Kabupaten.
