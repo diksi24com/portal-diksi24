@@ -1,15 +1,11 @@
-{{- $image := "" -}}
-{{- $alt := "" -}}
-
-{{- if .cxt.Params.cover.image -}}
-    {{- $image = .cxt.Params.cover.image -}}
-    {{- $alt = .cxt.Params.cover.alt -}}
-{{- else if .cxt.Params.featured_image -}}
-    {{- $image = .cxt.Params.featured_image -}}
+{{- $image := .cxt.Resources.GetMatch (printf "%s" (.cxt.Params.cover.image)) -}}
+{{- if not $image -}}
+  {{- $image = resources.GetMatch (printf "%s" (.cxt.Params.cover.image)) -}}
 {{- end -}}
-
 {{- if $image -}}
-<figure class="entry-cover">
-    <img loading="lazy" src="{{ $image | absURL }}" alt="{{ $alt | default .cxt.Title }}">
-</figure>
+<img loading="lazy" src="{{ $image.RelPermalink }}" alt="{{ .cxt.Title }}" style="width:100% !important; height:auto !important; max-height:none !important; min-height:0 !important; object-fit:contain !important; object-position:center !important; aspect-ratio:auto !important; display:block !important; border-radius:8px !important; margin:0 auto 12px auto !important;" />
+{{- else -}}
+  {{- with .cxt.Params.cover.image -}}
+<img loading="lazy" src="{{ . | absURL }}" alt="{{ $.cxt.Title }}" style="width:100% !important; height:auto !important; max-height:none !important; min-height:0 !important; object-fit:contain !important; object-position:center !important; aspect-ratio:auto !important; display:block !important; border-radius:8px !important; margin:0 auto 12px auto !important;" />
+  {{- end -}}
 {{- end -}}
