@@ -1043,3 +1043,85 @@ article .entry-cover img {
         width: 100% !important;
     }
        }
+
+/* ============================================================
+   KARTU SERAGAM + GAMBAR FULL (ASPECT RATIO 16:9)
+   ============================================================ */
+
+/* Wrapper gambar kartu — rasio seragam 16:9 */
+body.list article.post-entry .entry-cover,
+body.list .post-entry .entry-cover,
+.other-article-card a[href],
+.other-article-card > a {
+    display: block !important;
+    width: 100% !important;
+    aspect-ratio: 16 / 9 !important;
+    height: auto !important;
+    max-height: none !important;
+    min-height: 0 !important;
+    overflow: hidden !important;
+    background: #f3f4f6 !important;
+    border-radius: 8px !important;
+    position: relative !important;
+}
+
+/* Gambar di dalam wrapper — tampil full (letterbox kalau beda rasio) */
+body.list article.post-entry .entry-cover img,
+body.list .post-entry .entry-cover img,
+.other-article-card a[href] img,
+.other-article-card > a img {
+    display: block !important;
+    width: 100% !important;
+    height: 100% !important;
+    max-height: 100% !important;
+    min-height: 100% !important;
+    object-fit: contain !important;
+    object-position: center !important;
+    background: #f3f4f6 !important;
+    border-radius: 8px !important;
+}
+
+/* Featured Post / Hero — tetap contain */
+.first-entry .entry-cover,
+body.list article.first-entry .entry-cover {
+    display: block !important;
+    width: 100% !important;
+    aspect-ratio: 16 / 9 !important;
+    height: auto !important;
+    max-height: none !important;
+    overflow: hidden !important;
+    background: #f3f4f6 !important;
+    border-radius: 10px !important;
+}
+
+.first-entry .entry-cover img,
+body.list article.first-entry .entry-cover img {
+    display: block !important;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: contain !important;
+    object-position: center !important;
+    background: #f3f4f6 !important;
+    border-radius: 10px !important;
+}
+
+/* Paling Populer — kartu seragam juga */
+div[style*="overflow-x:auto"] article a[href] img {
+    object-fit: contain !important;
+    background: #1f1f1f !important;
+}
+
+/* HP — tetap seragam */
+@media (max-width: 768px) {
+    body.list article.post-entry .entry-cover,
+    body.list .post-entry .entry-cover,
+    .other-article-card a[href],
+    .other-article-card > a {
+        aspect-ratio: 16 / 9 !important;
+    }
+    
+    .first-entry .entry-cover,
+    body.list article.first-entry .entry-cover {
+        aspect-ratio: 16 / 9 !important;
+    }
+}
