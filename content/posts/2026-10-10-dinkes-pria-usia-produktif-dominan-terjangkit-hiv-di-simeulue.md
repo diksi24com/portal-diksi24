@@ -9,9 +9,11 @@ description: >-
   (HIV) di kabupaten kepulauan di Provinsi Aceh tersebut.
 
 
+
   Kepala Bidang Pencegahan dan Pengendalian Penyakit (P2P) Dinas Kesehatan
   Kabupaten Simeulue Mushallin di Simeulue, Selasa, mengatakan ada sebanyak 48
   kasus HIV di wilayah kepulauan tersebut sejak 2007 hingga sekarang.
+
 
 
   "Berdasarkan data, temuan kasus HIV paling banyak terdapat pada kelompok
@@ -19,9 +21,11 @@ description: >-
   terbanyak adalah laki-laki," katanya.
 
 
+
   Dari 48 orang terjangkit HIV tersebut, kata Mushallin, sebanyak 22 orang di
   antaranya masih menjalani perawatan hingga saat ini. Sedangkan sebanyak 26
   orang lainnya meninggal dunia.
+
 
 
   Mushallin mengatakan Dinas  Kesehatan Kabupaten Simeulue berkomitmen
@@ -30,10 +34,12 @@ description: >-
   menekan angka penularan akibat HIV di Pulau Simeulue.
 
 
+
   Selain itu, kata dia, pihaknya terus mengimbau masyarakat untuk senantiasa
   menerapkan pola hidup sehat, menghindari perilaku berisiko, serta menghapus
   stigma negatif terhadap orang dengan HIV agar proses deteksi dini dan
   pendampingan medis dapat berjalan secara optimal.
+
 
 
   "Kami terus mengedukasi masyarakat di Kabupaten Simeulue dalam pencegahan
@@ -41,9 +47,12 @@ description: >-
   kata Mushalin.***
 
 
+
   Penulis : Redaksi
 
+
   Rubrik   : Daerah
+
 
   Editor    : A
 categories:
