@@ -1,25 +1,5 @@
-<meta name="google-adsense-account" content="ca-pub-4409260028071377">
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4409260028071377"
-     crossorigin="anonymous"></script>
-
-{{/* Google Analytics 4 — G-6FYL6T4BFH */}}
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-6FYL6T4BFH"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-6FYL6T4BFH');
-</script>
-
 {{- $customCSS := resources.Get "css/extended/custom.css" -}}
 {{- if $customCSS -}}
   {{- $customCSS = $customCSS | minify | fingerprint -}}
   <link rel="stylesheet" href="{{ $customCSS.RelPermalink }}" integrity="{{ $customCSS.Data.Integrity }}">
 {{- end -}}
-
-{{/* Monetag Vignette Banner — zone 11288146 */}}
-<script>(function(s){s.dataset.zone='11288146',s.src='https://n6wxm.com/vignette.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
-
-{{/* Monetag Push Notifications — zone 11929822 */}}
-<script src="https://5gvci.com/act/files/tag.min.js?z=11929822" data-cfasync="false" async></script>
