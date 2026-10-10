@@ -917,3 +917,62 @@ article.first-entry .entry-cover {
         max-height: none !important;
     }
 }
+/* ============================================================
+   FORCE FULL IMAGE DI HOMEPAGE GRID — FINAL OVERRIDE
+   ============================================================ */
+
+/* Container cover: hilangkan tinggi tetap */
+.entry-cover,
+figure.entry-cover,
+a.entry-cover,
+.post-entry .entry-cover,
+.first-entry .entry-cover {
+    display: block !important;
+    height: auto !important;
+    max-height: none !important;
+    min-height: 0 !important;
+    overflow: visible !important;
+    padding: 0 !important;
+    margin: 0 0 12px 0 !important;
+    border-radius: 8px !important;
+    aspect-ratio: auto !important;
+}
+
+/* Gambar: tampil sesuai rasio asli */
+.entry-cover img,
+figure.entry-cover img,
+.post-entry .entry-cover img,
+.first-entry .entry-cover img,
+a.entry-cover img {
+    display: block !important;
+    width: 100% !important;
+    height: auto !important;
+    max-height: none !important;
+    min-height: 0 !important;
+    object-fit: contain !important;
+    object-position: center !important;
+    aspect-ratio: auto !important;
+    border-radius: 8px !important;
+    margin: 0 auto !important;
+}
+
+/* Override semua media query tinggi tetap di mobile */
+@media (max-width: 768px) {
+    .entry-cover,
+    figure.entry-cover,
+    .post-entry .entry-cover,
+    .first-entry .entry-cover {
+        height: auto !important;
+        max-height: none !important;
+        min-height: 0 !important;
+    }
+    
+    .entry-cover img,
+    figure.entry-cover img,
+    .post-entry .entry-cover img,
+    .first-entry .entry-cover img {
+        height: auto !important;
+        max-height: none !important;
+        min-height: 0 !important;
+    }
+}
