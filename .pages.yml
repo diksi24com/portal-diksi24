@@ -52,13 +52,17 @@ content:
         type: boolean
         default: true
 
-      - name: cover
+            - name: cover
         label: Gambar Cover
         type: object
         fields:
           - name: image
             label: Path Gambar
             type: image
+          - name: caption
+            label: Keterangan Foto (Caption)
+            type: string
+            required: false
 
       - name: body
         label: Isi Artikel
