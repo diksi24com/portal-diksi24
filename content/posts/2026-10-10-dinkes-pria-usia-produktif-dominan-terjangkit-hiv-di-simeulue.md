@@ -34,5 +34,6 @@ Selain itu, kata dia, pihaknya terus mengimbau masyarakat untuk senantiasa mener
 "Kami terus mengedukasi masyarakat di Kabupaten Simeulue dalam pencegahan penularan HIV di Kabupaten Simeulue dengan menghindari perilaku berisiko," kata Mushallin.
 
 Penulis: Redaksi
-Rubrik: Daerah
-Editor: A
+
+  
+Editor: -
