@@ -559,3 +559,73 @@ div[style*="overflow-x:auto"]::-webkit-scrollbar-thumb { background: #e60000; bo
         margin: 0 12px 14px 12px !important;
     }
    }
+/* ============================================================
+   HERO + POPULER — SERAGAM 16:9
+   ============================================================ */
+
+/* HERO (Featured Post) — aspect ratio 16:9 */
+.first-entry > a,
+body.list .first-entry > a,
+body.list article.first-entry > a,
+article.first-entry > a {
+    display: block !important;
+    aspect-ratio: 16 / 9 !important;
+    height: auto !important;
+    max-height: none !important;
+    min-height: 0 !important;
+    overflow: hidden !important;
+    border-radius: 10px !important;
+    position: relative !important;
+    margin-bottom: 16px !important;
+}
+
+.first-entry > a img,
+body.list .first-entry > a img,
+body.list article.first-entry > a img,
+article.first-entry > a img {
+    display: block !important;
+    width: 100% !important;
+    height: 100% !important;
+    max-height: none !important;
+    min-height: 0 !important;
+    object-fit: cover !important;
+    object-position: center !important;
+    border-radius: 10px !important;
+    margin: 0 !important;
+}
+
+/* Teks overlay hero tetap di atas gambar */
+.first-entry > a > div {
+    position: absolute !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    padding: 40px 24px 24px 24px !important;
+    background: linear-gradient(to top,rgba(0,0,0,0.9) 0%,rgba(0,0,0,0.6) 60%,transparent 100%) !important;
+    border-radius: 0 0 10px 10px !important;
+}
+
+/* POPULER (Paling Populer) — aspect ratio 16:9 */
+div[style*="overflow-x:auto"] article > a,
+div[style*="overflow-x:auto"] article a[href] {
+    display: block !important;
+    aspect-ratio: 16 / 9 !important;
+    height: auto !important;
+    max-height: none !important;
+    min-height: 0 !important;
+    overflow: hidden !important;
+    border-radius: 8px 8px 0 0 !important;
+    background: #1f1f1f !important;
+}
+
+div[style*="overflow-x:auto"] article > a img,
+div[style*="overflow-x:auto"] article a[href] img {
+    display: block !important;
+    width: 100% !important;
+    height: 100% !important;
+    max-height: none !important;
+    min-height: 0 !important;
+    object-fit: cover !important;
+    object-position: center !important;
+    margin: 0 !important;
+}
