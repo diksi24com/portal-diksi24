@@ -629,3 +629,45 @@ div[style*="overflow-x:auto"] article a[href] img {
     object-position: center !important;
     margin: 0 !important;
 }
+/* ============================================================
+   CAPTION GAMBAR DI ARTIKEL
+   ============================================================ */
+
+.post-content figure {
+    margin: 1.5em auto !important;
+    padding: 0 !important;
+    text-align: center !important;
+    max-width: 100% !important;
+}
+
+.post-content figure img {
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 8px !important;
+    display: block !important;
+    margin: 0 auto !important;
+}
+
+.post-content figcaption {
+    display: block !important;
+    font-size: 13px !important;
+    font-style: italic !important;
+    color: #6b7280 !important;
+    line-height: 1.5 !important;
+    margin-top: 8px !important;
+    text-align: center !important;
+    padding: 0 10px !important;
+    font-weight: 400 !important;
+}
+
+/* Dark mode */
+[data-theme="dark"] .post-content figcaption {
+    color: #9ca3af !important;
+}
+
+@media (max-width: 768px) {
+    .post-content figcaption {
+        font-size: 12px !important;
+        margin-top: 6px !important;
+    }
+}
