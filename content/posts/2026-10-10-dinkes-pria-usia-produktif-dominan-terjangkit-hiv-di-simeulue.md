@@ -25,9 +25,9 @@ Dari 48 orang terjangkit HIV tersebut, kata Mushallin, sebanyak 22 orang di anta
 
 Mushallin mengatakan Dinas Kesehatan Kabupaten Simeulue berkomitmen memperkuat langkah penanggulangan, mulai pemantauan awal, edukasi pencegahan secara masif kepada masyarakat, hingga pemantauan terapi bagi pasien guna menekan angka penularan akibat HIV di Pulau Simeulue.
 
+
+
 > **Pemda Simeulue Mendorong Percepatan Penyaluran Sisa Pupuk Bersubsidi Tahun 2026**
->
->
 
 Selain itu, kata dia, pihaknya terus mengimbau masyarakat untuk senantiasa menerapkan pola hidup sehat, menghindari perilaku berisiko, serta menghapus stigma negatif terhadap orang dengan HIV agar proses deteksi dini dan pendampingan medis dapat berjalan secara optimal.
 
