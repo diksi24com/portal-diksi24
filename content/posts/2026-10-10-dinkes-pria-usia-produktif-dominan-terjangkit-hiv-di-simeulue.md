@@ -1,7 +1,7 @@
 ---
 title: "Dinkes: Pria usia produktif dominan terjangkit HIV di Simeulue "
 date: 2026-10-10
-draft: true
+draft: false
 description: >-
   
   Simeulue (Diksi24) - Dinas Kesehatan (Dinkes) Kabupaten Simeulue menyatakan
