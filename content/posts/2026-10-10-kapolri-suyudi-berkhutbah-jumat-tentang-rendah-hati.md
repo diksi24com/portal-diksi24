@@ -4,6 +4,9 @@ date: 2026-10-10
 draft: false
 description: Kekuasaan pun dapat membuka banyak pintu. Namun, di balik semua
   itu, ada satu hal yang tak boleh hilang yakni kerendahan hati.
+categories:
+  - "Nasional "
+  - Agama
 views: 0
 comments: true
 cover:
