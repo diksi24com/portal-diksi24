@@ -3,4 +3,4 @@ Allow: /
 Disallow: /search/
 
 
-Sitemap: https://teukuanca.com/sitemap.xml
+Sitemap: https://diksi24.com/sitemap.xml
