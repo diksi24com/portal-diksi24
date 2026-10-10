@@ -1,1 +1,30 @@
 <script src="{{ "js/menu-toggle.js" | absURL }}"></script>
+
+<script>
+/* Theme Toggle — Dipaksa Berfungsi */
+document.addEventListener('click', function(e) {
+    var btn = e.target.closest('#theme-toggle');
+    if (!btn) return;
+    e.preventDefault();
+    e.stopImmediatePropagation();
+
+    var html = document.documentElement;
+    var current = html.dataset.theme || html.getAttribute('data-theme') || 'light';
+    var newTheme = current === 'dark' ? 'light' : 'dark';
+
+    html.dataset.theme = newTheme;
+    html.setAttribute('data-theme', newTheme);
+    try { localStorage.setItem('pref-theme', newTheme); } catch (err) {}
+}, true);
+
+/* Pastikan tema konsisten saat halaman dimuat */
+(function() {
+    var html = document.documentElement;
+    var saved = null;
+    try { saved = localStorage.getItem('pref-theme'); } catch (err) {}
+    if (saved === 'dark' || saved === 'light') {
+        html.dataset.theme = saved;
+        html.setAttribute('data-theme', saved);
+    }
+})();
+</script>
