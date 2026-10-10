@@ -779,9 +779,15 @@ h1 > a > svg {
    ============================================================ */
 
 /* Cegah scroll horizontal */
-body, html {
+html {
     overflow-x: hidden !important;
-    max-width: 100vw !important;
+    max-width: 100% !important;
+}
+
+body {
+    overflow-x: visible !important;
+    overflow-y: visible !important;
+    max-width: 100% !important;
 }
 
 /* HP: menu strip full width */
