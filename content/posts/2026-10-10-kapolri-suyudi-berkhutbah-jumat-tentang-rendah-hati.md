@@ -6,11 +6,10 @@ description: Kekuasaan pun dapat membuka banyak pintu. Namun, di balik semua
   itu, ada satu hal yang tak boleh hilang yakni kerendahan hati.
 categories:
   - "Nasional "
-  - Agama
 views: 0
 comments: true
 cover:
-  image: /images/Screenshot_2026_1010_221618.jpg
+  image: /images/Screenshot_2026_1010_215316-2.jpg
 ---
 Simeulue (Diksi24) - Jabatan bisa mengangkat seseorang ke tempat yang tinggi. Pangkat bisa membuat seseorang dihormati. Kekuasaan pun dapat membuka banyak pintu. Namun, di balik semua itu, ada satu hal yang tak boleh hilang yakni kerendahan hati.
 
