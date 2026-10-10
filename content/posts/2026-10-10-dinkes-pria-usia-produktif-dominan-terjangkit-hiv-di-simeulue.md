@@ -2,7 +2,8 @@
 title: "Dinkes: Pria Usia Produktif Dominan Terjangkit HIV di Simeulue"
 date: 2026-10-10
 draft: false
-description: "Dinas Kesehatan Kabupaten Simeulue menyatakan pria usia produktif paling dominan terjangkit HIV, dengan 48 kasus tercatat sejak 2007."
+description: Dinas Kesehatan Kabupaten Simeulue menyatakan pria usia produktif
+  paling dominan terjangkit HIV, dengan 48 kasus tercatat sejak 2007.
 categories:
   - Daerah
 tags:
@@ -12,10 +13,11 @@ comments: true
 cover:
   image: /images/Screenshot_2026_1010_082625-1.jpg
 ---
-
 Simeulue (Diksi24) - Dinas Kesehatan (Dinkes) Kabupaten Simeulue menyatakan pria usia produktif paling dominan terjangkit Human Immunodeficiency Virus (HIV) di kabupaten kepulauan di Provinsi Aceh tersebut.
 
 Kepala Bidang Pencegahan dan Pengendalian Penyakit (P2P) Dinas Kesehatan Kabupaten Simeulue Mushallin di Simeulue, Selasa, mengatakan ada sebanyak 48 kasus HIV di wilayah kepulauan tersebut sejak 2007 hingga sekarang.
+
+> [Baca Juga: Tiga SPPG di Simeulue kembali beroperasi](https://diksi24.com/posts/2026-10-09-tiga-sppg-di-simeulue-kembali-beroperasi/)
 
 "Berdasarkan data, temuan kasus HIV paling banyak terdapat pada kelompok dengan rentang usia produktif antara 22 hingga 50 tahun dan penderita terbanyak adalah laki-laki," katanya.
 
