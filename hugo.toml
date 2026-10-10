@@ -89,15 +89,90 @@ theme = 'PaperMod'
     url = "/categories/daerah/"
     weight = 30
   [[menu.main]]
+    identifier = "politik"
+    name = "Politik"
+    url = "/categories/politik/"
+    weight = 40
+  [[menu.main]]
+    identifier = "ekonomi"
+    name = "Ekonomi"
+    url = "/categories/ekonomi/"
+    weight = 50
+  [[menu.main]]
+    identifier = "hukum"
+    name = "Hukum"
+    url = "/categories/hukum/"
+    weight = 60
+  [[menu.main]]
+    identifier = "pendidikan"
+    name = "Pendidikan"
+    url = "/categories/pendidikan/"
+    weight = 70
+  [[menu.main]]
+    identifier = "agama"
+    name = "Agama"
+    url = "/categories/agama/"
+    weight = 80
+  [[menu.main]]
+    identifier = "budaya"
+    name = "Budaya"
+    url = "/categories/budaya/"
+    weight = 90
+  [[menu.main]]
+    identifier = "sejarah"
+    name = "Sejarah"
+    url = "/categories/sejarah/"
+    weight = 100
+  [[menu.main]]
+    identifier = "wisata"
+    name = "Wisata"
+    url = "/categories/wisata/"
+    weight = 110
+  [[menu.main]]
+    identifier = "kuliner"
+    name = "Kuliner"
+    url = "/categories/kuliner/"
+    weight = 120
+  [[menu.main]]
+    identifier = "olahraga"
+    name = "Olahraga"
+    url = "/categories/olahraga/"
+    weight = 130
+  [[menu.main]]
+    identifier = "teknologi"
+    name = "Teknologi"
+    url = "/categories/teknologi/"
+    weight = 140
+  [[menu.main]]
+    identifier = "dunia"
+    name = "Dunia"
+    url = "/categories/dunia/"
+    weight = 150
+  [[menu.main]]
+    identifier = "desa"
+    name = "Desa"
+    url = "/categories/desa/"
+    weight = 160
+  [[menu.main]]
+    identifier = "pojok-diksi"
+    name = "Pojok Diksi"
+    url = "/categories/pojok-diksi/"
+    weight = 170
+  [[menu.main]]
+    identifier = "foto"
+    name = "Foto"
+    url = "/categories/foto/"
+    weight = 180
+  [[menu.main]]
     identifier = "opini"
     name = "Opini"
     url = "/categories/opini/"
-    weight = 40
+    weight = 190
   [[menu.main]]
     identifier = "kontak"
     name = "Kontak"
     url = "/pages/hubungi-kami/"
-    weight = 50
+    weight = 200
   [[menu.footer]]
     identifier = "disclaimer"
     name = "Disclaimer"
