@@ -22,6 +22,8 @@ Wakil DPR RI dari Fraksi Partai Nasdem, Saan Mustopa, sebagaimana dilaporkan [Ko
 
 Surat usulan pemakzulan wakil Presiden RI tersebut muncul dan beredar di media sosial setelah putusan MK. Dalam surat itu tercantum nama anggota DPRI dari Partai Nasdem Tonny Tesar sebagai pengusul.
 
+> [Baca:](https://diksi24.com/posts/2026-10-10-kapolri-suyudi-berkhutbah-jumat-tentang-rendah-hati/) **Kapolri Suyudi Berkhutbah Jumat Tentang Rendah Hati**
+
 Surat tersebut ditujukan kepada pimpinan DPR dengan isi mencakup sejumlah pertimbangan yuridis dan konstitusional untuk memohon pimpinan DPR untuk menindaklanjuti pemberhentian wakil Presiden Gibran Rakabuming Raka melalui mekanisme konstitusional.
 
 Dalam surat tersebut DPR juga diminta menggunakan hak pengawasan, interplasi, angket, atau mengatakan pendapat untuk menyelidiki keabsahan administrasi pencalonan Gibran sebagai wakil presiden.
