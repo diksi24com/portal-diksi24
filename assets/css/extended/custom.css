@@ -832,3 +832,101 @@ div[style*="overflow-x:auto"] article a[href] img {
         font-size: 11px !important;
     }
 }
+/* ============================================================
+   FIX FOOTER — RATA TENGAH + SPASI MENU + PEMISAH
+   ============================================================ */
+
+/* Container: paksa rata tengah */
+.footer-diksi,
+.footer-diksi * {
+    text-align: center !important;
+}
+
+.footer-diksi .footer-container {
+    max-width: 900px !important;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    text-align: center !important;
+}
+
+/* Semua paragraf di footer rata tengah */
+.footer-diksi .footer-redaksi,
+.footer-diksi .footer-redaksi p,
+.footer-diksi .footer-welcome,
+.footer-diksi .footer-note,
+.footer-diksi .footer-tagline,
+.footer-diksi .footer-copyright {
+    text-align: center !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+/* Spasi besar sebelum menu */
+.footer-diksi .footer-tagline {
+    margin-bottom: 30px !important;
+}
+
+/* Menu links: rata tengah + pemisah garis */
+.footer-diksi .footer-menu-links {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    flex-wrap: wrap !important;
+    gap: 0 !important;
+    padding: 20px 0 !important;
+    border-top: 1px solid #555 !important;
+    border-bottom: 1px solid #555 !important;
+    margin: 30px 0 20px 0 !important;
+    text-align: center !important;
+}
+
+.footer-diksi .footer-menu-links a {
+    color: #ffffff !important;
+    text-decoration: none !important;
+    font-size: 13px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.5px !important;
+    padding: 0 14px !important;
+    position: relative !important;
+    transition: color 0.2s ease !important;
+}
+
+.footer-diksi .footer-menu-links a:hover {
+    color: #ff4d4d !important;
+}
+
+/* Garis pemisah | antar menu (kecuali menu terakhir) */
+.footer-diksi .footer-menu-links a:not(:last-child)::after {
+    content: "|" !important;
+    position: absolute !important;
+    right: -3px !important;
+    color: #888 !important;
+    font-weight: 700 !important;
+}
+
+/* Sembunyikan span "/" lama kalau ada */
+.footer-diksi .footer-menu-links span {
+    display: none !important;
+}
+
+/* Copyright: spasi atas */
+.footer-diksi .footer-copyright {
+    margin-top: 20px !important;
+    padding-top: 15px !important;
+}
+
+/* HP */
+@media (max-width: 768px) {
+    .footer-diksi .footer-menu-links {
+        gap: 8px 0 !important;
+        padding: 16px 0 !important;
+        margin: 24px 0 16px 0 !important;
+    }
+    .footer-diksi .footer-menu-links a {
+        font-size: 11px !important;
+        padding: 0 10px !important;
+    }
+    .footer-diksi .footer-tagline {
+        margin-bottom: 20px !important;
+    }
+}
