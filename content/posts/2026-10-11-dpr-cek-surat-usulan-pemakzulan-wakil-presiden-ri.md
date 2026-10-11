@@ -2,8 +2,8 @@
 title: DPR Cek Surat Usulan Pemakzulan Wakil Presiden RI
 date: 2026-10-11
 draft: false
-description: "*Surat pemakzulan itu muncul pasca putusan Mahkamah Konstitusi
-  (MK) terkait ijazah Gibran.*"
+description: Surat pemakzulan itu muncul pasca putusan Mahkamah Konstitusi (MK)
+  terkait ijazah Gibran.
 categories:
   - "Nasional "
   - Politik
