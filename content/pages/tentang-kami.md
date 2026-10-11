@@ -70,9 +70,13 @@ Cadar
 
 Staf Marketing dan Iklan:
 
+-
+
 Email : [diksi.com2026@gmail.com](mailto:diksi.com2026@gmail.com)
 
 IT/Web:
+
+-
 
 Rek BSI:
 
@@ -80,7 +84,7 @@ Rek BSI:
 
 
 
-Alamat Redaksi: Jln. Tgk Diujung, Desa Suak Buluh, Kecamtan Simeulue TImur,
+Alamat Redaksi: Jln. Tgk Diujung, Desa Suak Buluh, Kecamatan Simeulue TImur,  
 Kabupaten Simeulue – Aceh, Telp. 0851-2981-5558
 
 ## Wartawan Diksi.com Dibekali Kartu Identitas dan Surat Tugas Serta Namanya Tercantum Dalam Box atau Halaman Redaksi Ini.
