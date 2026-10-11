@@ -2,9 +2,9 @@
 title: Dermaga Pulau Siumat Segera di Bangun
 date: 2026-10-10
 draft: false
-description: Bupati Simeulue Muhammad Nasrun Mikaris di Simeulue, mengatakan
+description: '"Bupati Simeulue Muhammad Nasrun Mikaris di Simeulue, mengatakan
   perbaikan dermaga Pulau Siumat dibiayai melalui Dana Otonomi Khusus Aceh
-  (DOKA) tahun anggaran 2026.
+  (DOKA) tahun anggaran 2026."'
 categories:
   - Daerah
 views: 0
