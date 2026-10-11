@@ -671,3 +671,68 @@ div[style*="overflow-x:auto"] article a[href] img {
         margin-top: 6px !important;
     }
 }
+
+/* ============================================================
+   FIX HEADER — LOGO KIRI, 3 IKON KANAN
+   ============================================================ */
+
+/* Baris atas header: logo kiri, ikon kanan */
+.header-nav .logo {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    width: 100% !important;
+    gap: 10px !important;
+    padding: 8px 16px !important;
+    box-sizing: border-box !important;
+}
+
+/* Container logo (img) */
+.header-nav .logo > a:first-child {
+    flex-shrink: 1 !important;
+    display: block !important;
+    max-width: 60% !important;
+}
+
+/* Container ikon (search, toggle, hamburger) */
+.header-nav .logo-switches {
+    display: flex !important;
+    align-items: center !important;
+    gap: 14px !important;
+    flex-shrink: 0 !important;
+    margin-left: auto !important;
+}
+
+/* Pastikan tiap ikon terlihat dan sejajar */
+.header-nav .logo-switches > * {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    background: none !important;
+    border: none !important;
+    padding: 4px !important;
+    cursor: pointer !important;
+    color: var(--primary) !important;
+    text-decoration: none !important;
+}
+
+/* Ukuran SVG ikon */
+.header-nav .logo-switches svg {
+    width: 22px !important;
+    height: 22px !important;
+    display: block !important;
+}
+
+/* HP: tetap rapi */
+@media (max-width: 768px) {
+    .header-nav .logo {
+        padding: 6px 12px !important;
+    }
+    .header-nav .logo-switches {
+        gap: 10px !important;
+    }
+    .header-nav .logo-switches svg {
+        width: 20px !important;
+        height: 20px !important;
+    }
+}
