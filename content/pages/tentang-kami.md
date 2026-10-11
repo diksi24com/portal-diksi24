@@ -3,7 +3,7 @@ title: Tentang Kami
 date: 2026-10-09
 draft: false
 ---
-**Diksi.com — Fakta dalam Setiap Kata**
+**Diksi24.com — Fakta dalam Setiap Kata**
 
 Diksi.com adalah portal berita digital yang hadir untuk menyajikan informasi secara jernih, berimbang, dan bertanggung jawab. Kami percaya bahwa berita yang baik bukan sekadar kabar yang cepat sampai, tetapi juga kabar yang dapat dipercaya dan dipahami dengan utuh.
 
@@ -46,7 +46,7 @@ Kami senang mendengar dari Anda — baik itu saran, kritik, koreksi, maupun kiri
 
 Terima kasih telah menjadikan Diksi.com sebagai bagian dari sumber informasi Anda.
 
-Selamat Datang Diportal Diksi.com
+Selamat Datang Diportal Diksi24.com
 
 CO:
 
@@ -70,13 +70,13 @@ Cadar
 
 Staf Marketing dan Iklan:
 
--
+- 
 
 Email : [diksi.com2026@gmail.com](mailto:diksi.com2026@gmail.com)
 
 IT/Web:
 
--
+- 
 
 Rek BSI:
 
@@ -87,6 +87,6 @@ Rek BSI:
 Alamat Redaksi: Jln. Tgk Diujung, Desa Suak Buluh, Kecamatan Simeulue TImur,  
 Kabupaten Simeulue – Aceh, Telp. 0851-2981-5558
 
-## Wartawan Diksi.com Dibekali Kartu Identitas dan Surat Tugas Serta Namanya Tercantum Dalam Box atau Halaman Redaksi Ini.
+## Wartawan Diksi24.com Dibekali Kartu Identitas dan Surat Tugas Serta Namanya Tercantum Dalam Box atau Halaman Redaksi Ini.
 
-*Redaksi Diksi.com — Fakta dalam Setiap Kata*
+*Redaksi Diksi24.com — Fakta dalam Setiap Kata*
