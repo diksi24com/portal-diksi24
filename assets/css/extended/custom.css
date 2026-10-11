@@ -1050,3 +1050,47 @@ main ~ footer.footer-diksi,
         max-height: 140px !important;
     }
 }
+/* ============================================================
+   LOGO FOOTER — VERSI BESAR (FINAL)
+   ============================================================ */
+
+.footer-diksi .footer-logo img,
+.footer-diksi img {
+    max-width: 300px !important;
+    max-height: 300px !important;
+    width: auto !important;
+    height: auto !important;
+    padding: 10px 18px !important;
+    background: #ffffff !important;
+    border-radius: 6px !important;
+    display: inline-block !important;
+    margin: 0 auto 15px !important;
+}
+
+/* Desktop lebar */
+@media (min-width: 1024px) {
+    .footer-diksi .footer-logo img,
+    .footer-diksi img {
+        max-width: 320px !important;
+        max-height: 320px !important;
+    }
+}
+
+/* HP */
+@media (max-width: 768px) {
+    .footer-diksi .footer-logo img,
+    .footer-diksi img {
+        max-width: 220px !important;
+        max-height: 220px !important;
+        padding: 8px 14px !important;
+    }
+}
+
+/* HP kecil */
+@media (max-width: 480px) {
+    .footer-diksi .footer-logo img,
+    .footer-diksi img {
+        max-width: 200px !important;
+        max-height: 200px !important;
+    }
+}
