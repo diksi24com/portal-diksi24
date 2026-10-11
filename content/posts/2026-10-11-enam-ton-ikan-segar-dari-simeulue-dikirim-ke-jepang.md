@@ -20,6 +20,8 @@ Kepala DKP Simeulue, Supriman Juliansyah, mengatakan pengiriman ikan segar berup
 
 Keta Supriman, ikan yang dikirim terebut sebelumnya telah melalui proses karantina sebagai langkah penting untuk memastikan produk gurita dan ikan bayam tetap terjaga kesegarannya, higienis, serta bebas dari hama dan penyakit. 
 
+> [Baca:](https://diksi24.com/posts/2026-10-10-kapolri-suyudi-berkhutbah-jumat-tentang-rendah-hati/)**Kapolri Suyudi Berkhutbah Jumat Tentang Rendah Hati**
+
 Kata Supriman, komoditas dari Simeulue memiliki daya saing tinggi dan diterima dengan baik di pasar tujuan khususnya Negara Jepang.
 
 "Karena kualitas ikan yang baik akan membuat ikan dari Simeulue memiliki daya saing di pasar internasional," ucap Supriman.
