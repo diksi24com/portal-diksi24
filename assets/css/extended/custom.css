@@ -736,3 +736,73 @@ div[style*="overflow-x:auto"] article a[href] img {
         height: 20px !important;
     }
 }
+/* ============================================================
+   AUTHOR BOX — AVATAR + NAMA + TANGGAL
+   ============================================================ */
+
+.post-author-box {
+    display: flex !important;
+    align-items: center !important;
+    gap: 12px !important;
+    margin: 15px 0 20px 0 !important;
+    padding: 0 0 15px 0 !important;
+    border-bottom: 1px solid #e5e7eb !important;
+}
+
+.post-author-avatar {
+    width: 46px !important;
+    height: 46px !important;
+    border-radius: 50% !important;
+    object-fit: contain !important;
+    background: #ffffff !important;
+    padding: 4px !important;
+    border: 1px solid #e5e7eb !important;
+    flex-shrink: 0 !important;
+    display: block !important;
+}
+
+.post-author-info {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 2px !important;
+    min-width: 0 !important;
+}
+
+.post-author-name {
+    font-size: 14px !important;
+    font-weight: 700 !important;
+    color: #1f2937 !important;
+    line-height: 1.3 !important;
+}
+
+.post-author-meta {
+    font-size: 12px !important;
+    color: #6b7280 !important;
+    line-height: 1.3 !important;
+}
+
+/* Dark mode */
+[data-theme="dark"] .post-author-avatar {
+    background: #2a2a2a !important;
+    border-color: #444 !important;
+}
+[data-theme="dark"] .post-author-name {
+    color: #f3f4f6 !important;
+}
+[data-theme="dark"] .post-author-meta {
+    color: #9ca3af !important;
+}
+
+/* HP */
+@media (max-width: 768px) {
+    .post-author-avatar {
+        width: 40px !important;
+        height: 40px !important;
+    }
+    .post-author-name {
+        font-size: 13px !important;
+    }
+    .post-author-meta {
+        font-size: 11px !important;
+    }
+}
