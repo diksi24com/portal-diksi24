@@ -1,0 +1,11 @@
+menu:
+  - name: HOME
+    url: /
+  - name: REDAKSI
+    url: /pages/tentang-kami/
+  - name: PEDOMAN MEDIA SIBER
+    url: "#"
+  - name: DISCLAIMER
+    url: /pages/disclaimer/
+  - name: INFO IKLAN
+    url: "#"
