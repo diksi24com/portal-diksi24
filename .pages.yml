@@ -101,3 +101,22 @@ content:
         label: Isi Halaman
         type: rich-text
         required: true
+
+          - name: site_settings
+    label: Pengaturan Situs
+    type: file
+    path: data/footer.yml
+    fields:
+      - name: menu
+        label: Menu Footer
+        type: list
+        default: []
+        fields:
+          - name: name
+            label: Nama Menu
+            type: string
+            required: true
+          - name: url
+            label: Link URL
+            type: string
+            required: true
