@@ -930,3 +930,78 @@ div[style*="overflow-x:auto"] article a[href] img {
         margin-bottom: 20px !important;
     }
 }
+
+/* ============================================================
+   FIX FINAL FOOTER — PAKSA BACKGROUND GELAP + LOGO KECIL
+   ============================================================ */
+
+/* Paksa background gelap dengan selector berlapis */
+footer.footer-diksi,
+body footer.footer-diksi,
+html body footer.footer-diksi,
+main ~ footer.footer-diksi,
+#footer.footer-diksi {
+    background-color: #333333 !important;
+    background: #333333 !important;
+    color: #ffffff !important;
+}
+
+/* Paksa semua container dalam footer gelap */
+.footer-diksi .footer-container {
+    background-color: transparent !important;
+    background: transparent !important;
+}
+
+/* Logo lebih kecil + background putih */
+.footer-diksi .footer-logo {
+    background: transparent !important;
+    margin: 0 auto 12px !important;
+    display: block !important;
+}
+
+.footer-diksi .footer-logo img,
+.footer-diksi img {
+    max-width: 130px !important;
+    width: auto !important;
+    height: auto !important;
+    max-height: 130px !important;
+    padding: 5px 10px !important;
+    background: #ffffff !important;
+    border-radius: 4px !important;
+    display: inline-block !important;
+    margin: 0 auto !important;
+}
+
+/* Menu: paksa warna putih biar kontras dengan bg gelap */
+.footer-diksi .footer-menu-links {
+    background: transparent !important;
+}
+
+.footer-diksi .footer-menu-links a {
+    color: #ffffff !important;
+}
+
+.footer-diksi .footer-menu-links a:hover {
+    color: #ff4d4d !important;
+}
+
+/* Semua teks dalam footer putih */
+.footer-diksi p,
+.footer-diksi span,
+.footer-diksi strong,
+.footer-diksi a {
+    color: #ffffff !important;
+}
+
+.footer-diksi .footer-copyright {
+    color: #d1d5db !important;
+}
+
+/* HP: logo lebih kecil lagi */
+@media (max-width: 768px) {
+    .footer-diksi .footer-logo img,
+    .footer-diksi img {
+        max-width: 110px !important;
+        max-height: 110px !important;
+    }
+}
