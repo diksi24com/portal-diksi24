@@ -25,6 +25,8 @@ Kemudian, sepeda hias, festival lagu daerah, lomba cipta lagu daerah, lomba nand
 
 Menurut Zulfatah, rangkaian perlombaan tersebut dirancang untuk membangkitkan semangat patriotisme sekaligus mempererat silaturahmi masyarakat Kabupaten Simeulue.
 
+> [Baca:](https://diksi24.com/posts/2026-10-11-penantian-panjang-berakhir-garuda-angkat-trofi-fifa-asean-cup-2026/)**Penantian Panjang Berakhir, Trofi Garuda Angka Piala FIFA ASEAN 2026**
+
 Perlombaan melibatkan pelajar dan masyarakat luas. Kegiatan tidak hanya menjadi hiburan, tetapi juga wadah kompetisi sehat sekaligus sarana mengenalkan dan melestarikan seni, budaya, serta tradisi lokal, katanya.
 
 "Kami juga mengundang wisatawan mancanegara atau turis asing mengikuti beragam perlombaan tersebut. Kami berharap kegiatan tersebut dapat memajukan pariwisata di kabupaten kepulauan ini," kata Zulfatah.
