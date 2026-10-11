@@ -1,5 +1,5 @@
 ---
-title: "Ada Bungker Peninggalan Dunia II di Simeulue "
+title: "Ada Bungker Peninggalan  Perang Dunia II di Simeulue "
 date: 2026-10-11
 draft: false
 description: '"Bungker peninggalan perang dunia kedua oleh militer Jepang yang
