@@ -1,9 +1,8 @@
 ---
-title: "Hubungi Kami"
+title: Hubungi Kami
 date: 2026-10-09
 draft: false
 ---
-
 Redaksi Diksi.com membuka pintu bagi pembaca yang ingin menyampaikan pertanyaan, saran, koreksi, informasi, atau kerja sama. Kami menghargai setiap masukan yang disampaikan dengan santun dan bertanggung jawab.
 
 Silakan hubungi kami melalui salah satu kanal berikut:
@@ -12,13 +11,13 @@ Silakan hubungi kami melalui salah satu kanal berikut:
 
 Kanal tercepat untuk menyampaikan informasi terkini, konfirmasi, atau pertanyaan singkat.
 
-📱 [**+62 853-5904-4824**](https://wa.me/6285359044824)
+📱 **[085129815558](https://wa.me/6285359044824)**
 
 **Email**
 
 Untuk kiriman rilis, undangan liputan, kerja sama, atau korespondensi resmi.
 
-✉️ [**diksi.com2026@gmail.com**](mailto:diksi.com2026@gmail.com)
+✉️ **[diksi.com2026@gmail.com](mailto:diksi.com2026@gmail.com)**
 
 **Waktu Layanan**
 
