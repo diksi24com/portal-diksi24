@@ -1,5 +1,5 @@
 ---
-title: Enam Ton Ikan Segar dari Simeulue Dikirim ke Jepang
+title: Ikan Segar dari Simeulue Dikirim ke Jepang
 date: 2026-10-11
 draft: false
 description: '"Pengiriman ikan segar dari Simeulue kali ini mencapai enam hingga
