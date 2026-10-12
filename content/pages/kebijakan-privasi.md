@@ -1,16 +1,15 @@
 ---
-title: "Kebijakan Privasi"
+title: Kebijakan Privasi
 date: 2026-10-09
 draft: false
 ---
-
 **Berlaku sejak: 9 Oktober 2026**
 
-Diksi.com menghargai privasi setiap pembaca. Halaman ini menjelaskan data apa yang kami kumpulkan, bagaimana data tersebut digunakan, serta hak-hak Anda sebagai pengguna. Kami berupaya menyampaikan penjelasan ini dengan bahasa yang sederhana dan terbuka.
+Diksi24.com menghargai privasi setiap pembaca. Halaman ini menjelaskan data apa yang kami kumpulkan, bagaimana data tersebut digunakan, serta hak-hak Anda sebagai pengguna. Kami berupaya menyampaikan penjelasan ini dengan bahasa yang sederhana dan terbuka.
 
 **1. Informasi yang Kami Kumpulkan**
 
-Kami dapat mengumpulkan beberapa jenis informasi ketika Anda mengunjungi Diksi.com:
+Kami dapat mengumpulkan beberapa jenis informasi ketika Anda mengunjungi Diksi24.com:
 
 - **Informasi yang Anda berikan secara sadar**, seperti nama, alamat email, atau nomor telepon ketika menghubungi redaksi atau mengirimkan berita.
 - **Informasi teknis otomatis**, seperti alamat IP, jenis perangkat, jenis browser, sistem operasi, halaman yang Anda kunjungi, dan waktu kunjungan.
@@ -29,7 +28,7 @@ Kami tidak memperjualbelikan data pembaca kepada pihak ketiga.
 
 **3. Cookie dan Teknologi Serupa**
 
-Diksi.com dapat menggunakan cookie dan teknologi serupa untuk:
+Diksi24.com dapat menggunakan cookie dan teknologi serupa untuk:
 
 - Mengingat preferensi Anda, seperti tema terang atau gelap.
 - Memahami pola kunjungan melalui layanan analitik.
@@ -62,11 +61,11 @@ Untuk menggunakan hak-hak tersebut, silakan menghubungi redaksi melalui halaman 
 
 **7. Tautan ke Situs Lain**
 
-Diksi.com dapat memuat tautan menuju situs pihak ketiga. Kami tidak bertanggung jawab atas praktik privasi atau isi dari situs-situs tersebut. Kami menyarankan Anda membaca kebijakan privasi setiap situs yang Anda kunjungi.
+Diksi24.com dapat memuat tautan menuju situs pihak ketiga. Kami tidak bertanggung jawab atas praktik privasi atau isi dari situs-situs tersebut. Kami menyarankan Anda membaca kebijakan privasi setiap situs yang Anda kunjungi.
 
 **8. Privasi Anak**
 
-Diksi.com tidak dengan sengaja mengumpulkan data pribadi dari anak-anak di bawah usia 13 tahun. Apabila Anda mengetahui adanya data anak yang tersimpan di sistem kami, silakan menghubungi redaksi agar dapat segera kami tindak lanjuti.
+Diksi24.com tidak dengan sengaja mengumpulkan data pribadi dari anak-anak di bawah usia 13 tahun. Apabila Anda mengetahui adanya data anak yang tersimpan di sistem kami, silakan menghubungi redaksi agar dapat segera kami tindak lanjuti.
 
 **9. Perubahan Kebijakan Privasi**
 
@@ -78,4 +77,4 @@ Apabila Anda memiliki pertanyaan, kekhawatiran, atau permintaan terkait privasi 
 
 ---
 
-*Redaksi Diksi.com — Fakta dalam Setiap Kata*
+*Redaksi Diksi24.com — Fakta dalam Setiap Kata*
