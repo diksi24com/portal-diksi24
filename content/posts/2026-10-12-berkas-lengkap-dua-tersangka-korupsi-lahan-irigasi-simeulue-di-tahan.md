@@ -12,7 +12,7 @@ comments: true
 cover:
   image: /images/Screenshot_2026_1012_100741.jpg
 ---
-Simeulue (Diksi24) - Berkas perkara dinyatakan lengkap atau P21, dua tersangka dugaan korupsi pengadaan tanah untuk pembangunan Irigasi Sigulai, Kecamatan Simeulue Barat, Kabupaten Simeulue, ditahan.
+**Simeulue (Diksi24)** - Berkas perkara dinyatakan lengkap atau P21, dua tersangka dugaan korupsi pengadaan tanah untuk pembangunan Irigasi Sigulai, Kecamatan Simeulue Barat, Kabupaten Simeulue, ditahan.
 
 Keduanya ditahan selama 20 hari di Rutan Kelas IIB Banda Aceh, terhitung 7 hingga 26 Oktober 2026.
 
