@@ -23,7 +23,7 @@
     {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}
 
     <div class="post-author-box">
-      <img src="/images/logo.webp" alt="{{ .Params.author | default site.Params.author }}" class="post-author-avatar">
+      <img src="/images/logo.png" alt="{{ .Params.author | default site.Params.author }}" class="post-author-avatar">
       <div class="post-author-info">
         <span class="post-author-name">{{ .Params.author | default site.Params.author }}</span>
         <span class="post-author-meta">{{ .Date.Format "2 January 2006" }} · {{ .Date.Format "15:04" }} WIB</span>
