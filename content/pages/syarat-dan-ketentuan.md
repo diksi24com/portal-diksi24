@@ -9,7 +9,7 @@ Selamat datang di Diksi24.com. Syarat dan Ketentuan ini mengatur penggunaan situ
 
 **1. Penerimaan Ketentuan**
 
-Dengan mengunjungi, membaca, atau menggunakan layanan di Diksi.com, Anda menyatakan telah menyetujui Syarat dan Ketentuan ini. Apabila Anda tidak menyetujui sebagian atau seluruh ketentuan, mohon untuk tidak menggunakan situs ini.
+Dengan mengunjungi, membaca, atau menggunakan layanan di Diksi24.com, Anda menyatakan telah menyetujui Syarat dan Ketentuan ini. Apabila Anda tidak menyetujui sebagian atau seluruh ketentuan, mohon untuk tidak menggunakan situs ini.
 
 **2. Penggunaan Situs**
 
