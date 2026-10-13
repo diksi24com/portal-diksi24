@@ -42,6 +42,6 @@ Sementara itu, Pratikno, yang kini menjabat Ketua Dewan Pertimbangan Presiden, m
 
 Penulis : Redaksi
 
-Editor    : -
+Editor    : -
 
-Sumber : ANTARA 
+Sumber : ANTARA
