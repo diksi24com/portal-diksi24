@@ -14,7 +14,7 @@ comments: true
 cover:
   image: /images/Screenshot_2026_1013_111731.jpg
 ---
-**Simeulue (Diksi24)** Serah terima jabatan (sertijab) menteri luar negeri telah resmi dilakukan antara Sugiono, yang kini menjadi Menteri Koordinator bidang Pemberdayaan Masyarakat dan Kebudayaan (Menko PMK), dengan penggantinya, Arrmanatha Nasir.
+**Simeulue (Diksi24)** - Serah terima jabatan (sertijab) menteri luar negeri telah resmi dilakukan antara Sugiono, yang kini menjadi Menteri Koordinator bidang Pemberdayaan Masyarakat dan Kebudayaan (Menko PMK), dengan penggantinya, Arrmanatha Nasir.
 
 Sertijab tersebut dilakukan melalui sebuah upacara yang dilangsungkan di Gedung Pancasila Kementerian Luar Negeri (Kemlu) RI Jakarta.
 
