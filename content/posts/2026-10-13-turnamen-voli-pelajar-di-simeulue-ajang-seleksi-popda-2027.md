@@ -10,6 +10,8 @@ categories:
   - "Olahraga "
 views: 0
 comments: true
+cover:
+  image: /images/Screenshot_2026_1012_191754.jpg
 ---
 **Simeulue (Diksi24)** - Pertandingan bola voli antar pelajar yang di gelar di Kabupaten Simeulue dilakukan sebagai ajang seleksi atlet muda berbakat yang akan mengikuti Pekan olahraga pelajar daerah (Popda) tahun 2027 mendatang.
 
