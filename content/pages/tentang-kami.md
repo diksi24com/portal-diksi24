@@ -44,13 +44,13 @@ Menjadi portal berita yang dipercaya publik, khususnya di wilayah Aceh dan Indon
 
 Kami senang mendengar dari Anda — baik itu saran, kritik, koreksi, maupun kiriman berita. Silakan sampaikan melalui halaman **Kontak** yang tersedia di situs ini.
 
-Terima kasih telah menjadikan Diksi.com sebagai bagian dari sumber informasi Anda.
+Terima kasih telah menjadikan Diksi24.com sebagai bagian dari sumber informasi Anda.
 
 Selamat Datang Diportal Diksi24.com
 
-CO:
+CEO:
 
-Muliana
+Muliana Habibie
 
 Pemimpin Redaksi/Penanggung Jawab:
 
