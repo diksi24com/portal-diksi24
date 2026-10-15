@@ -17,21 +17,19 @@ cover:
 
 Nama unik memek yang merupakan kuliner khas Simeulue, diambil dari bahasa setempat yang artinya mengunyah beras. 
 
-"Ini makanan khas Simeulue, warisan leluhur," kata Restika, penjaga kuliner Anjungan Simeulue di Taman Saifatuddin, Banda Aceh.
+"Ini makanan khas Simeulue, warisan leluhur," kata Restika, penjaga kuliner.
 
 Konon nenek moyang di Simeulue mengunyah beras ketan yang dicampur dengan pisang sehingga muncul istilah memek. 
 
 Restika menjelaskan, bahan yang digunakan dalam membuat memek antara lain beras ketan, pisang, santan, garam dan gula. Pisang ditumbuk kasar dan beras digongseng atau sangrai.
 
-Kuliner ini mengundang perhatian dari masyarakat yang mengunjungi Anjungan Simeulue di PKA Ke-8. "Karena namanya yang unik jadi mereka penasaran," ujarnya. 
+Salah seorang pengunjung, Azri, tampak terkesan dengan nama makanan tersebut dan pernah mencoba rasanya.
 
-Salah seorang pengunjung, Azri, tampak terkesan dengan nama makanan tersebut dan mencoba rasanya, 
+"Saya tidak menyangka rasanya unik ya ternyata enak juga," katanya.
 
-"Saya tidak menyangka rasanya unik ya ternyata enak juga," katanya
+Katanya, rasa memek dan mendapati tekstur yang unik dari makanan khas Simeulue tersebut. 
 
-Pengunjung lainnya, Wawan, juga mencoba rasa memek dan mendapati tekstur yang unik dari makanan khas Simeulue tersebut. "Pas dimakan teksturnya lembut-kasar gitu, enak kaya campuran bubur dan ada kriuknya gitu," ujarnya. 
-
-Bagi Anda yang penasaran dengan memek ini, tidak perlu jauh-jauh ke Simeulue karena cukup datang ke Anjungan di lokasi utama PKA Ke-8 di Taman Saifatuddin, Banda Aceh.  Seporsi memek dijual Rp10.000.***
+"Pas dimakan teksturnya lembut-kasar gitu, enak kaya campuran bubur dan ada kriuknya gitu," ujarnya.***
 
 Penulis  : Redaksi 
 
