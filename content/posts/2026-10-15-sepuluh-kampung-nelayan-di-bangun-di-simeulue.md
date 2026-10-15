@@ -21,6 +21,8 @@ Kepala DKP Simeulue, Supriman Juliansyah, mengatakan dana alokasi 10 unit pemban
 
 Dikatakan Supriman, pembangunan proyek tersebut tersebar di 10 desa, yakni Desa Lugu Sekbahak, Muara Aman, Sambay, di Kecamatan Teluk Dalam, kemudian Desa Langi, Kampung Aie, Kecamatan Simeulue Tengah, Desa Amaiting Mulia, Desa Linggi, Kecamatan Simeulue Timur, Desa Kahad, Kecamatan Teupah Tengah, Desa Nasrehe, Kecamatan Salang, Desa Latiung, Kecamatan Teupah Selatan, dan Desa Sigulai, Kecamatan Simeulue Barat.
 
+> [Baca](https://diksi24.com/posts/2026-10-15-sepuluh-kampung-nelayan-di-bangun-di-simeulue/):**Akar Bahar, Perhiasan Unik dari Simeulue Bernilai Tinggi**
+
 Supriman menjelaskan, nilai anggaran setiap unit bervariasi, mulai dari Rp4 miliar hingga Rp9,8 miliar. Untuk Simeulue ada dua unit dengan nilai anggaran terbesar berada di Desa Langi dan Desa Lugu Sebahak.
 
 "Sebagian pembangunnya saat ini sudah berjalan," kata Supriman.***
