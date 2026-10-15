@@ -13,7 +13,7 @@ comments: true
 cover:
   image: /images/Screenshot_2026_1015_230658.jpg
 ---
-Simeulue (Diksi24) - Makanan khas masyarakat Kabupaten Simeulue bernama memek. Makanan itu telah ada sejak nenek moyang warga kabupaten kepulauan terebut hingga saat ini masih terus di jaga baik itu cara pengolahannya maupun teksturnya.
+**Simeulue (Diksi24)** - Makanan khas masyarakat Kabupaten Simeulue bernama memek. Makanan itu telah ada sejak nenek moyang warga kabupaten kepulauan terebut hingga saat ini masih terus di jaga baik itu cara pengolahannya maupun teksturnya.
 
 Nama unik memek yang merupakan kuliner khas Simeulue, diambil dari bahasa setempat yang artinya mengunyah beras. 
 
