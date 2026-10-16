@@ -1,5 +1,6 @@
 ---
-title: "Antisipasi Dampak Asap Karhutlah, Bagikan Masker ke Masyarakat "
+title: "Antisipasi Dampak Asap Karhutlah, Dinkes Simeulue Bagikan Masker ke
+  Masyarakat "
 date: 2026-10-16
 draft: false
 description: '"Pembagian masker merupakan langkah preventif untuk melindungi
