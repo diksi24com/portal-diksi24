@@ -12,7 +12,7 @@ comments: true
 cover:
   image: /images/IMG-20261012-WA0084.jpg
 ---
-Jakarta (Diksi24) - Kementerian Agama (Kemenag) membuka pengajuan bantuan pembangunan dan rehabilitasi masjid serta mushalla tahun 2026 yang pendaftarannya berlangsung pada 12-25 Oktober 2026.
+**Jakarta (Diksi24)** - Kementerian Agama (Kemenag) membuka pengajuan bantuan pembangunan dan rehabilitasi masjid serta mushalla tahun 2026 yang pendaftarannya berlangsung pada 12-25 Oktober 2026.
 
 Melalui program ini, masjid dapat mengajukan bantuan sebesar Rp50 juta, sedangkan mushalla sebesar Rp35 juta. Pengajuan dilakukan dengan melengkapi persyaratan administrasi dan dokumen pendukung sesuai ketentuan.
 
