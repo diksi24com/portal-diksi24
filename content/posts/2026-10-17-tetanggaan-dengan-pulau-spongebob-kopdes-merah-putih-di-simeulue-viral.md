@@ -6,6 +6,7 @@ description: '"Dekat pulau yang viral karena bentuknya mengingatkan warganet
   pada dunia SpongeBob, berdiri Koperasi Desa Merah Putih."'
 categories:
   - Pojok Diksi
+  - Opini
 views: 0
 comments: true
 cover:
@@ -73,4 +74,4 @@ Penulis : Redaksi
 
 Editor   : -
 
-Sumber: Diksi24
+Sumber: Opini
