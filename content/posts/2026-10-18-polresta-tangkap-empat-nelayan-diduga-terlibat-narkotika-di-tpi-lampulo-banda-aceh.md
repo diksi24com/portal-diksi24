@@ -3,11 +3,10 @@ title: Polresta tangkap empat nelayan diduga terlibat narkotika di TPI Lampulo
   Banda Aceh
 date: 2026-10-18
 draft: false
-description: '*Satresnarkoba Polresta Banda Aceh menangkap empat nelayan yang
+description: '"Satresnarkoba Polresta Banda Aceh menangkap empat nelayan yang
   diduga menggunakan narkotika."'
 categories:
   - Hukum
-  - "Kesehatan "
 views: 0
 comments: true
 cover:
