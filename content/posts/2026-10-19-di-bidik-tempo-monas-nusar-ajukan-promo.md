@@ -1,5 +1,4 @@
 ---
----
 title: Di Bidik Tempo, Monas Nusar Ajukan Promo
 date: 2026-10-19
 draft: false
