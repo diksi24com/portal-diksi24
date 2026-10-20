@@ -6,7 +6,7 @@ description: "Ada sekitar 70-an dapur yang kita piloting untuk CCTV-nya kita
   tarik ke pusat, kita kasih artificial intelligence (AI) sehingga kita bisa
   memonitor standar operasional prosedur (SOP)."
 categories:
-  - "Nasional "
+  - "Nasional"
 views: 0
 comments: true
 cover:
