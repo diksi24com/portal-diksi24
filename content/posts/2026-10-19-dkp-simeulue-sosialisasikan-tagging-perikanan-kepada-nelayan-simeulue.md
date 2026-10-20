@@ -1,10 +1,8 @@
 ---
-title: DKP Simeulue Sosialisasikan Tagging Perikanan kepada Nelayan Simeulue
+title: DKP Simeulue Sosialisasi Tagging Perikanan kepada Nelayan Simeulue
 date: 2026-10-19
 draft: false
-description: '"Dinas Kelautan dan Perikanan (DKP) Kabupaten Simeulue terus
-  mendorong peningkatan pemahaman masyarakat pesisir terhadap tata kelola
-  perikanan yang baik dan berkelanjutan."'
+description: "Dinas Kelautan dan Perikanan (DKP) Kabupaten Simeulue terus mendorong peningkatan pemahaman masyarakat pesisir terhadap tata kelola perikanan yang baik dan berkelanjutan."
 categories:
   - Daerah
   - Ekonomi
@@ -14,6 +12,7 @@ comments: true
 cover:
   image: /images/FB_IMG_1792376926476.jpg
 ---
+
 **Simeulue (Diksi24)** - Dinas Kelautan dan Perikanan (DKP) Kabupaten Simeulue terus mendorong peningkatan pemahaman masyarakat pesisir terhadap tata kelola perikanan yang baik dan berkelanjutan. Salah satunya melalui kegiatan sosialisasi tagging perikanan yang digelar di Desa Labuhan Bakti, Kecamatan Teupah Selatan, Kabupaten Simeulue, Senin, 19/10/2026.
 
 Dalam kegiatan tersebut, Kepala Dinas Kelautan dan Perikanan Kabupaten Simeulue diwakili oleh Sekretaris Dinas, Roli Mindansya Putra, yang bertindak sebagai narasumber utama.
