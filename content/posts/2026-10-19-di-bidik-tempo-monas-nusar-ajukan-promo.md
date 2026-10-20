@@ -2,7 +2,7 @@
 title: Di Bidik Tempo, Monas Nusar Ajukan Promo
 date: 2026-10-19
 draft: false
-description: "Ketika sorotan media nasional datang, jurus promosi pun ikut dipersiapkan."
+description: '"Ketika sorotan media nasional datang, jurus promosi pun ikut dipersiapkan."'
 categories:
   - Pojok Diksi
   - Opini
@@ -11,7 +11,6 @@ comments: true
 cover:
   image: /images/Screenshot_20261013_231427.jpg
 ---
-
 **Simeulue (Diksi24)** - Ada yang mendadak rajin merapikan penampilan ketika kamera mulai mengarah. Ada pula yang sibuk menyusun kata-kata ketika sorotan media nasional mulai terasa. Maklum, dalam dunia politik, perhatian publik kadang terasa seperti lampu panggung: siapa pun ingin terlihat paling terang, meski belum tentu paling banyak bekerja.
 
 MONAS-NUSAR kini menjadi nama yang menarik untuk disimak di tengah sorotan terhadap dinamika politik Simeulue. Ketika Tempo disebut-sebut membidik isu yang berkaitan dengan daerah berjuluk Pulau Ate Fulawan itu, muncul pula cerita mengenai pengajuan promo.
