@@ -212,3 +212,4 @@ theme = 'PaperMod'
   disableSVG = false
   disableXML = false
   minifyOutput = true
+
