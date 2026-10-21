@@ -23,7 +23,7 @@ Sekretaris Daerah Simeulue, Asludin, mengatakan membernarkan kalau Desa Ameria B
 
 capaian ini kata Asludin, menjadi kebanggaan bagi Kabupaten Simeulue sekaligus momentum untuk memperkuat komitmen pemberantasan korupsi yang dimulai dari tingkat pemerintahan paling dekat dengan masyarakat.
 
-"Benar satu desa di Simeulue berhasil meraih penghargaan sebagai desa percontohan anti korupsi dari KPK RI, ini satu kebanggaan dari kita satu desa dari Simeulue bisa meraih penghargaan ini," kata Asludin, Kamis.
+"Benar satu desa di Simeulue berhasil meraih penghargaan sebagai desa percontohan anti korupsi dari KPK RI, ini satu kebanggaan dari kita satu desa dari Simeulue bisa meraih penghargaan ini," kata Asludin, Kamis,22/10/2026.
 
 Menurutnya, predikat percontohan desa antikorupsi harus menjadi motivasi untuk terus membangun tata kelola pemerintahan kampung yang transparan, akuntabel, dan bertanggung jawab.
 
