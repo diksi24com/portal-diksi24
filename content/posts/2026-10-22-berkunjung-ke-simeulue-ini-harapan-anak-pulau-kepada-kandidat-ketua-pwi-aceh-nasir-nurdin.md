@@ -12,7 +12,7 @@ categories:
 views: 0
 comments: true
 cover:
-  image: /images/IMG-20261021-WA0126.jpg
+  image: /images/Screenshot_2026_1020_223451.jpg
 ---
 **Simeulue (Diksi24)** - Ketua Persatuan Wartawan Indonesia (PWI) Aceh, Nasir Nurdin bersilaturahmi ke Kabupaten Simeulue, Selasa-Rabu, 20-21 Oktober 2026.
 
