@@ -2,8 +2,8 @@
 title: Warga Simeulue Dapat Bantuan Kursi Roda
 date: 2026-10-22
 draft: false
-description: '"Bantuan kursi roda dari wakil rakyat yang berasal dari Simeulue
-  tersebut berjumlah 10 unit yang diserahkan langsung olehnya."'
+description: 'Bantuan kursi roda dari wakil rakyat yang berasal dari Simeulue
+  tersebut berjumlah 10 unit yang diserahkan langsung olehnya.'
 categories:
   - Desa
   - "Daerah "
