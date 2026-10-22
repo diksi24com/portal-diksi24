@@ -3,9 +3,9 @@ title: Berkunjung ke Simeulue, Ini Harapan ‘Anak Pulau’ kepada Kandidat Ketu
   PWI Aceh Nasir Nurdin
 date: 2026-10-22
 draft: false
-description: '"Nasir yang merupakan bakal calon Ketua PWI Aceh yang akan maju
+description: 'Nasir yang merupakan bakal calon Ketua PWI Aceh yang akan maju
   pada Konferprov XIII pada 20-22 November 2026 menerima berbagai apresiasi atas
-  capaian organisasi selama hampir lima tahun terakhir."'
+  capaian organisasi selama hampir lima tahun terakhir.'
 categories:
   - Daerah
   - "Nasional "
