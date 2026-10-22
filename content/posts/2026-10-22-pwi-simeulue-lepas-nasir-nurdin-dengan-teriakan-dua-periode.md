@@ -11,7 +11,7 @@ categories:
 views: 0
 comments: true
 cover:
-  image: /images/IMG-20261022-WA0108.jpg
+  image: /images/Screenshot_2026_1022_220219.jpg
 ---
 **Simeulue (Diksi24)** - Kandidat Ketua PWI Aceh, Nasir Nurdin mengakhiri silaturahmi dua hari dengan pengurus dan anggota PWI Simeulue, Kamis, 22 Oktober 2026.
 
