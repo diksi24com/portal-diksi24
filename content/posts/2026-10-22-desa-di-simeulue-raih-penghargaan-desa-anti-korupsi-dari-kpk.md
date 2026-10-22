@@ -2,9 +2,9 @@
 title: Desa di Simeulue Raih Penghargaan Desa Anti Korupsi dari KPK
 date: 2026-10-22
 draft: false
-description: '"Simeulue berhasil meraih penghargaan sebagai percontohan desa
+description: 'Simeulue berhasil meraih penghargaan sebagai percontohan desa
   antikorupsi tahun 2026 dari Komisi Pemberantasan Korupsi (KPK) Republik
-  Indonesia."'
+  Indonesia.'
 categories:
   - "Nasional "
   - "Daerah "
