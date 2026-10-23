@@ -1,10 +1,8 @@
+<link rel="icon" href="/favicon.png" type="image/png">
+<link rel="shortcut icon" href="/favicon.png" type="image/png">
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3071004594756841" crossorigin="anonymous"></script>
 
-{{- $customCSS := resources.Get "css/extended/custom.css" -}}
-{{- if $customCSS -}}
-  {{- $customCSS = $customCSS | minify | fingerprint -}}
-  <link rel="stylesheet" href="{{ $customCSS.RelPermalink }}" integrity="{{ $customCSS.Data.Integrity }}">
-{{- end -}}
 {{- $customCSS := resources.Get "css/extended/custom.css" -}}
 {{- if $customCSS -}}
   {{- $customCSS = $customCSS | minify | fingerprint -}}
