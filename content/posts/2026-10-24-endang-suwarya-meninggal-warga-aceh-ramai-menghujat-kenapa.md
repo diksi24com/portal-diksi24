@@ -12,9 +12,7 @@ comments: true
 cover:
   image: /images/file_00000000c13482079264b197990426d1.png
 ---
-**Simeulue (Diksi24)** - Darurat Militer 2003, luka sejarah yang belum sepenuhnya hilang, dan warisan ingatan yang kembali mengemuka setelah mantan Pangdam Iskandar Muda itu berpulang.
-
-Kematian seseorang biasanya mengundang doa dan ucapan belasungkawa. Namun, ketika yang berpulang adalah sosok yang pernah berada di tengah pusaran konflik Aceh, suasananya bisa berbeda. Bagi sebagian orang, kepergian itu bukan hanya kabar duka, melainkan juga momentum untuk kembali mengingat sejarah.
+**Simeulue (Diksi24)** - Kematian seseorang biasanya mengundang doa dan ucapan belasungkawa. Namun, ketika yang berpulang adalah sosok yang pernah berada di tengah pusaran konflik Aceh, suasananya bisa berbeda. Bagi sebagian orang, kepergian itu bukan hanya kabar duka, melainkan juga momentum untuk kembali mengingat sejarah.
 
 Letjen TNI (Purn.) Endang Suwarya, mantan Pangdam Iskandar Muda sekaligus Penguasa Darurat Militer Daerah Aceh pada 2003, meninggal dunia. Kabar wafatnya diberitakan sejumlah media pada Oktober 2026. 
 
