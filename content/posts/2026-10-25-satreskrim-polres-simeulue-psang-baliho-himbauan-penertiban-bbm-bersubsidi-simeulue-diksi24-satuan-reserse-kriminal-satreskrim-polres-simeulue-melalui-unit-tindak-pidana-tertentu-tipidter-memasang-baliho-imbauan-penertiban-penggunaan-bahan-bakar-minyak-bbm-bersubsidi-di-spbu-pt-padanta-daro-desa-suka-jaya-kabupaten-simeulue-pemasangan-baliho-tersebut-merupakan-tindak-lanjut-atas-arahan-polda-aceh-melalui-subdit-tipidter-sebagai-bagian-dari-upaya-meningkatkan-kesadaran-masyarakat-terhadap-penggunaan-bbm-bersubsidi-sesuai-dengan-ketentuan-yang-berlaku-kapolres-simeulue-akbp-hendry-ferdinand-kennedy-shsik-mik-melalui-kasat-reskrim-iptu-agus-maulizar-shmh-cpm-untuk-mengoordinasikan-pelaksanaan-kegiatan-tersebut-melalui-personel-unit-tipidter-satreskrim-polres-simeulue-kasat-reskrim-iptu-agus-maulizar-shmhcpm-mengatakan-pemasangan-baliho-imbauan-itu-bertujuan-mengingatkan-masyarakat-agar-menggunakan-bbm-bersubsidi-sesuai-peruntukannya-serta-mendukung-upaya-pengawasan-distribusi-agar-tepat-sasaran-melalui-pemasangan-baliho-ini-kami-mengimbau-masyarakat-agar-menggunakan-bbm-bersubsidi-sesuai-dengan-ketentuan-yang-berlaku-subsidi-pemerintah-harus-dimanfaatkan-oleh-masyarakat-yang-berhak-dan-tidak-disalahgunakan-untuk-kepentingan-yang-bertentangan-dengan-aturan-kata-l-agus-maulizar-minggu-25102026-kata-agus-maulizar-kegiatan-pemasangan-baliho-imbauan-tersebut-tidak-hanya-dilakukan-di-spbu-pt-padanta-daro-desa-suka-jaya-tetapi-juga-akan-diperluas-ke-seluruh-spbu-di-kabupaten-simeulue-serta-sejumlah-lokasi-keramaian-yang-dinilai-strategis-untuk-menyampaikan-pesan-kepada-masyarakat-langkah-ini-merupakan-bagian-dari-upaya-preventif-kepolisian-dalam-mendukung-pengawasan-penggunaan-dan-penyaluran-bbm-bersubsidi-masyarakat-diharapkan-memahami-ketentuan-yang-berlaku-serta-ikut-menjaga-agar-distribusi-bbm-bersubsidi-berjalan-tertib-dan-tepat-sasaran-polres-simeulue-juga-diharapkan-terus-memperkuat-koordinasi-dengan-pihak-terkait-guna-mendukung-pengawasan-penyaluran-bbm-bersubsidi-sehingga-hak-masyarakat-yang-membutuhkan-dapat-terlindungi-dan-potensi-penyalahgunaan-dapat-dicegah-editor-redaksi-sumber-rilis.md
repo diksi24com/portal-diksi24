@@ -1,5 +1,5 @@
 ---
-title: "Satreskrim Polres Simeulue Psang Baliho Himbauan Penertiban BBM
+title: "Satreskrim Polres Simeulue Pasang Baliho Himbauan Penertiban BBM
   Bersubsidi   Simeulue (Diksi24) - Satuan Reserse Kriminal (Satreskrim) Polres
   Simeulue melalui Unit Tindak Pidana Tertentu (Tipidter) memasang baliho
   imbauan penertiban penggunaan bahan bakar minyak (BBM) bersubsidi di SPBU PT
