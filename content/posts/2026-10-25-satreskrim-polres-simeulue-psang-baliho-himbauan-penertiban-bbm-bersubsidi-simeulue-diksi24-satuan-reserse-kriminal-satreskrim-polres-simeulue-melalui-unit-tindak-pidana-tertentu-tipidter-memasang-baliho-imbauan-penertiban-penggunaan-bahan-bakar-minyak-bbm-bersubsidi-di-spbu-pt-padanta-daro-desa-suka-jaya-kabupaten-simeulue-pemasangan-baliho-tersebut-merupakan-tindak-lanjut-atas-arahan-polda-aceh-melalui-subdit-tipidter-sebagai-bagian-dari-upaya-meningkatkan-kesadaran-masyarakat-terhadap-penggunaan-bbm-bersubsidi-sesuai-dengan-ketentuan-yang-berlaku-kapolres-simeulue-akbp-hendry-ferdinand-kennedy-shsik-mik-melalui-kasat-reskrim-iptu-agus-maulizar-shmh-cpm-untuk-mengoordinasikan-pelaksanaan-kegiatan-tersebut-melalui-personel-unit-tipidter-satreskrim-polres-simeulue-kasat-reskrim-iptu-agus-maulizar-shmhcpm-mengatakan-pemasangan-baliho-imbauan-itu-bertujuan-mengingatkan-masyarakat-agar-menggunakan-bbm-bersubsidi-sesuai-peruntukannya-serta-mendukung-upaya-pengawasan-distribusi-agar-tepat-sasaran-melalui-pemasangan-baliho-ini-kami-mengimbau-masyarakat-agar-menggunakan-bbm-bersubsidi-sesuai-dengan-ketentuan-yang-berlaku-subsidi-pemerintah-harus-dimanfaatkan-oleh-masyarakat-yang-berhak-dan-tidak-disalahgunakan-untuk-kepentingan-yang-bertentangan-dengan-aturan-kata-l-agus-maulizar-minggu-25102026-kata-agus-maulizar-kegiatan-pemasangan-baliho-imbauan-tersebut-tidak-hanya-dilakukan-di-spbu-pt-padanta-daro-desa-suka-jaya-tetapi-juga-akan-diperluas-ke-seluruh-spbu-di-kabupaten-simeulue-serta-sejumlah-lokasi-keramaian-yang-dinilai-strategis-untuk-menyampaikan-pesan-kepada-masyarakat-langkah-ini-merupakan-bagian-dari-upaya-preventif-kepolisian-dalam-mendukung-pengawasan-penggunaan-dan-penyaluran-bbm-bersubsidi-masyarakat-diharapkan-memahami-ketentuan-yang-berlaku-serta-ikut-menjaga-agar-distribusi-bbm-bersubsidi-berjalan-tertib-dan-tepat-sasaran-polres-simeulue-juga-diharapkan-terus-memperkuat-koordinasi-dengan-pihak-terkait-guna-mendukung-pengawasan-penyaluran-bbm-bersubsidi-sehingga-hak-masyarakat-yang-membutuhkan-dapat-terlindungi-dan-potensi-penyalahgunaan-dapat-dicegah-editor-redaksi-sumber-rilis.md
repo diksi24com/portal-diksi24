@@ -1,6 +1,6 @@
 ---
 title: "Satreskrim Polres Simeulue Pasang Baliho Himbauan Penertiban BBM
-  Bersubsidi   Simeulue (Diksi24) - Satuan Reserse Kriminal (Satreskrim) Polres
+  Bersubsidi Simeulue (Diksi24) - Satuan Reserse Kriminal (Satreskrim) Polres
   Simeulue melalui Unit Tindak Pidana Tertentu (Tipidter) memasang baliho
   imbauan penertiban penggunaan bahan bakar minyak (BBM) bersubsidi di SPBU PT
   Padanta Daro Desa Suka Jaya, Kabupaten Simeulue.  Pemasangan baliho tersebut
@@ -37,10 +37,6 @@ description: Pemasangan baliho imbauan itu bertujuan mengingatkan masyarakat
 categories:
   - Hukum
   - "Daerah "
-tags:
-  - BBM Subsidi
-  - "Aceh "
-  - "Simeulue "
 views: 0
 comments: true
 cover:
