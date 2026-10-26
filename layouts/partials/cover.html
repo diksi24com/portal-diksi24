@@ -2,10 +2,19 @@
 {{- if not $image -}}
   {{- $image = resources.GetMatch (printf "%s" (.cxt.Params.cover.image)) -}}
 {{- end -}}
-{{- if $image -}}
-<img loading="lazy" src="{{ $image.RelPermalink }}" alt="{{ .cxt.Title }}" style="width:100% !important; height:auto !important; max-height:none !important; min-height:0 !important; object-fit:contain !important; object-position:center !important; aspect-ratio:auto !important; display:block !important; border-radius:8px !important; margin:0 auto 12px auto !important;" />
-{{- else -}}
-  {{- with .cxt.Params.cover.image -}}
-<img loading="lazy" src="{{ . | absURL }}" alt="{{ $.cxt.Title }}" style="width:100% !important; height:auto !important; max-height:none !important; min-height:0 !important; object-fit:contain !important; object-position:center !important; aspect-ratio:auto !important; display:block !important; border-radius:8px !important; margin:0 auto 12px auto !important;" />
+
+<figure style="margin:0 0 20px 0; padding:0;">
+  {{- if $image -}}
+  <img loading="lazy" src="{{ $image.RelPermalink }}" alt="{{ .cxt.Title }}" style="width:100% !important; height:auto !important; max-height:none !important; min-height:0 !important; object-fit:contain !important; object-position:center !important; aspect-ratio:auto !important; display:block !important; border-radius:8px !important; margin:0 auto !important;" />
+  {{- else -}}
+    {{- with .cxt.Params.cover.image -}}
+  <img loading="lazy" src="{{ . | absURL }}" alt="{{ $.cxt.Title }}" style="width:100% !important; height:auto !important; max-height:none !important; min-height:0 !important; object-fit:contain !important; object-position:center !important; aspect-ratio:auto !important; display:block !important; border-radius:8px !important; margin:0 auto !important;" />
+    {{- end -}}
   {{- end -}}
-{{- end -}}
+  
+  {{- with .cxt.Params.cover.caption -}}
+  <figcaption style="font-size:13px !important; color:#6b7280 !important; font-style:italic !important; margin-top:10px !important; text-align:center !important; line-height:1.5 !important; padding:0 10px !important;">
+    {{ . }}
+  </figcaption>
+  {{- end -}}
+</figure>
