@@ -16,7 +16,7 @@ views: 0
 comments: true
 cover:
   image: /images/IMG-20261023-WA0111.jpg
-  caption: Foto. Muhammad Saman, saat menyerahkan berkas kepada panitia Konferensi
+  caption: Muhammad Saman, saat menyerahkan berkas kepada panitia Konferensi
     Provinsi (Konferprov) XIII PWI Aceh. (Ist)
 ---
 **Simeulue (Diksi24)** - Bakal calon Ketua Persatuan Wartawan Indonesia (PWI) Aceh periode 2026–2031, Muhammad Saman, resmi mengembalikan berkas pendaftaran pencalonannya kepada Steering Committee (SC) Konferensi Provinsi (Konferprov) XIII PWI Aceh, Jum'at (23/10/2026) sore.
