@@ -8,7 +8,6 @@ categories:
   - "Daerah "
 tags:
   - Pemekaran
-  - ABAS
   - "Simeulue "
   - Aceh
 views: 0
