@@ -40,4 +40,4 @@ Kemudian satu unit rumah warga di Desa Geudong, Kecamatan Sungai Mas, Kabupaten 
 
 Editor : Redaksi 
 
-Sumber : Antara/DBS
+Sumber : ANTARA/DBS
