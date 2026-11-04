@@ -1,5 +1,5 @@
 ---
-title: "Polri: Tiga tersangka penyadapan presiden ilegal "
+title: "Polri: Tiga tersangka penyadapan ilegal presiden disampaikan"
 date: 2026-11-04
 draft: false
 description: Redaksi
@@ -38,9 +38,7 @@ Selain tiga tersangka, Asep menyebut bahwa terdapat satu orang yang masih diperi
 Atas perbuatannya, ketiga tersangka dijerat dengan pasal berlapis, yaitu:
 
 1. Pasal 258 UU No. 1 Tahun 2023 tentang KUHP Nasional, terkait tindakan melawan hukum yang mengancam keamanan dengan ancaman pidana maksimal 10 tahun penjara.
-
 2. Pasal 332 ayat 1 dan/atau ayat 2 UU No. 1 Tahun 2023 tentang KUHP, dengan ancaman pidana 6 tahun penjara.
-
 3. Pasal 32 ayat 1 UU Informasi dan Transaksi Elektronik (ITE), terkait tindakan sengaja tanpa hak mengubah, merusak, menghilangkan, memindahkan, dan menyembunyikan informasi elektronik milik orang lain, dengan ancaman pidana 8 tahun penjara.
 
 Untuk selanjutnya, para tersangka menjalani penahanan di Rutan Bareskrim Mabes Polri, Jakarta.***
