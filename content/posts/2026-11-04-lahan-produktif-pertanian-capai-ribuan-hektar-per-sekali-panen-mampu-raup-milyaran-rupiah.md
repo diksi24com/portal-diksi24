@@ -1,6 +1,6 @@
 ---
-title: Lahan produktif pertanian capai ribuan hektar, per sekali panen mampu
-  raup milyaran rupiah
+title: Lahan produktif pertanian di Simeulue capai ribuan hektar, per sekali
+  panen mampu raup milyaran rupiah
 date: 2026-11-04
 draft: false
 description: "Redaksi "
