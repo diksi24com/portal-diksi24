@@ -5,7 +5,7 @@ draft: false
 ---
 **Diksi24.com — Fakta dalam Setiap Kata**
 
-Diksi.com adalah portal berita digital yang hadir untuk menyajikan informasi secara jernih, berimbang, dan bertanggung jawab. Kami percaya bahwa berita yang baik bukan sekadar kabar yang cepat sampai, tetapi juga kabar yang dapat dipercaya dan dipahami dengan utuh.
+Diksi24.com adalah portal berita digital yang hadir untuk menyajikan informasi secara jernih, berimbang, dan bertanggung jawab. Kami percaya bahwa berita yang baik bukan sekadar kabar yang cepat sampai, tetapi juga kabar yang dapat dipercaya dan dipahami dengan utuh.
 
 **Siapa Kami**
 
@@ -58,7 +58,7 @@ Ai
 
 Redaktur Pelaksana: -
 
-Wartawan : -
+Wartawan : Hendri Saputra
 
 Penasehat Hukum:
 
