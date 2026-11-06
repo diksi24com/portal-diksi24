@@ -11,7 +11,7 @@ Silakan hubungi kami melalui salah satu kanal berikut:
 
 Kanal tercepat untuk menyampaikan informasi terkini, konfirmasi, atau pertanyaan singkat.
 
-📱 **[085359044824](https://wa.me/6285359044824)**
+📱 **[085129815558](https://wa.me/6285359044824)**
 
 **Email**
 
